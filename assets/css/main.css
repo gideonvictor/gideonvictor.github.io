@@ -1966,6 +1966,10 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		#main > .panel a{
+			color: #777
+		}
+
 			#main > .panel.inactive {
 				opacity: 0;
 			}
@@ -2143,9 +2147,19 @@ input, select, textarea {
 					#main > .panel.intro header p {
 						letter-spacing: -0.015em;
 						font-size: 1.25em;
+					}
+
+
+					#main > .panel.intro header bodytext {
+						letter-spacing: -0.055em;
+						font-size: .9em;
+						line-height: 50%;
 						margin: 0.25em 0 0 0;
 					}
 
+					#main > .panel.intro header bodytext a{
+						color: #777
+					}
 				@media screen and (max-width: 980px) {
 
 					#main > .panel.intro {
@@ -2182,7 +2196,6 @@ input, select, textarea {
 							font-size: 1em;
 							margin: 0.25em 0 0 0;
 						}
-
 				}
 
 /* Footer */
