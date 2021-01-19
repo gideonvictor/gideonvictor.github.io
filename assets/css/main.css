@@ -1533,7 +1533,7 @@ input, select, textarea {
 
 		header > p {
 			margin: 0.5em 0 0 0;
-			color: #aaa;
+			color: #555;
 		}
 
 		@media screen and (max-width: 736px) {
@@ -1631,7 +1631,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background-color: #888888;
+				background-color: #777777;
 			}
 
 			input[type="button"].alt:active,
@@ -1966,10 +1966,6 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		#main > .panel a{
-			color: #777
-		}
-
 			#main > .panel.inactive {
 				opacity: 0;
 			}
@@ -2026,6 +2022,24 @@ input, select, textarea {
 					}
 
 					#main > .panel.intro .pic img {
+						position: relative;
+						display: block;
+						position: absolute;
+						top: 0;
+						left: 0;
+						width: 100%;
+						height: 100%;
+						-moz-object-fit: cover;
+						-webkit-object-fit: cover;
+						-ms-object-fit: cover;
+						object-fit: cover;
+						-moz-object-position: center;
+						-webkit-object-position: center;
+						-ms-object-position: center;
+						object-position: center;
+					}
+
+					#main > .panel .pic img {
 						position: relative;
 						display: block;
 						position: absolute;
@@ -2143,10 +2157,13 @@ input, select, textarea {
 						line-height: 1.25em;
 						margin-bottom: 0;
 					}
-
+/*
 					#main > .panel.intro header p {
 						letter-spacing: -0.015em;
 						font-size: 1.25em;
+					} */
+					#main > .panel p a{
+						color: #555
 					}
 
 
@@ -2158,7 +2175,7 @@ input, select, textarea {
 					}
 
 					#main > .panel.intro header bodytext a{
-						color: #777
+						color: #555
 					}
 				@media screen and (max-width: 980px) {
 
