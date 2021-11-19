@@ -1,9 +1,11 @@
 <!-- Code from d3-graph-gallery.com -->
 <!DOCTYPE html>
 <meta charset="utf-8">
+  <!--//https://upload.wikimedia.org/wikipedia/commons/e/e6/NHL_Hockey_Rink.svg-->
 <style>
 svg {
   background: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Icehockeylayout.svg') no-repeat;
+
   width:100%;
 }
 </style>
@@ -21,9 +23,9 @@ svg {
 <script>
 
 // set the dimensions and margins of the graph
-var margin = {top: 10, right: 30, bottom: 30, left: 40},
-    width = 460 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
+var margin = {top: -40, right: 30, bottom: 60, left: 0},
+    width = 780 - margin.left - margin.right,
+    height = 448 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -35,22 +37,22 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 // read data
-d3.csv("https://gideonvictor.com/csv.csv", function(data) {
+d3.csv("https://gideonvictor.com/kings_0.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 200])
+    .domain([-100, 100])
     .range([ 0, width ]);
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x));
+    // .call(d3.axisBottom(x));
 
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([0, 100])
+    .domain([-50, 50])
     .range([ height, 0 ]);
-  svg.append("g")
-    .call(d3.axisLeft(y));
+  // svg.append("g")
+  //   .call(d3.axisLeft(y));
 
   // Reformat the data: d3.hexbin() needs a specific format
   var inputForHexbinFun = []
@@ -60,12 +62,12 @@ d3.csv("https://gideonvictor.com/csv.csv", function(data) {
 
   // Prepare a color palette
   var color = d3.scaleLinear()
-      .domain([0, 23]) // Number of points in the bin?
-      .range(["transparent",  "#69b3a2"])
+      .domain([-1, 15]) // Number of points in the bin?
+      .range(["Transparent",  "#8B0000"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
-    .radius(3.5) // size of the bin in px
+    .radius(12) // size of the bin in px
     .extent([ [0, 0], [width, height] ])
 
   // Plot the hexbins
@@ -84,6 +86,7 @@ d3.csv("https://gideonvictor.com/csv.csv", function(data) {
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
       .attr("fill", function(d) { return color(d.length); })
       .attr("stroke", "black")
-      .attr("stroke-width", "0.1")
+      .attr("stroke-width", "0")
 })
+
 </script>
