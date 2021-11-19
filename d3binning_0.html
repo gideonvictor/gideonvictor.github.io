@@ -1,7 +1,12 @@
 <!-- Code from d3-graph-gallery.com -->
 <!DOCTYPE html>
 <meta charset="utf-8">
-
+<style>
+svg {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Icehockeylayout.svg') no-repeat;
+  width:100%;
+}
+</style>
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
 
@@ -9,6 +14,7 @@
 <script src="https://d3js.org/d3-hexbin.v0.2.min.js"></script>
 
 <!-- Create a div where the graph will take place -->
+
 <div id="my_dataviz"></div>
 
 
@@ -29,7 +35,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 // read data
-d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/data_for_density2d.csv", function(data) {
+d3.csv("https://gideonvictor.com/csv.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
@@ -54,12 +60,12 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/da
 
   // Prepare a color palette
   var color = d3.scaleLinear()
-      .domain([0, 600]) // Number of points in the bin?
+      .domain([0, 23]) // Number of points in the bin?
       .range(["transparent",  "#69b3a2"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
-    .radius(2) // size of the bin in px
+    .radius(3.5) // size of the bin in px
     .extent([ [0, 0], [width, height] ])
 
   // Plot the hexbins
