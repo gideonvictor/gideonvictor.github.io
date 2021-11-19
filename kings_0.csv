@@ -1,0 +1,955 @@
+x,y,event
+-73.0,37.0,Shot
+-76.0,27.0,Shot
+-37.0,35.0,Shot
+58.0,15.0,Blocked Shot
+-38.0,21.0,Shot
+-36.0,34.0,Missed Shot
+-52.0,-35.0,Shot
+-38.0,20.0,Shot
+-80.0,7.0,Shot
+80.0,-4.0,Blocked Shot
+-83.0,4.0,Shot
+-82.0,-3.0,Shot
+-34.0,-27.0,Shot
+-71.0,16.0,Shot
+-75.0,16.0,Missed Shot
+-65.0,-6.0,Shot
+-69.0,-12.0,Missed Shot
+-53.0,-28.0,Shot
+-61.0,31.0,Shot
+-77.0,-7.0,Shot
+-73.0,-13.0,Shot
+-83.0,-7.0,Goal
+73.0,-18.0,Blocked Shot
+79.0,-5.0,Blocked Shot
+-40.0,18.0,Goal
+47.0,2.0,Shot
+-98.0,0.0,Shot
+75.0,-39.0,Shot
+-49.0,4.0,Blocked Shot
+75.0,-2.0,Goal
+-75.0,-1.0,Blocked Shot
+74.0,19.0,Shot
+37.0,26.0,Shot
+71.0,-21.0,Shot
+-68.0,1.0,Blocked Shot
+-82.0,7.0,Blocked Shot
+75.0,1.0,Shot
+67.0,-9.0,Goal
+41.0,28.0,Missed Shot
+56.0,-24.0,Missed Shot
+73.0,0.0,Shot
+38.0,-7.0,Missed Shot
+63.0,-20.0,Shot
+56.0,38.0,Shot
+78.0,2.0,Missed Shot
+68.0,15.0,Shot
+-44.0,-13.0,Missed Shot
+-47.0,31.0,Missed Shot
+-40.0,4.0,Goal
+72.0,9.0,Blocked Shot
+-81.0,34.0,Shot
+-81.0,4.0,Shot
+82.0,-10.0,Blocked Shot
+-62.0,-14.0,Missed Shot
+-39.0,-28.0,Missed Shot
+-23.0,40.0,Shot
+-72.0,33.0,Shot
+-74.0,-3.0,Shot
+-36.0,32.0,Shot
+-87.0,-22.0,Shot
+-58.0,-18.0,Missed Shot
+75.0,4.0,Blocked Shot
+-85.0,-28.0,Shot
+-74.0,10.0,Shot
+-81.0,4.0,Goal
+-59.0,-18.0,Shot
+-73.0,-12.0,Shot
+-37.0,-30.0,Shot
+-35.0,-8.0,Shot
+73.0,-15.0,Blocked Shot
+-50.0,-17.0,Missed Shot
+-36.0,37.0,Shot
+-70.0,6.0,Missed Shot
+-37.0,29.0,Missed Shot
+62.0,0.0,Blocked Shot
+-34.0,-25.0,Shot
+-50.0,36.0,Shot
+-80.0,4.0,Missed Shot
+-65.0,-16.0,Missed Shot
+77.0,3.0,Blocked Shot
+53.0,-16.0,Blocked Shot
+68.0,-2.0,Blocked Shot
+-80.0,7.0,Shot
+-37.0,-21.0,Shot
+-37.0,16.0,Shot
+-36.0,-33.0,Shot
+-77.0,-1.0,Missed Shot
+-79.0,33.0,Missed Shot
+-61.0,-18.0,Missed Shot
+-41.0,-21.0,Shot
+-79.0,-3.0,Shot
+-85.0,-7.0,Shot
+-60.0,14.0,Shot
+-57.0,24.0,Missed Shot
+-69.0,4.0,Shot
+72.0,16.0,Shot
+82.0,-35.0,Shot
+65.0,15.0,Shot
+77.0,-1.0,Shot
+52.0,-5.0,Missed Shot
+58.0,-22.0,Shot
+81.0,-3.0,Goal
+62.0,38.0,Missed Shot
+56.0,-8.0,Shot
+84.0,-3.0,Shot
+-68.0,0.0,Blocked Shot
+36.0,32.0,Shot
+33.0,29.0,Shot
+45.0,-34.0,Shot
+23.0,-27.0,Missed Shot
+-81.0,-4.0,Shot
+-76.0,-33.0,Shot
+-79.0,5.0,Missed Shot
+-78.0,21.0,Goal
+-33.0,7.0,Shot
+78.0,0.0,Blocked Shot
+-76.0,33.0,Missed Shot
+-85.0,25.0,Missed Shot
+-36.0,11.0,Missed Shot
+-74.0,-32.0,Shot
+-87.0,-14.0,Shot
+-77.0,4.0,Missed Shot
+-83.0,33.0,Shot
+-82.0,27.0,Shot
+-48.0,-37.0,Missed Shot
+-77.0,-21.0,Shot
+-38.0,5.0,Shot
+73.0,18.0,Blocked Shot
+-40.0,19.0,Shot
+78.0,-21.0,Blocked Shot
+75.0,-3.0,Blocked Shot
+-43.0,31.0,Missed Shot
+-68.0,32.0,Missed Shot
+-81.0,-26.0,Shot
+65.0,12.0,Blocked Shot
+-83.0,-17.0,Shot
+-44.0,13.0,Missed Shot
+59.0,12.0,Blocked Shot
+-79.0,-11.0,Shot
+77.0,-9.0,Blocked Shot
+53.0,-3.0,Blocked Shot
+64.0,15.0,Blocked Shot
+-75.0,6.0,Shot
+59.0,-9.0,Blocked Shot
+-64.0,19.0,Shot
+9.0,-20.0,Shot
+81.0,-8.0,Shot
+67.0,-23.0,Shot
+52.0,18.0,Goal
+86.0,29.0,Missed Shot
+79.0,-3.0,Missed Shot
+40.0,-25.0,Shot
+46.0,-36.0,Missed Shot
+46.0,-22.0,Shot
+59.0,11.0,Shot
+64.0,23.0,Shot
+80.0,27.0,Shot
+-71.0,-12.0,Blocked Shot
+-52.0,14.0,Blocked Shot
+67.0,-32.0,Shot
+61.0,4.0,Missed Shot
+72.0,-12.0,Blocked Shot
+-74.0,-17.0,Shot
+43.0,-23.0,Blocked Shot
+-74.0,-13.0,Shot
+75.0,1.0,Blocked Shot
+77.0,-13.0,Blocked Shot
+-82.0,-9.0,Shot
+-35.0,29.0,Missed Shot
+-38.0,-18.0,Shot
+61.0,24.0,Blocked Shot
+71.0,8.0,Blocked Shot
+-68.0,-23.0,Shot
+-40.0,4.0,Shot
+65.0,12.0,Blocked Shot
+-45.0,25.0,Shot
+-56.0,29.0,Shot
+-40.0,30.0,Shot
+-80.0,-9.0,Blocked Shot
+42.0,31.0,Shot
+-61.0,13.0,Blocked Shot
+-64.0,4.0,Blocked Shot
+76.0,31.0,Shot
+-75.0,-1.0,Blocked Shot
+80.0,28.0,Shot
+36.0,-18.0,Shot
+82.0,-31.0,Shot
+-71.0,-6.0,Blocked Shot
+58.0,-24.0,Missed Shot
+67.0,5.0,Missed Shot
+74.0,9.0,Shot
+-75.0,1.0,Blocked Shot
+66.0,19.0,Shot
+83.0,7.0,Shot
+46.0,11.0,Shot
+67.0,2.0,Shot
+40.0,-31.0,Shot
+84.0,-6.0,Missed Shot
+76.0,-31.0,Shot
+18.0,6.0,Shot
+85.0,-3.0,Goal
+-71.0,-6.0,Blocked Shot
+-57.0,-24.0,Shot
+-72.0,-18.0,Missed Shot
+16.0,22.0,Shot
+67.0,-14.0,Blocked Shot
+-37.0,25.0,Shot
+-80.0,-12.0,Shot
+-59.0,32.0,Missed Shot
+-53.0,-32.0,Shot
+69.0,-14.0,Blocked Shot
+-39.0,-28.0,Shot
+-44.0,6.0,Shot
+-70.0,1.0,Missed Shot
+-43.0,21.0,Shot
+-70.0,11.0,Shot
+-80.0,8.0,Shot
+-75.0,8.0,Shot
+-40.0,0.0,Shot
+-65.0,12.0,Shot
+-46.0,22.0,Shot
+-61.0,-30.0,Missed Shot
+-84.0,11.0,Shot
+-78.0,5.0,Missed Shot
+-75.0,3.0,Missed Shot
+-66.0,11.0,Goal
+-45.0,-35.0,Missed Shot
+-70.0,7.0,Shot
+77.0,-30.0,Shot
+82.0,-3.0,Shot
+17.0,28.0,Shot
+82.0,-18.0,Missed Shot
+-76.0,6.0,Blocked Shot
+-78.0,1.0,Blocked Shot
+-75.0,-17.0,Blocked Shot
+-78.0,-35.0,Shot
+-74.0,-16.0,Blocked Shot
+-71.0,-30.0,Shot
+-69.0,3.0,Blocked Shot
+-71.0,-1.0,Blocked Shot
+47.0,-30.0,Shot
+53.0,-26.0,Shot
+41.0,1.0,Shot
+68.0,30.0,Shot
+78.0,2.0,Shot
+84.0,-12.0,Missed Shot
+84.0,-7.0,Blocked Shot
+38.0,1.0,Missed Shot
+-78.0,7.0,Missed Shot
+-75.0,6.0,Missed Shot
+-80.0,-1.0,Shot
+-69.0,-20.0,Shot
+83.0,7.0,Blocked Shot
+76.0,-2.0,Blocked Shot
+-75.0,-17.0,Shot
+-69.0,-13.0,Shot
+-68.0,7.0,Missed Shot
+-62.0,2.0,Shot
+-74.0,2.0,Shot
+16.0,-32.0,Shot
+16.0,33.0,Shot
+-77.0,2.0,Shot
+-58.0,-31.0,Shot
+74.0,9.0,Blocked Shot
+67.0,3.0,Blocked Shot
+-39.0,-21.0,Shot
+-80.0,7.0,Shot
+70.0,5.0,Blocked Shot
+44.0,3.0,Blocked Shot
+-67.0,-17.0,Goal
+-72.0,18.0,Shot
+-57.0,32.0,Shot
+74.0,9.0,Blocked Shot
+76.0,3.0,Blocked Shot
+37.0,15.0,Blocked Shot
+-78.0,-11.0,Shot
+-74.0,-6.0,Missed Shot
+4.0,38.0,Shot
+35.0,31.0,Shot
+79.0,9.0,Shot
+60.0,-15.0,Missed Shot
+84.0,19.0,Missed Shot
+86.0,-17.0,Shot
+58.0,23.0,Shot
+86.0,-26.0,Missed Shot
+84.0,-14.0,Shot
+68.0,0.0,Missed Shot
+49.0,26.0,Shot
+72.0,-26.0,Shot
+76.0,1.0,Shot
+38.0,27.0,Missed Shot
+-75.0,7.0,Blocked Shot
+-42.0,24.0,Shot
+44.0,14.0,Shot
+-73.0,-2.0,Blocked Shot
+-56.0,24.0,Blocked Shot
+80.0,11.0,Shot
+-68.0,8.0,Blocked Shot
+59.0,8.0,Shot
+40.0,-1.0,Missed Shot
+49.0,-24.0,Missed Shot
+-70.0,6.0,Blocked Shot
+-79.0,-9.0,Goal
+-67.0,-13.0,Missed Shot
+-76.0,12.0,Shot
+-70.0,8.0,Missed Shot
+-64.0,3.0,Shot
+-83.0,-7.0,Goal
+-77.0,-14.0,Shot
+-36.0,-22.0,Shot
+-72.0,-1.0,Shot
+52.0,28.0,Blocked Shot
+-40.0,27.0,Missed Shot
+-77.0,2.0,Shot
+-50.0,-25.0,Missed Shot
+-73.0,-11.0,Shot
+-79.0,-7.0,Shot
+-63.0,-25.0,Shot
+-67.0,-24.0,Shot
+-72.0,-26.0,Shot
+-68.0,-21.0,Shot
+-68.0,13.0,Missed Shot
+-72.0,-23.0,Shot
+-52.0,18.0,Shot
+77.0,9.0,Blocked Shot
+-44.0,4.0,Shot
+43.0,22.0,Missed Shot
+87.0,6.0,Shot
+57.0,11.0,Shot
+-65.0,15.0,Blocked Shot
+69.0,-29.0,Shot
+78.0,-9.0,Shot
+81.0,-6.0,Shot
+69.0,-4.0,Missed Shot
+42.0,19.0,Shot
+78.0,1.0,Shot
+61.0,-1.0,Shot
+61.0,17.0,Shot
+74.0,3.0,Missed Shot
+52.0,18.0,Missed Shot
+41.0,-24.0,Shot
+-63.0,8.0,Blocked Shot
+-72.0,-1.0,Blocked Shot
+-74.0,5.0,Blocked Shot
+-71.0,0.0,Blocked Shot
+-74.0,3.0,Blocked Shot
+69.0,20.0,Shot
+51.0,-13.0,Shot
+-65.0,-1.0,Blocked Shot
+68.0,7.0,Blocked Shot
+-73.0,11.0,Shot
+76.0,-7.0,Blocked Shot
+-39.0,24.0,Missed Shot
+-75.0,1.0,Shot
+-54.0,-28.0,Shot
+-77.0,5.0,Shot
+-59.0,33.0,Shot
+-75.0,-19.0,Shot
+-51.0,-29.0,Shot
+-41.0,0.0,Shot
+-42.0,24.0,Missed Shot
+-54.0,0.0,Shot
+66.0,-1.0,Blocked Shot
+-69.0,19.0,Shot
+-79.0,-9.0,Shot
+-39.0,26.0,Shot
+-65.0,5.0,Shot
+75.0,8.0,Blocked Shot
+-64.0,-28.0,Missed Shot
+72.0,5.0,Blocked Shot
+-87.0,-9.0,Shot
+-45.0,29.0,Shot
+-72.0,13.0,Missed Shot
+83.0,15.0,Blocked Shot
+81.0,4.0,Blocked Shot
+76.0,-1.0,Blocked Shot
+-76.0,-35.0,Shot
+-76.0,-19.0,Shot
+-33.0,40.0,Blocked Shot
+84.0,-8.0,Blocked Shot
+-52.0,37.0,Shot
+-62.0,-16.0,Shot
+-39.0,-25.0,Shot
+-56.0,-34.0,Shot
+-82.0,-3.0,Goal
+-62.0,-35.0,Missed Shot
+46.0,30.0,Blocked Shot
+77.0,0.0,Blocked Shot
+-74.0,5.0,Blocked Shot
+51.0,21.0,Shot
+86.0,9.0,Shot
+80.0,4.0,Shot
+35.0,35.0,Shot
+63.0,8.0,Goal
+-61.0,4.0,Blocked Shot
+33.0,-3.0,Shot
+65.0,-11.0,Shot
+80.0,-29.0,Shot
+78.0,-1.0,Shot
+74.0,1.0,Missed Shot
+81.0,6.0,Shot
+67.0,12.0,Shot
+64.0,-29.0,Shot
+40.0,7.0,Shot
+-76.0,-2.0,Blocked Shot
+81.0,-1.0,Shot
+85.0,-4.0,Shot
+56.0,-35.0,Shot
+-78.0,8.0,Shot
+-63.0,-15.0,Missed Shot
+-48.0,-35.0,Shot
+-37.0,-18.0,Shot
+-80.0,-4.0,Shot
+-77.0,12.0,Missed Shot
+81.0,7.0,Blocked Shot
+-41.0,-32.0,Shot
+-76.0,-36.0,Missed Shot
+-33.0,31.0,Shot
+-58.0,-13.0,Missed Shot
+-42.0,0.0,Shot
+-54.0,20.0,Shot
+-53.0,12.0,Shot
+-59.0,23.0,Missed Shot
+-60.0,-19.0,Shot
+32.0,26.0,Shot
+67.0,0.0,Blocked Shot
+-67.0,13.0,Missed Shot
+62.0,-15.0,Blocked Shot
+70.0,-1.0,Blocked Shot
+-69.0,-36.0,Missed Shot
+-67.0,20.0,Shot
+-68.0,-1.0,Shot
+80.0,-3.0,Blocked Shot
+-65.0,-5.0,Shot
+-67.0,-16.0,Shot
+-70.0,-20.0,Missed Shot
+-63.0,11.0,Shot
+-37.0,33.0,Shot
+-33.0,13.0,Shot
+-73.0,-29.0,Shot
+59.0,0.0,Shot
+82.0,28.0,Missed Shot
+64.0,-16.0,Goal
+80.0,17.0,Shot
+75.0,3.0,Missed Shot
+70.0,-8.0,Shot
+83.0,-7.0,Shot
+57.0,-32.0,Shot
+44.0,-32.0,Shot
+-77.0,0.0,Blocked Shot
+57.0,-3.0,Shot
+75.0,1.0,Shot
+69.0,21.0,Goal
+80.0,3.0,Shot
+80.0,0.0,Missed Shot
+46.0,11.0,Shot
+-51.0,-18.0,Blocked Shot
+58.0,37.0,Shot
+80.0,-8.0,Shot
+-81.0,-6.0,Blocked Shot
+87.0,35.0,Shot
+-67.0,16.0,Goal
+-74.0,7.0,Missed Shot
+-75.0,21.0,Shot
+-47.0,-9.0,Missed Shot
+82.0,7.0,Blocked Shot
+-38.0,29.0,Shot
+-87.0,5.0,Goal
+-61.0,-11.0,Shot
+-69.0,-27.0,Missed Shot
+76.0,-1.0,Blocked Shot
+81.0,1.0,Blocked Shot
+-62.0,-9.0,Shot
+-82.0,8.0,Shot
+-77.0,17.0,Missed Shot
+-84.0,-6.0,Shot
+-40.0,28.0,Shot
+-81.0,4.0,Shot
+-81.0,-6.0,Goal
+78.0,3.0,Blocked Shot
+54.0,-14.0,Blocked Shot
+-42.0,-22.0,Shot
+70.0,-16.0,Blocked Shot
+-76.0,-9.0,Shot
+-37.0,-31.0,Shot
+-80.0,15.0,Missed Shot
+-89.0,11.0,Missed Shot
+-72.0,-22.0,Shot
+-66.0,-35.0,Shot
+-74.0,11.0,Shot
+-52.0,-29.0,Missed Shot
+-67.0,6.0,Missed Shot
+-41.0,-15.0,Missed Shot
+69.0,-3.0,Blocked Shot
+-72.0,-21.0,Shot
+-51.0,-28.0,Shot
+-83.0,-5.0,Shot
+66.0,-16.0,Blocked Shot
+58.0,25.0,Shot
+-71.0,16.0,Blocked Shot
+71.0,-5.0,Shot
+82.0,-2.0,Shot
+55.0,18.0,Shot
+79.0,-2.0,Missed Shot
+80.0,-6.0,Missed Shot
+68.0,-37.0,Shot
+36.0,33.0,Shot
+-53.0,-16.0,Blocked Shot
+80.0,-2.0,Missed Shot
+-71.0,1.0,Blocked Shot
+80.0,-2.0,Shot
+81.0,3.0,Goal
+76.0,0.0,Shot
+33.0,-4.0,Shot
+72.0,-14.0,Shot
+-59.0,-21.0,Blocked Shot
+-72.0,15.0,Blocked Shot
+68.0,-2.0,Shot
+-53.0,20.0,Blocked Shot
+52.0,-1.0,Shot
+43.0,16.0,Missed Shot
+49.0,35.0,Shot
+-60.0,-18.0,Shot
+-39.0,25.0,Missed Shot
+-79.0,-2.0,Shot
+-62.0,-15.0,Goal
+-63.0,-17.0,Missed Shot
+-36.0,-9.0,Missed Shot
+-74.0,-12.0,Shot
+-80.0,-2.0,Shot
+-75.0,36.0,Shot
+-71.0,29.0,Shot
+-80.0,3.0,Goal
+-51.0,-36.0,Missed Shot
+-40.0,-16.0,Shot
+-81.0,1.0,Shot
+-81.0,2.0,Shot
+-74.0,6.0,Missed Shot
+-86.0,-11.0,Missed Shot
+-83.0,-18.0,Missed Shot
+-61.0,8.0,Shot
+-61.0,1.0,Shot
+-38.0,-36.0,Shot
+-36.0,-35.0,Missed Shot
+65.0,6.0,Blocked Shot
+-65.0,1.0,Shot
+-58.0,-20.0,Shot
+-59.0,35.0,Missed Shot
+47.0,-3.0,Blocked Shot
+76.0,-8.0,Blocked Shot
+-58.0,-20.0,Shot
+-67.0,7.0,Missed Shot
+78.0,-5.0,Blocked Shot
+20.0,-35.0,Shot
+-37.0,-18.0,Missed Shot
+-60.0,38.0,Shot
+67.0,1.0,Shot
+80.0,-15.0,Shot
+58.0,10.0,Shot
+36.0,29.0,Shot
+-74.0,3.0,Blocked Shot
+74.0,-20.0,Shot
+-73.0,-2.0,Blocked Shot
+46.0,29.0,Shot
+83.0,-30.0,Shot
+42.0,-19.0,Missed Shot
+-77.0,-2.0,Blocked Shot
+-71.0,3.0,Blocked Shot
+35.0,26.0,Shot
+75.0,2.0,Shot
+80.0,-2.0,Shot
+82.0,30.0,Missed Shot
+-36.0,-4.0,Shot
+-68.0,0.0,Shot
+-72.0,-4.0,Shot
+-85.0,-10.0,Shot
+-60.0,7.0,Missed Shot
+-62.0,-6.0,Goal
+-51.0,-16.0,Missed Shot
+-82.0,37.0,Shot
+-63.0,8.0,Missed Shot
+-78.0,-1.0,Missed Shot
+73.0,0.0,Blocked Shot
+-58.0,-19.0,Missed Shot
+-61.0,-18.0,Shot
+-85.0,-11.0,Shot
+-79.0,1.0,Goal
+-50.0,-28.0,Shot
+85.0,-7.0,Blocked Shot
+-40.0,29.0,Missed Shot
+-38.0,17.0,Shot
+-28.0,-31.0,Missed Shot
+73.0,6.0,Blocked Shot
+74.0,-9.0,Missed Shot
+59.0,13.0,Shot
+47.0,30.0,Shot
+77.0,-3.0,Shot
+68.0,-19.0,Shot
+68.0,-7.0,Shot
+67.0,5.0,Shot
+70.0,-12.0,Shot
+67.0,-10.0,Shot
+-76.0,1.0,Goal
+-79.0,5.0,Missed Shot
+-77.0,0.0,Goal
+-71.0,3.0,Goal
+-64.0,-37.0,Shot
+-84.0,33.0,Shot
+68.0,-7.0,Blocked Shot
+-63.0,23.0,Missed Shot
+-72.0,15.0,Shot
+69.0,8.0,Blocked Shot
+69.0,2.0,Blocked Shot
+-35.0,18.0,Missed Shot
+65.0,-1.0,Blocked Shot
+-74.0,10.0,Shot
+-69.0,-30.0,Missed Shot
+-36.0,32.0,Shot
+-63.0,-26.0,Shot
+77.0,-4.0,Blocked Shot
+74.0,11.0,Blocked Shot
+-80.0,5.0,Shot
+-64.0,-10.0,Shot
+-68.0,-1.0,Shot
+-50.0,-27.0,Blocked Shot
+36.0,34.0,Shot
+40.0,6.0,Shot
+-75.0,3.0,Blocked Shot
+57.0,-30.0,Shot
+75.0,-22.0,Shot
+76.0,-19.0,Missed Shot
+39.0,-20.0,Shot
+-78.0,0.0,Blocked Shot
+-77.0,2.0,Blocked Shot
+-68.0,8.0,Blocked Shot
+79.0,-1.0,Shot
+-57.0,-14.0,Blocked Shot
+65.0,-4.0,Shot
+81.0,-13.0,Missed Shot
+-61.0,-32.0,Blocked Shot
+82.0,-5.0,Goal
+-77.0,-3.0,Shot
+-35.0,-29.0,Shot
+65.0,-3.0,Blocked Shot
+-47.0,-3.0,Shot
+-37.0,-30.0,Shot
+-62.0,37.0,Missed Shot
+63.0,0.0,Blocked Shot
+-48.0,-30.0,Missed Shot
+59.0,3.0,Blocked Shot
+-81.0,11.0,Shot
+-76.0,-16.0,Missed Shot
+-49.0,-16.0,Shot
+-74.0,-23.0,Missed Shot
+-86.0,10.0,Shot
+-73.0,39.0,Shot
+-44.0,33.0,Missed Shot
+-87.0,-9.0,Shot
+-55.0,-18.0,Goal
+39.0,-17.0,Blocked Shot
+76.0,-4.0,Shot
+77.0,-1.0,Goal
+68.0,-23.0,Shot
+56.0,-12.0,Shot
+-70.0,-9.0,Blocked Shot
+67.0,22.0,Missed Shot
+-75.0,11.0,Blocked Shot
+33.0,20.0,Missed Shot
+48.0,38.0,Shot
+65.0,5.0,Shot
+66.0,-33.0,Shot
+67.0,-2.0,Missed Shot
+68.0,22.0,Shot
+59.0,25.0,Shot
+80.0,-7.0,Missed Shot
+34.0,20.0,Shot
+32.0,14.0,Missed Shot
+77.0,-3.0,Goal
+-64.0,-1.0,Blocked Shot
+-69.0,21.0,Blocked Shot
+-83.0,6.0,Blocked Shot
+76.0,-3.0,Goal
+50.0,24.0,Shot
+48.0,-13.0,Missed Shot
+76.0,-3.0,Missed Shot
+66.0,21.0,Shot
+-37.0,13.0,Missed Shot
+-57.0,6.0,Shot
+-88.0,-26.0,Shot
+-55.0,25.0,Missed Shot
+-58.0,-24.0,Shot
+-87.0,8.0,Shot
+-42.0,-27.0,Missed Shot
+-67.0,-35.0,Shot
+-35.0,27.0,Shot
+72.0,-1.0,Blocked Shot
+54.0,-13.0,Blocked Shot
+69.0,1.0,Blocked Shot
+67.0,0.0,Blocked Shot
+-78.0,6.0,Shot
+-81.0,6.0,Goal
+75.0,1.0,Blocked Shot
+71.0,0.0,Blocked Shot
+77.0,0.0,Blocked Shot
+74.0,5.0,Blocked Shot
+52.0,-1.0,Blocked Shot
+48.0,5.0,Blocked Shot
+-74.0,-3.0,Missed Shot
+68.0,-23.0,Shot
+-61.0,21.0,Blocked Shot
+68.0,22.0,Shot
+63.0,36.0,Missed Shot
+-64.0,-1.0,Blocked Shot
+-97.0,23.0,Shot
+-61.0,15.0,Blocked Shot
+-84.0,7.0,Blocked Shot
+63.0,20.0,Shot
+-81.0,-5.0,Blocked Shot
+-70.0,-10.0,Blocked Shot
+89.0,11.0,Missed Shot
+78.0,1.0,Shot
+80.0,1.0,Goal
+-78.0,2.0,Blocked Shot
+62.0,0.0,Goal
+56.0,17.0,Shot
+36.0,30.0,Shot
+-83.0,-10.0,Blocked Shot
+-74.0,-1.0,Blocked Shot
+82.0,14.0,Shot
+34.0,-27.0,Shot
+67.0,7.0,Shot
+63.0,7.0,Shot
+62.0,-29.0,Shot
+88.0,14.0,Shot
+71.0,-2.0,Missed Shot
+-73.0,-8.0,Blocked Shot
+-71.0,-4.0,Blocked Shot
+-75.0,-1.0,Blocked Shot
+85.0,-8.0,Shot
+32.0,-13.0,Missed Shot
+-83.0,-10.0,Blocked Shot
+-51.0,25.0,Blocked Shot
+-79.0,2.0,Blocked Shot
+61.0,22.0,Shot
+32.0,28.0,Missed Shot
+-70.0,-5.0,Blocked Shot
+-76.0,9.0,Blocked Shot
+-85.0,15.0,Missed Shot
+-34.0,38.0,Shot
+-65.0,4.0,Missed Shot
+-62.0,-21.0,Shot
+-70.0,-24.0,Goal
+-54.0,28.0,Shot
+82.0,-17.0,Blocked Shot
+60.0,-13.0,Blocked Shot
+-82.0,-35.0,Shot
+-56.0,-37.0,Missed Shot
+-77.0,32.0,Shot
+-57.0,4.0,Shot
+-66.0,23.0,Shot
+-68.0,-9.0,Shot
+-81.0,12.0,Missed Shot
+-87.0,-14.0,Shot
+-83.0,6.0,Shot
+-82.0,1.0,Shot
+-82.0,5.0,Missed Shot
+68.0,0.0,Blocked Shot
+-81.0,13.0,Missed Shot
+-77.0,1.0,Missed Shot
+-49.0,22.0,Shot
+-80.0,2.0,Shot
+-54.0,38.0,Shot
+-81.0,-10.0,Missed Shot
+-37.0,2.0,Shot
+-65.0,22.0,Shot
+70.0,27.0,Goal
+-62.0,-10.0,Blocked Shot
+67.0,-29.0,Shot
+54.0,36.0,Missed Shot
+72.0,2.0,Shot
+62.0,35.0,Shot
+52.0,40.0,Shot
+55.0,-26.0,Shot
+-73.0,7.0,Blocked Shot
+-52.0,27.0,Blocked Shot
+-51.0,4.0,Blocked Shot
+-62.0,20.0,Blocked Shot
+1.0,2.0,Shot
+-77.0,3.0,Blocked Shot
+-83.0,-11.0,Blocked Shot
+-76.0,11.0,Blocked Shot
+-77.0,-6.0,Blocked Shot
+76.0,-9.0,Blocked Shot
+-81.0,-1.0,Shot
+77.0,0.0,Blocked Shot
+-78.0,1.0,Goal
+-74.0,-30.0,Shot
+-89.0,-15.0,Shot
+-21.0,23.0,Shot
+-33.0,-30.0,Shot
+-82.0,18.0,Shot
+75.0,-15.0,Blocked Shot
+78.0,6.0,Blocked Shot
+70.0,-17.0,Blocked Shot
+-46.0,-31.0,Shot
+-65.0,-18.0,Shot
+-71.0,32.0,Shot
+-33.0,14.0,Missed Shot
+-75.0,-20.0,Shot
+-44.0,7.0,Shot
+-79.0,14.0,Missed Shot
+-88.0,-35.0,Shot
+40.0,20.0,Missed Shot
+60.0,38.0,Shot
+37.0,-9.0,Shot
+82.0,-3.0,Shot
+54.0,-7.0,Shot
+86.0,8.0,Shot
+36.0,-16.0,Shot
+36.0,29.0,Shot
+-75.0,0.0,Blocked Shot
+63.0,-25.0,Shot
+77.0,7.0,Shot
+82.0,9.0,Shot
+66.0,-1.0,Shot
+56.0,-1.0,Shot
+57.0,11.0,Shot
+58.0,25.0,Shot
+80.0,1.0,Shot
+68.0,-29.0,Goal
+52.0,3.0,Shot
+-70.0,28.0,Missed Shot
+74.0,7.0,Blocked Shot
+80.0,-4.0,Blocked Shot
+77.0,-12.0,Blocked Shot
+-69.0,-10.0,Shot
+-77.0,12.0,Shot
+-42.0,32.0,Shot
+-82.0,-6.0,Shot
+-86.0,-7.0,Shot
+-53.0,1.0,Shot
+65.0,12.0,Blocked Shot
+-6.0,18.0,Shot
+74.0,-10.0,Blocked Shot
+-60.0,-13.0,Goal
+58.0,1.0,Blocked Shot
+78.0,-1.0,Blocked Shot
+74.0,-14.0,Shot
+54.0,1.0,Shot
+69.0,-24.0,Goal
+48.0,4.0,Shot
+54.0,0.0,Shot
+-70.0,2.0,Blocked Shot
+44.0,20.0,Missed Shot
+52.0,-17.0,Shot
+83.0,14.0,Shot
+75.0,3.0,Missed Shot
+69.0,-1.0,Shot
+47.0,-1.0,Missed Shot
+81.0,27.0,Shot
+-69.0,-1.0,Shot
+45.0,-1.0,Shot
+63.0,-1.0,Shot
+38.0,-30.0,Shot
+56.0,7.0,Missed Shot
+61.0,6.0,Missed Shot
+78.0,-7.0,Shot
+75.0,15.0,Blocked Shot
+73.0,-12.0,Blocked Shot
+44.0,31.0,Blocked Shot
+70.0,-2.0,Blocked Shot
+78.0,11.0,Blocked Shot
+76.0,10.0,Blocked Shot
+-52.0,-3.0,Shot
+-20.0,2.0,Shot
+-57.0,16.0,Shot
+-65.0,24.0,Shot
+-58.0,-31.0,Shot
+-63.0,-29.0,Shot
+-40.0,14.0,Missed Shot
+4.0,27.0,Shot
+-61.0,10.0,Shot
+-78.0,-2.0,Goal
+47.0,-28.0,Blocked Shot
+-59.0,11.0,Shot
+-61.0,26.0,Missed Shot
+81.0,9.0,Missed Shot
+-68.0,4.0,Blocked Shot
+-75.0,4.0,Blocked Shot
+53.0,-27.0,Shot
+34.0,-18.0,Shot
+-64.0,-15.0,Blocked Shot
+75.0,22.0,Missed Shot
+76.0,-1.0,Missed Shot
+80.0,4.0,Shot
+72.0,-2.0,Missed Shot
+61.0,23.0,Shot
+-69.0,-22.0,Shot
+-67.0,39.0,Shot
+51.0,-6.0,Blocked Shot
+-64.0,38.0,Shot
+-82.0,6.0,Missed Shot
+-48.0,2.0,Missed Shot
+-51.0,-10.0,Shot
+-58.0,21.0,Shot
+60.0,18.0,Blocked Shot
+-57.0,-12.0,Shot
+-31.0,31.0,Shot
+-50.0,-31.0,Shot
+-37.0,22.0,Shot
+-90.0,10.0,Shot
+-37.0,18.0,Shot
+-51.0,-19.0,Shot
+-80.0,-4.0,Shot
+57.0,-17.0,Blocked Shot
+76.0,-11.0,Blocked Shot
+-72.0,-36.0,Missed Shot
+-38.0,0.0,Shot
+19.0,-2.0,Shot
+74.0,-20.0,Missed Shot
+-76.0,5.0,Blocked Shot
+81.0,-11.0,Shot
+39.0,-27.0,Missed Shot
+-86.0,-13.0,Blocked Shot
+-69.0,4.0,Blocked Shot
+-81.0,2.0,Blocked Shot
+38.0,-20.0,Shot
+81.0,-5.0,Shot
+35.0,-27.0,Shot
+82.0,-6.0,Shot
+61.0,-7.0,Shot
+83.0,14.0,Shot
+-90.0,-31.0,Shot
+77.0,-17.0,Blocked Shot
+-73.0,-2.0,Missed Shot
+-79.0,-8.0,Shot
+-81.0,5.0,Shot
+-83.0,7.0,Shot
+88.0,-2.0,Blocked Shot
+55.0,23.0,Blocked Shot
+-48.0,-35.0,Missed Shot
+-86.0,-10.0,Shot
+-55.0,-9.0,Missed Shot
+-58.0,-8.0,Shot
+-81.0,32.0,Shot
+-48.0,-31.0,Shot
+-61.0,-29.0,Shot
+80.0,-11.0,Blocked Shot
+-42.0,-30.0,Shot
+60.0,6.0,Blocked Shot
+-32.0,1.0,Shot
+-77.0,2.0,Shot
+-39.0,23.0,Shot
+-77.0,-19.0,Missed Shot
