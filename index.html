@@ -3,9 +3,9 @@
 	<head>
 		<!-- Load d3.js -->
 		<script src="https://d3js.org/d3.v4.js"></script>
-
 		<!-- specific plugin -->
 		<script src="https://d3js.org/d3-hexbin.v0.2.min.js"></script>
+		
 		<title>Gideon Victor</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -16,7 +16,7 @@
 						<a href="#" class="icon solid fa-home"><span>Home</span></a>
 						<a href="#work" class="icon brands fa-github"><span>GitHub</span></a>
 						<a href="#LinkedIn" class="icon brands fa-linkedin"><span>LinkedIn</span></a>
-						<a href="#Contact" class="fas fa-inbox"><span>Contact</span></a>
+						<a href="#Contact" class="icon fa-inbox"><span>Contact</span></a>
 						<a href="#Display" class="icon fa-image"><span>Display</span></a>
 					</nav>
 					<div id="main">
@@ -85,123 +85,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<script>
-			// set the dimensions and margins of the graph
-			var margin = {top: -40, right: 30, bottom: 60, left: 0},
-			    width = 780 - margin.left - margin.right,
-			    height = 448 - margin.top - margin.bottom;
-			// append the svg object to the body of the page
-			var svg = d3.select("#my_dataviz")
-			  .append("svg")
-			    .attr("width", width + margin.left + margin.right)
-			    .attr("height", height + margin.top + margin.bottom)
-			  .append("g")
-			    .attr("transform",
-			          "translate(" + margin.left + "," + margin.top + ")");
+			<script src="assets/js/ddd3.js"></script>
 
-			// read data
-			d3.csv("https://gideonvictor.com/kings_1.csv", function(data) {
-
-			  // Add X axis
-			  var x = d3.scaleLinear()
-			    .domain([-100, 0])
-			    .range([ 10, width/2 ]);
-			  svg.append("g")
-			    .attr("transform", "translate(0," + height + ")")
-			    // .call(d3.axisBottom(x));
-
-			  // Add Y axis
-			  var y = d3.scaleLinear()
-			    .domain([-50, 50])
-			    .range([ height, 0 ]);
-			  // svg.append("g")
-			  //   .call(d3.axisLeft(y));
-
-			  // Reformat the data: d3.hexbin() needs a specific format
-			  var inputForHexbinFun = []
-			  data.forEach(function(d) {
-			    inputForHexbinFun.push( [x(d.x), y(d.y)] )  // Note that we had the transform value of X and Y !
-			  })
-
-			  // Prepare a color palette
-			  var color = d3.scaleLinear()
-			      .domain([4, 20]) // Number of points in the bin?
-			      .range(["Transparent",  "#5D3FD3"])
-
-			  // Compute the hexbin data
-			  var hexbin = d3.hexbin()
-			    .radius(15) // size of the bin in px
-			    .extent([ [0, 0], [width, height] ])
-
-			  // Plot the hexbins
-			  svg.append("clipPath")
-			      .attr("id", "clip")
-			    .append("rect")
-			      .attr("width", width)
-			      .attr("height", height)
-
-			  svg.append("g")
-			    .attr("clip-path", "url(#clip)")
-			    .selectAll("path")
-			    .data( hexbin(inputForHexbinFun) )
-			    .enter().append("path")
-			      .attr("d", hexbin.hexagon())
-			      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-			      .attr("fill", function(d) { return color(d.length); })
-			      .attr("stroke", "black")
-			      .attr("stroke-width", "0")
-			})
-
-			d3.csv("https://gideonvictor.com/hurricanes_0.csv", function(data) {
-			  // Add X axis
-			  var x = d3.scaleLinear()
-			    .domain([0, 100])
-			    .range([ width/2, width-10]);
-			  // svg.append("g")
-			    // .attr("transform", "translate(0," + height + ")")
-			    // .call(d3.axisBottom(x));
-			  // Add Y axis
-			  var y = d3.scaleLinear()
-			    .domain([-50, 50])
-			    .range([ height, 0 ]);
-			  // svg.append("g")
-			  // .attr("transform", "translate(0," + height + ")")
-			    // .call(d3.axisLeft(y));
-			  // Reformat the data: d3.hexbin() needs a specific format
-			  var otherinputForHexbinFun = []
-			  data.forEach(function(d) {
-			    otherinputForHexbinFun.push( [x(d.x), y(d.y)] )  // Note that we had the transform value of X and Y !
-			  })
-
-			  // Prepare a color palette
-			  var color = d3.scaleLinear()
-			      .domain([4, 20]) // Number of points in the bin?
-			      .range(["Transparent",  "#8B0000"])
-
-			  // Compute the hexbin data
-			  var hexbin = d3.hexbin()
-			    .radius(15) // size of the bin in px
-			    .extent([ [0, 0], [width, height] ])
-
-
-			  // Plot the hexbins
-			  svg.append("clipPath")
-			      .attr("id", "clip")
-			    .append("rect")
-			      .attr("width", width)
-			      .attr("height", height)
-
-			  svg.append("g")
-			    .attr("clip-path", "url(#clip)")
-			    .selectAll("path")
-			    .data( hexbin(otherinputForHexbinFun) )
-			    .enter().append("path")
-			      .attr("d", hexbin.hexagon())
-			      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-			      .attr("fill", function(d) { return color(d.length); })
-			      .attr("stroke", "black")
-			      .attr("stroke-width", "0")
-			})
-			</script>
 	</body>
 </html>
