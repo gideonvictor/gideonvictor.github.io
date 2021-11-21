@@ -1,0 +1,650 @@
+x,y,event,description,ordinalNum
+59.0,26.0,Shot,Christian Fischer Snap Shot saved by Elvis Merzlikins,1st
+77.0,-6.0,Shot,Andrew Ladd Tip-In saved by Elvis Merzlikins,1st
+66.0,-15.0,Shot,Antoine Roussel Wrist Shot saved by Elvis Merzlikins,1st
+61.0,26.0,Missed Shot,Johan Larsson Wide of Net Elvis Merzlikins,1st
+44.0,-17.0,Missed Shot,Shayne Gostisbehere Wide of Net Elvis Merzlikins,1st
+36.0,22.0,Shot,Shayne Gostisbehere Slap Shot saved by Elvis Merzlikins,1st
+68.0,-11.0,Missed Shot,Jakob Chychrun Wide of Net Elvis Merzlikins,1st
+67.0,-17.0,Shot,Clayton Keller Wrist Shot saved by Elvis Merzlikins,1st
+54.0,-12.0,Shot,Lawson Crouse Snap Shot saved by Elvis Merzlikins,1st
+40.0,-19.0,Shot,Jakob Chychrun Slap Shot saved by Elvis Merzlikins,1st
+54.0,-22.0,Shot,Clayton Keller Wrist Shot saved by Elvis Merzlikins,1st
+61.0,-11.0,Shot,Nick Schmaltz Wrist Shot saved by Elvis Merzlikins,1st
+50.0,-19.0,Shot,Anton Stralman Wrist Shot saved by Elvis Merzlikins,1st
+68.0,-6.0,Missed Shot,Lawson Crouse Wide of Net Elvis Merzlikins,1st
+63.0,-1.0,Shot,Johan Larsson Wrist Shot saved by Elvis Merzlikins,1st
+49.0,-14.0,Missed Shot,Jakob Chychrun Wide of Net Elvis Merzlikins,1st
+37.0,-15.0,Missed Shot,Jakob Chychrun Wide of Net Elvis Merzlikins,1st
+45.0,-32.0,Goal,"Anton Stralman (1) Slap Shot, assists: Lawson Crouse (1), Johan Larsson (1)",2nd
+83.0,8.0,Missed Shot,Dmitrij Jaskin Wide of Net Elvis Merzlikins,2nd
+47.0,29.0,Missed Shot,Jakob Chychrun Over Net Elvis Merzlikins,2nd
+77.0,5.0,Shot,Lawson Crouse Tip-In saved by Elvis Merzlikins,2nd
+50.0,-1.0,Missed Shot,Nick Schmaltz Over Net Elvis Merzlikins,2nd
+66.0,-17.0,Shot,Ryan Dzingel Snap Shot saved by Elvis Merzlikins,2nd
+65.0,-21.0,Missed Shot,Ryan Dzingel Over Net Elvis Merzlikins,2nd
+78.0,1.0,Shot,Jay Beagle Wrist Shot saved by Elvis Merzlikins,2nd
+86.0,-9.0,Shot,Anton Stralman Wrist Shot saved by Elvis Merzlikins,2nd
+80.0,7.0,Shot,Lawson Crouse Backhand saved by Elvis Merzlikins,2nd
+57.0,-8.0,Shot,Conor Timmins Snap Shot saved by Elvis Merzlikins,2nd
+84.0,-9.0,Shot,Andrew Ladd Wrist Shot saved by Elvis Merzlikins,2nd
+87.0,5.0,Shot,Christian Fischer Wrap-around saved by Elvis Merzlikins,2nd
+79.0,-21.0,Missed Shot,Phil Kessel Wide of Net Elvis Merzlikins,2nd
+79.0,29.0,Missed Shot,Loui Eriksson Wide of Net Elvis Merzlikins,2nd
+46.0,22.0,Shot,Jakob Chychrun Slap Shot saved by Elvis Merzlikins,2nd
+47.0,22.0,Shot,Jakob Chychrun Snap Shot saved by Elvis Merzlikins,2nd
+83.0,6.0,Shot,Jay Beagle Wrist Shot saved by Elvis Merzlikins,2nd
+58.0,-27.0,Shot,Nick Schmaltz Wrist Shot saved by Elvis Merzlikins,2nd
+40.0,9.0,Shot,Shayne Gostisbehere Slap Shot saved by Elvis Merzlikins,3rd
+42.0,-20.0,Missed Shot,Jakob Chychrun Wide of Net Elvis Merzlikins,3rd
+54.0,-6.0,Shot,Nick Schmaltz Wrist Shot saved by Elvis Merzlikins,3rd
+80.0,-4.0,Shot,Conor Timmins Wrist Shot saved by Elvis Merzlikins,3rd
+58.0,-19.0,Shot,Jakob Chychrun Snap Shot saved by Elvis Merzlikins,3rd
+38.0,-18.0,Missed Shot,Conor Timmins Wide of Net Elvis Merzlikins,3rd
+82.0,-4.0,Missed Shot,Dmitrij Jaskin Wide of Net Elvis Merzlikins,3rd
+45.0,-3.0,Shot,Shayne Gostisbehere Wrist Shot saved by Elvis Merzlikins,3rd
+52.0,-18.0,Shot,Ryan Dzingel Wrist Shot saved by Elvis Merzlikins,3rd
+49.0,-1.0,Shot,Victor Soderstrom Snap Shot saved by Elvis Merzlikins,3rd
+83.0,5.0,Shot,Antoine Roussel Wrap-around saved by Elvis Merzlikins,3rd
+77.0,15.0,Missed Shot,Lawson Crouse Wide of Net Elvis Merzlikins,3rd
+39.0,15.0,Missed Shot,Shayne Gostisbehere Over Net Elvis Merzlikins,3rd
+60.0,26.0,Shot,Clayton Keller Snap Shot saved by Elvis Merzlikins,3rd
+73.0,-23.0,Shot,Ilya Lyubushkin Wrist Shot saved by Elvis Merzlikins,3rd
+31.0,24.0,Missed Shot,Victor Soderstrom Over Net Elvis Merzlikins,3rd
+36.0,-4.0,Shot,Shayne Gostisbehere Slap Shot saved by Elvis Merzlikins,3rd
+36.0,-16.0,Missed Shot,Andrew Ladd Wide of Net Elvis Merzlikins,3rd
+72.0,1.0,Shot,Ryan Dzingel Deflected saved by Elvis Merzlikins,3rd
+58.0,-8.0,Goal,"Clayton Keller (1) Snap Shot, assists: Phil Kessel (1), Shayne Gostisbehere (1)",3rd
+67.0,18.0,Missed Shot,Dmitrij Jaskin Wide of Net Elvis Merzlikins,3rd
+44.0,27.0,Shot,Anton Stralman Slap Shot saved by Elvis Merzlikins,3rd
+35.0,-31.0,Shot,Andrew Ladd Wrist Shot saved by Dustin Tokarski,1st
+33.0,-28.0,Missed Shot,Jakob Chychrun Wide of Net Dustin Tokarski,1st
+39.0,-19.0,Shot,Jakob Chychrun Wrist Shot saved by Dustin Tokarski,1st
+32.0,35.0,Missed Shot,Shayne Gostisbehere Wide of Net Dustin Tokarski,1st
+32.0,25.0,Missed Shot,Conor Timmins Wide of Net Dustin Tokarski,1st
+70.0,3.0,Goal,"Andrew Ladd (1) Wrist Shot, assists: Ryan Dzingel (1), Johan Larsson (2)",1st
+78.0,-5.0,Shot,Nick Schmaltz Tip-In saved by Dustin Tokarski,1st
+34.0,-33.0,Shot,Ilya Lyubushkin Wrist Shot saved by Dustin Tokarski,1st
+70.0,6.0,Shot,Ryan Dzingel Wrist Shot saved by Dustin Tokarski,2nd
+81.0,9.0,Shot,Liam O'Brien Wrist Shot saved by Dustin Tokarski,2nd
+76.0,3.0,Shot,Travis Boyd Tip-In saved by Dustin Tokarski,2nd
+79.0,-14.0,Shot,Loui Eriksson Wrist Shot saved by Dustin Tokarski,2nd
+80.0,6.0,Shot,Lawson Crouse Deflected saved by Dustin Tokarski,2nd
+82.0,6.0,Shot,Lawson Crouse Wrist Shot saved by Dustin Tokarski,2nd
+33.0,29.0,Missed Shot,Jakob Chychrun Wide of Net Dustin Tokarski,2nd
+78.0,-9.0,Shot,Ryan Dzingel Wrist Shot saved by Dustin Tokarski,2nd
+77.0,7.0,Missed Shot,Clayton Keller Goalpost Dustin Tokarski,2nd
+73.0,19.0,Shot,Lawson Crouse Snap Shot saved by Dustin Tokarski,2nd
+42.0,35.0,Shot,Jakob Chychrun Wrist Shot saved by Dustin Tokarski,2nd
+32.0,37.0,Missed Shot,Conor Timmins Wide of Net Dustin Tokarski,3rd
+35.0,29.0,Shot,Victor Soderstrom Snap Shot saved by Dustin Tokarski,3rd
+40.0,-3.0,Shot,Johan Larsson Wrist Shot saved by Dustin Tokarski,3rd
+52.0,20.0,Missed Shot,Liam O'Brien Wide of Net Dustin Tokarski,3rd
+54.0,-25.0,Shot,Jakob Chychrun Wrist Shot saved by Dustin Tokarski,3rd
+34.0,-34.0,Shot,Clayton Keller Wrist Shot saved by Dustin Tokarski,3rd
+34.0,0.0,Shot,Jakob Chychrun Slap Shot saved by Dustin Tokarski,3rd
+42.0,25.0,Shot,Jakob Chychrun Wrist Shot saved by Dustin Tokarski,OT
+41.0,-10.0,Shot,Clayton Keller Wrist Shot saved by Dustin Tokarski,OT
+65.0,1.0,Goal,Nick Schmaltz - Wrist Shot,SO
+68.0,-2.0,Shot,Phil Kessel Wrist Shot saved by Dustin Tokarski,SO
+75.0,6.0,Missed Shot,Clayton Keller Wide of Net Dustin Tokarski,SO
+50.0,22.0,Shot,Jakob Chychrun Wrist Shot saved by Jordan Binnington,1st
+80.0,-16.0,Shot,Clayton Keller Wrist Shot saved by Jordan Binnington,1st
+71.0,-31.0,Shot,Jay Beagle Wrist Shot saved by Jordan Binnington,1st
+38.0,32.0,Shot,Shayne Gostisbehere Snap Shot saved by Jordan Binnington,1st
+48.0,-16.0,Shot,Phil Kessel Wrist Shot saved by Jordan Binnington,1st
+76.0,10.0,Goal,"Clayton Keller (2) Wrist Shot, assists: Phil Kessel (2), Shayne Gostisbehere (2)",1st
+70.0,-5.0,Shot,Nick Schmaltz Deflected saved by Jordan Binnington,1st
+82.0,-10.0,Shot,Nick Schmaltz Wrist Shot saved by Jordan Binnington,1st
+50.0,-30.0,Shot,Phil Kessel Snap Shot saved by Jordan Binnington,1st
+56.0,1.0,Shot,Loui Eriksson Wrist Shot saved by Jordan Binnington,1st
+34.0,23.0,Missed Shot,Antoine Roussel Wide of Net Jordan Binnington,1st
+47.0,20.0,Shot,Nick Schmaltz Wrist Shot saved by Jordan Binnington,2nd
+60.0,0.0,Goal,"Lawson Crouse (1) Snap Shot, assists: Phil Kessel (3), Shayne Gostisbehere (3)",2nd
+82.0,4.0,Missed Shot,Jay Beagle Wide of Net Jordan Binnington,2nd
+78.0,-16.0,Shot,Jakob Chychrun Wrist Shot saved by Jordan Binnington,2nd
+77.0,3.0,Shot,Nick Schmaltz Tip-In saved by Jordan Binnington,2nd
+50.0,-34.0,Shot,Ilya Lyubushkin Snap Shot saved by Jordan Binnington,2nd
+54.0,-35.0,Shot,Antoine Roussel Wrist Shot saved by Jordan Binnington,2nd
+47.0,-33.0,Missed Shot,Lawson Crouse Wide of Net Jordan Binnington,2nd
+49.0,-1.0,Missed Shot,Jakob Chychrun Wide of Net Jordan Binnington,2nd
+45.0,24.0,Missed Shot,Jakob Chychrun Wide of Net Jordan Binnington,2nd
+66.0,-5.0,Missed Shot,Ryan Dzingel Wide of Net Jordan Binnington,2nd
+38.0,-28.0,Missed Shot,Nick Schmaltz Over Net Jordan Binnington,2nd
+40.0,-2.0,Shot,Clayton Keller Wrist Shot saved by Jordan Binnington,2nd
+77.0,-8.0,Missed Shot,Ryan Dzingel Wide of Net Jordan Binnington,3rd
+80.0,2.0,Shot,Nick Schmaltz Backhand saved by Jordan Binnington,3rd
+52.0,6.0,Shot,Lawson Crouse Snap Shot saved by Jordan Binnington,3rd
+84.0,-6.0,Shot,Christian Fischer Wrist Shot saved by Jordan Binnington,3rd
+82.0,-1.0,Goal,"Christian Fischer (1) Wrist Shot, assists: Clayton Keller (1), Shayne Gostisbehere (4)",3rd
+37.0,-18.0,Shot,Conor Timmins Wrist Shot saved by Jordan Binnington,3rd
+76.0,1.0,Goal,"Travis Boyd (1) Deflected, assists: Ilya Lyubushkin (1), Loui Eriksson (1)",3rd
+82.0,6.0,Shot,Ryan Dzingel Wrist Shot saved by Jordan Binnington,3rd
+40.0,-31.0,Shot,Conor Timmins Snap Shot saved by Jordan Binnington,3rd
+39.0,21.0,Missed Shot,Phil Kessel Wide of Net Jordan Binnington,3rd
+7.0,30.0,Missed Shot,Andrew Ladd Goalpost Jordan Binnington,3rd
+80.0,2.0,Shot,Loui Eriksson Backhand saved by Jordan Binnington,3rd
+58.0,-1.0,Missed Shot,Lawson Crouse Wide of Net Jordan Binnington,3rd
+87.0,21.0,Missed Shot,Johan Larsson Wide of Net Jordan Binnington,3rd
+9.0,32.0,Missed Shot,Jakob Chychrun Wide of Net Jordan Binnington,3rd
+75.0,-5.0,Shot,Dysin Mayo Wrist Shot saved by Mikko Koskinen,1st
+75.0,-3.0,Shot,Travis Boyd Wrist Shot saved by Mikko Koskinen,1st
+48.0,10.0,Missed Shot,Johan Larsson Wide of Net Mikko Koskinen,1st
+61.0,12.0,Shot,Jakob Chychrun Wrist Shot saved by Mikko Koskinen,1st
+78.0,-5.0,Shot,Dmitrij Jaskin Backhand saved by Mikko Koskinen,1st
+69.0,-17.0,Shot,Dmitrij Jaskin Backhand saved by Mikko Koskinen,1st
+68.0,10.0,Shot,Ryan Dzingel Wrist Shot saved by Mikko Koskinen,1st
+46.0,23.0,Shot,Phil Kessel Snap Shot saved by Mikko Koskinen,1st
+35.0,33.0,Shot,Shayne Gostisbehere Wrist Shot saved by Mikko Koskinen,1st
+49.0,-28.0,Shot,Dysin Mayo Wrist Shot saved by Mikko Koskinen,1st
+41.0,-36.0,Missed Shot,Anton Stralman Wide of Net Mikko Koskinen,1st
+17.0,30.0,Shot,Christian Fischer Wrist Shot saved by Mikko Koskinen,1st
+83.0,9.0,Shot,Johan Larsson Wrist Shot saved by Mikko Koskinen,1st
+43.0,-31.0,Missed Shot,Jakob Chychrun Over Net Mikko Koskinen,2nd
+52.0,10.0,Shot,Shayne Gostisbehere Slap Shot saved by Mikko Koskinen,2nd
+39.0,-14.0,Shot,Shayne Gostisbehere Wrist Shot saved by Mikko Koskinen,2nd
+84.0,-5.0,Shot,Dmitrij Jaskin Tip-In saved by Mikko Koskinen,2nd
+45.0,13.0,Shot,Anton Stralman Slap Shot saved by Mikko Koskinen,2nd
+48.0,-14.0,Missed Shot,Dmitrij Jaskin Wide of Net Mikko Koskinen,2nd
+45.0,25.0,Shot,Anton Stralman Slap Shot saved by Mikko Koskinen,2nd
+55.0,-21.0,Missed Shot,Ryan Dzingel Wide of Net Mikko Koskinen,2nd
+41.0,-27.0,Shot,Jakob Chychrun Wrist Shot saved by Mikko Koskinen,2nd
+61.0,6.0,Shot,Loui Eriksson Backhand saved by Mikko Koskinen,2nd
+52.0,-35.0,Shot,Lawson Crouse Wrist Shot saved by Mikko Koskinen,2nd
+84.0,-5.0,Shot,Dmitrij Jaskin Tip-In saved by Mikko Koskinen,2nd
+78.0,-28.0,Missed Shot,Shayne Gostisbehere Wide of Net Mikko Koskinen,2nd
+50.0,-28.0,Goal,"Dysin Mayo (1) Wrist Shot, assists: Ryan Dzingel (2), Andrew Ladd (1)",3rd
+57.0,14.0,Shot,Phil Kessel Wrist Shot saved by Mikko Koskinen,3rd
+75.0,17.0,Shot,Phil Kessel Wrist Shot saved by Mikko Koskinen,3rd
+44.0,27.0,Missed Shot,Shayne Gostisbehere Over Net Mikko Koskinen,3rd
+76.0,24.0,Missed Shot,Ryan Dzingel Wide of Net Mikko Koskinen,3rd
+58.0,18.0,Shot,Andrew Ladd Wrist Shot saved by Mikko Koskinen,3rd
+6.0,36.0,Shot,Loui Eriksson Wrist Shot saved by Mikko Koskinen,3rd
+78.0,15.0,Shot,Clayton Keller Wrist Shot saved by Mikko Koskinen,3rd
+33.0,3.0,Missed Shot,Conor Timmins Wide of Net Mikko Koskinen,3rd
+18.0,-34.0,Shot,Anton Stralman Wrist Shot saved by Mikko Koskinen,3rd
+36.0,23.0,Shot,Jakob Chychrun Wrist Shot saved by Mikko Koskinen,3rd
+39.0,-35.0,Shot,Conor Timmins Wrist Shot saved by Ilya Sorokin,1st
+60.0,24.0,Shot,Jakob Chychrun Wrist Shot saved by Ilya Sorokin,1st
+49.0,-33.0,Shot,Liam O'Brien Wrist Shot saved by Ilya Sorokin,1st
+40.0,-4.0,Shot,Christian Fischer Wrist Shot saved by Ilya Sorokin,1st
+36.0,5.0,Shot,Shayne Gostisbehere Slap Shot saved by Ilya Sorokin,1st
+40.0,-20.0,Missed Shot,Conor Timmins Goalpost Ilya Sorokin,1st
+39.0,6.0,Shot,Jakob Chychrun Wrist Shot saved by Ilya Sorokin,1st
+36.0,-31.0,Shot,Anton Stralman Wrist Shot saved by Ilya Sorokin,1st
+28.0,-1.0,Shot,Clayton Keller Wrist Shot saved by Ilya Sorokin,1st
+45.0,-31.0,Shot,Jakob Chychrun Slap Shot saved by Ilya Sorokin,1st
+81.0,-5.0,Shot,Clayton Keller Tip-In saved by Ilya Sorokin,2nd
+50.0,-15.0,Missed Shot,Jakob Chychrun Wide of Net Ilya Sorokin,2nd
+76.0,-1.0,Shot,Jay Beagle Tip-In saved by Ilya Sorokin,2nd
+81.0,2.0,Shot,Lawson Crouse Tip-In saved by Ilya Sorokin,2nd
+79.0,13.0,Shot,Clayton Keller Wrist Shot saved by Ilya Sorokin,2nd
+85.0,7.0,Shot,Lawson Crouse Wrist Shot saved by Ilya Sorokin,2nd
+70.0,-13.0,Missed Shot,Lawson Crouse Goalpost Ilya Sorokin,2nd
+41.0,23.0,Missed Shot,Anton Stralman Over Net Ilya Sorokin,2nd
+2.0,0.0,Shot,Dmitrij Jaskin Deflected saved by Ilya Sorokin,2nd
+40.0,10.0,Shot,Anton Stralman Slap Shot saved by Ilya Sorokin,2nd
+73.0,7.0,Shot,Johan Larsson Backhand saved by Ilya Sorokin,2nd
+40.0,3.0,Missed Shot,Liam O'Brien Wide of Net Ilya Sorokin,2nd
+82.0,-10.0,Shot,Loui Eriksson Wrist Shot saved by Ilya Sorokin,2nd
+76.0,-28.0,Shot,Loui Eriksson Wrist Shot saved by Ilya Sorokin,2nd
+35.0,-20.0,Missed Shot,Ilya Lyubushkin Wide of Net Ilya Sorokin,3rd
+61.0,28.0,Shot,Jakob Chychrun Wrist Shot saved by Ilya Sorokin,3rd
+57.0,20.0,Missed Shot,Lawson Crouse Wide of Net Ilya Sorokin,3rd
+66.0,17.0,Shot,Clayton Keller Wrist Shot saved by Ilya Sorokin,3rd
+52.0,5.0,Missed Shot,Clayton Keller Wide of Net Ilya Sorokin,3rd
+28.0,-15.0,Missed Shot,Christian Fischer Wide of Net Ilya Sorokin,3rd
+43.0,30.0,Shot,Lawson Crouse Slap Shot saved by Ilya Sorokin,3rd
+36.0,-25.0,Shot,Anton Stralman Slap Shot saved by Ilya Sorokin,3rd
+64.0,-13.0,Missed Shot,Dmitrij Jaskin Wide of Net Ilya Sorokin,3rd
+44.0,-29.0,Shot,Victor Soderstrom Slap Shot saved by Ilya Sorokin,3rd
+50.0,-26.0,Shot,Andrew Ladd Wrist Shot saved by Ilya Sorokin,3rd
+53.0,-14.0,Missed Shot,Nick Schmaltz Wide of Net Ilya Sorokin,3rd
+36.0,36.0,Missed Shot,Jakob Chychrun Wide of Net Ilya Sorokin,3rd
+77.0,-4.0,Shot,Nick Schmaltz Wrist Shot saved by Ilya Sorokin,3rd
+54.0,16.0,Missed Shot,Ilya Lyubushkin Over Net Spencer Knight,1st
+39.0,-32.0,Missed Shot,Ryan Dzingel Wide of Net Spencer Knight,1st
+53.0,16.0,Missed Shot,Shayne Gostisbehere Wide of Net Spencer Knight,1st
+80.0,-16.0,Missed Shot,Phil Kessel Wide of Net Spencer Knight,1st
+77.0,-1.0,Goal,"Clayton Keller (3) Wrist Shot, assists: Nick Schmaltz (1)",1st
+87.0,-18.0,Shot,Jay Beagle Backhand saved by Spencer Knight,2nd
+56.0,2.0,Shot,Shayne Gostisbehere Backhand saved by Spencer Knight,2nd
+81.0,10.0,Shot,Lawson Crouse Wrist Shot saved by Spencer Knight,2nd
+83.0,13.0,Shot,Lawson Crouse Wrist Shot saved by Spencer Knight,2nd
+82.0,13.0,Shot,Clayton Keller Wrist Shot saved by Spencer Knight,2nd
+60.0,-38.0,Shot,Jakob Chychrun Slap Shot saved by Spencer Knight,2nd
+63.0,33.0,Missed Shot,Jakob Chychrun Wide of Net Spencer Knight,2nd
+59.0,23.0,Shot,Ilya Lyubushkin Slap Shot saved by Spencer Knight,2nd
+16.0,36.0,Shot,Lawson Crouse Wrist Shot saved by Spencer Knight,3rd
+6.0,36.0,Shot,Anton Stralman Slap Shot saved by Spencer Knight,3rd
+80.0,-10.0,Shot,Clayton Keller Backhand saved by Spencer Knight,3rd
+51.0,-21.0,Shot,Dmitrij Jaskin Wrist Shot saved by Spencer Knight,3rd
+41.0,19.0,Shot,Christian Fischer Wrist Shot saved by Spencer Knight,3rd
+71.0,9.0,Shot,Dmitrij Jaskin Wrist Shot saved by Spencer Knight,3rd
+76.0,-13.0,Shot,Dmitrij Jaskin Wrist Shot saved by Spencer Knight,3rd
+39.0,29.0,Shot,Jakob Chychrun Slap Shot saved by Spencer Knight,3rd
+34.0,-25.0,Missed Shot,Jakob Chychrun Wide of Net Spencer Knight,3rd
+83.0,-29.0,Goal,"Liam O'Brien (1) Wrist Shot, assists: Christian Fischer (1), Anton Stralman (1)",3rd
+80.0,-10.0,Goal,"Phil Kessel (1) Wrist Shot, assists: Ilya Lyubushkin (2), Johan Larsson (3)",3rd
+75.0,-19.0,Shot,Phil Kessel Wrist Shot saved by Spencer Knight,3rd
+56.0,-28.0,Shot,Christian Fischer Snap Shot saved by Spencer Knight,3rd
+57.0,17.0,Shot,Johan Larsson Slap Shot saved by Spencer Knight,3rd
+61.0,33.0,Shot,Ilya Lyubushkin Snap Shot saved by Andrei Vasilevskiy,1st
+33.0,31.0,Missed Shot,Ilya Lyubushkin Wide of Net Andrei Vasilevskiy,1st
+48.0,23.0,Shot,Phil Kessel Wrist Shot saved by Andrei Vasilevskiy,1st
+37.0,22.0,Shot,Anton Stralman Slap Shot saved by Andrei Vasilevskiy,1st
+75.0,-28.0,Shot,Andrew Ladd Wrist Shot saved by Andrei Vasilevskiy,1st
+74.0,3.0,Shot,Jay Beagle Snap Shot saved by Andrei Vasilevskiy,1st
+48.0,-27.0,Shot,Jakob Chychrun Wrist Shot saved by Andrei Vasilevskiy,1st
+37.0,-23.0,Missed Shot,Jakob Chychrun Goalpost Andrei Vasilevskiy,1st
+60.0,-33.0,Missed Shot,Shayne Gostisbehere Wide of Net Andrei Vasilevskiy,1st
+53.0,24.0,Shot,Phil Kessel Wrist Shot saved by Andrei Vasilevskiy,1st
+34.0,-23.0,Shot,Shayne Gostisbehere Wrist Shot saved by Andrei Vasilevskiy,1st
+44.0,-10.0,Missed Shot,Dysin Mayo Wide of Net Andrei Vasilevskiy,1st
+33.0,27.0,Missed Shot,Victor Soderstrom Wide of Net Andrei Vasilevskiy,1st
+76.0,-17.0,Missed Shot,Andrew Ladd Wide of Net Andrei Vasilevskiy,1st
+70.0,-26.0,Missed Shot,Jakob Chychrun Wide of Net Andrei Vasilevskiy,1st
+39.0,-34.0,Missed Shot,Dysin Mayo Wide of Net Andrei Vasilevskiy,2nd
+37.0,-13.0,Shot,Travis Boyd Wrist Shot saved by Andrei Vasilevskiy,2nd
+55.0,-20.0,Missed Shot,Dmitrij Jaskin Wide of Net Andrei Vasilevskiy,2nd
+37.0,27.0,Shot,Dysin Mayo Snap Shot saved by Andrei Vasilevskiy,2nd
+70.0,18.0,Shot,Clayton Keller Wrist Shot saved by Andrei Vasilevskiy,2nd
+48.0,25.0,Shot,Jay Beagle Wrist Shot saved by Andrei Vasilevskiy,2nd
+64.0,-2.0,Shot,Lawson Crouse Wrist Shot saved by Andrei Vasilevskiy,2nd
+85.0,17.0,Missed Shot,Clayton Keller Wide of Net Andrei Vasilevskiy,2nd
+65.0,-6.0,Shot,Lawson Crouse Backhand saved by Andrei Vasilevskiy,2nd
+79.0,-3.0,Shot,Phil Kessel Wrist Shot saved by Andrei Vasilevskiy,2nd
+60.0,-2.0,Shot,Dmitrij Jaskin Wrist Shot saved by Andrei Vasilevskiy,2nd
+66.0,-1.0,Shot,Dmitrij Jaskin Wrist Shot saved by Andrei Vasilevskiy,2nd
+70.0,-1.0,Shot,Dmitrij Jaskin Tip-In saved by Andrei Vasilevskiy,2nd
+37.0,23.0,Missed Shot,Liam O'Brien Wide of Net Andrei Vasilevskiy,2nd
+77.0,4.0,Missed Shot,Christian Fischer Goalpost Andrei Vasilevskiy,2nd
+57.0,-25.0,Shot,Clayton Keller Snap Shot saved by Andrei Vasilevskiy,2nd
+79.0,9.0,Shot,Travis Boyd Snap Shot saved by Andrei Vasilevskiy,3rd
+55.0,-19.0,Missed Shot,Jakob Chychrun Wide of Net Andrei Vasilevskiy,3rd
+69.0,27.0,Missed Shot,Lawson Crouse Hit Crossbar Andrei Vasilevskiy,3rd
+66.0,16.0,Shot,Phil Kessel Wrist Shot saved by Andrei Vasilevskiy,3rd
+84.0,-14.0,Shot,Clayton Keller Wrist Shot saved by Andrei Vasilevskiy,3rd
+68.0,-12.0,Missed Shot,Andrew Ladd Wide of Net Andrei Vasilevskiy,3rd
+25.0,36.0,Shot,Ilya Lyubushkin Slap Shot saved by Andrei Vasilevskiy,3rd
+42.0,-18.0,Missed Shot,Jakob Chychrun Wide of Net Andrei Vasilevskiy,3rd
+80.0,24.0,Goal,"Lawson Crouse (2) Wrist Shot, assists: Barrett Hayton (1)",3rd
+63.0,-16.0,Shot,Liam O'Brien Wrist Shot saved by Andrei Vasilevskiy,3rd
+83.0,-7.0,Shot,Dmitrij Jaskin Wrist Shot saved by Ilya Samsonov,1st
+57.0,24.0,Shot,Lawson Crouse Slap Shot saved by Ilya Samsonov,1st
+33.0,26.0,Shot,Shayne Gostisbehere Snap Shot saved by Ilya Samsonov,1st
+38.0,31.0,Missed Shot,Shayne Gostisbehere Wide of Net Ilya Samsonov,1st
+61.0,18.0,Shot,Andrew Ladd Wrist Shot saved by Ilya Samsonov,1st
+67.0,11.0,Shot,Jay Beagle Wrist Shot saved by Ilya Samsonov,2nd
+66.0,-3.0,Shot,Lawson Crouse Snap Shot saved by Ilya Samsonov,2nd
+51.0,6.0,Shot,Victor Soderstrom Wrist Shot saved by Ilya Samsonov,2nd
+47.0,28.0,Shot,Jakob Chychrun Wrist Shot saved by Ilya Samsonov,2nd
+76.0,-2.0,Missed Shot,Barrett Hayton Wide of Net Ilya Samsonov,2nd
+51.0,9.0,Shot,Loui Eriksson Wrist Shot saved by Ilya Samsonov,2nd
+80.0,-4.0,Shot,Loui Eriksson Tip-In saved by Ilya Samsonov,2nd
+50.0,-16.0,Missed Shot,Barrett Hayton Wide of Net Ilya Samsonov,2nd
+67.0,2.0,Shot,Dmitrij Jaskin Backhand saved by Ilya Samsonov,3rd
+72.0,-5.0,Shot,Dysin Mayo Wrist Shot saved by Ilya Samsonov,3rd
+77.0,-1.0,Missed Shot,Barrett Hayton Wide of Net Ilya Samsonov,3rd
+60.0,1.0,Shot,Antoine Roussel Wrist Shot saved by Ilya Samsonov,3rd
+65.0,37.0,Shot,Shayne Gostisbehere Wrist Shot saved by Ilya Samsonov,3rd
+84.0,7.0,Shot,Phil Kessel Wrist Shot saved by Ilya Samsonov,3rd
+69.0,34.0,Missed Shot,Dmitrij Jaskin Wide of Net Ilya Samsonov,3rd
+63.0,-28.0,Shot,Victor Soderstrom Wrist Shot saved by Ilya Samsonov,3rd
+44.0,-1.0,Missed Shot,Phil Kessel Wide of Net Frederik Andersen,1st
+79.0,-10.0,Shot,Phil Kessel Wrist Shot saved by Frederik Andersen,1st
+43.0,-23.0,Missed Shot,Phil Kessel Wide of Net Frederik Andersen,1st
+82.0,1.0,Shot,Loui Eriksson Tip-In saved by Frederik Andersen,1st
+85.0,-3.0,Goal,"Christian Fischer (2) Backhand, assists: Lawson Crouse (2), Shayne Gostisbehere (5)",1st
+60.0,35.0,Missed Shot,Andrew Ladd Wide of Net Frederik Andersen,1st
+31.0,-31.0,Shot,Shayne Gostisbehere Slap Shot saved by Frederik Andersen,1st
+51.0,14.0,Shot,Barrett Hayton Snap Shot saved by Frederik Andersen,1st
+80.0,5.0,Shot,Lawson Crouse Backhand saved by Frederik Andersen,1st
+35.0,-15.0,Shot,Dmitrij Jaskin Slap Shot saved by Frederik Andersen,1st
+60.0,-19.0,Shot,Phil Kessel Snap Shot saved by Frederik Andersen,1st
+36.0,-40.0,Shot,Shayne Gostisbehere Snap Shot saved by Frederik Andersen,2nd
+66.0,16.0,Shot,Lawson Crouse Snap Shot saved by Frederik Andersen,2nd
+57.0,37.0,Shot,Andrew Ladd Wrist Shot saved by Frederik Andersen,2nd
+53.0,-18.0,Shot,Christian Fischer Snap Shot saved by Frederik Andersen,2nd
+66.0,6.0,Shot,Clayton Keller Wrist Shot saved by Frederik Andersen,2nd
+79.0,-4.0,Shot,Barrett Hayton Tip-In saved by Frederik Andersen,2nd
+53.0,-36.0,Shot,Loui Eriksson Snap Shot saved by Frederik Andersen,2nd
+39.0,-33.0,Shot,Jakob Chychrun Snap Shot saved by Frederik Andersen,2nd
+86.0,7.0,Shot,Phil Kessel Wrist Shot saved by Frederik Andersen,2nd
+82.0,-10.0,Shot,Antoine Roussel Deflected saved by Frederik Andersen,2nd
+84.0,-13.0,Missed Shot,Shayne Gostisbehere Wide of Net Frederik Andersen,2nd
+81.0,3.0,Shot,Dmitrij Jaskin Tip-In saved by Frederik Andersen,2nd
+30.0,26.0,Shot,Dysin Mayo Slap Shot saved by Frederik Andersen,2nd
+79.0,-3.0,Missed Shot,Antoine Roussel Wide of Net Frederik Andersen,3rd
+73.0,-31.0,Shot,Dmitrij Jaskin Wrist Shot saved by Frederik Andersen,3rd
+29.0,27.0,Shot,Shayne Gostisbehere Snap Shot saved by Frederik Andersen,3rd
+44.0,-38.0,Shot,Anton Stralman Slap Shot saved by Frederik Andersen,3rd
+34.0,-7.0,Missed Shot,Jakob Chychrun Over Net Frederik Andersen,3rd
+82.0,-4.0,Shot,Lawson Crouse Backhand saved by Carter Hart,1st
+48.0,16.0,Missed Shot,Ilya Lyubushkin Wide of Net Carter Hart,1st
+53.0,24.0,Shot,Ilya Lyubushkin Snap Shot saved by Carter Hart,1st
+61.0,32.0,Shot,Jakob Chychrun Snap Shot saved by Carter Hart,1st
+78.0,-2.0,Shot,Dmitrij Jaskin Backhand saved by Carter Hart,1st
+46.0,-2.0,Shot,Clayton Keller Slap Shot saved by Carter Hart,1st
+65.0,12.0,Shot,Andrew Ladd Snap Shot saved by Carter Hart,1st
+77.0,-30.0,Missed Shot,Dysin Mayo Wide of Net Carter Hart,1st
+81.0,6.0,Shot,Loui Eriksson Tip-In saved by Carter Hart,1st
+85.0,-21.0,Shot,Phil Kessel Snap Shot saved by Carter Hart,1st
+82.0,8.0,Shot,Johan Larsson Wrist Shot saved by Carter Hart,1st
+77.0,-10.0,Shot,Anton Stralman Tip-In saved by Carter Hart,1st
+63.0,8.0,Shot,Antoine Roussel Snap Shot saved by Carter Hart,1st
+34.0,31.0,Missed Shot,Shayne Gostisbehere Wide of Net Carter Hart,1st
+40.0,-19.0,Shot,Dysin Mayo Slap Shot saved by Carter Hart,1st
+62.0,7.0,Shot,Phil Kessel Snap Shot saved by Carter Hart,1st
+79.0,-5.0,Missed Shot,Barrett Hayton Goalpost Carter Hart,1st
+78.0,15.0,Missed Shot,Dmitrij Jaskin Over Net Carter Hart,2nd
+48.0,-27.0,Shot,Shayne Gostisbehere Slap Shot saved by Carter Hart,2nd
+43.0,22.0,Shot,Jakob Chychrun Wrist Shot saved by Carter Hart,2nd
+20.0,7.0,Shot,Liam O'Brien Snap Shot saved by Carter Hart,2nd
+63.0,-25.0,Missed Shot,Liam O'Brien Wide of Net Carter Hart,2nd
+51.0,-34.0,Shot,Jakob Chychrun Slap Shot saved by Carter Hart,2nd
+35.0,-31.0,Missed Shot,Jakob Chychrun Wide of Net Carter Hart,2nd
+72.0,6.0,Shot,Victor Soderstrom Snap Shot saved by Carter Hart,2nd
+78.0,1.0,Shot,Barrett Hayton Tip-In saved by Carter Hart,2nd
+59.0,33.0,Missed Shot,Liam O'Brien Wide of Net Carter Hart,2nd
+62.0,-11.0,Shot,Clayton Keller Snap Shot saved by Carter Hart,2nd
+80.0,-1.0,Missed Shot,Lawson Crouse Wide of Net Carter Hart,2nd
+86.0,7.0,Shot,Loui Eriksson Wrist Shot saved by Carter Hart,2nd
+52.0,29.0,Shot,Phil Kessel Slap Shot saved by Carter Hart,2nd
+65.0,21.0,Shot,Shayne Gostisbehere Snap Shot saved by Carter Hart,3rd
+68.0,-30.0,Shot,Christian Fischer Snap Shot saved by Carter Hart,3rd
+35.0,32.0,Missed Shot,Jakob Chychrun Wide of Net Carter Hart,3rd
+35.0,18.0,Shot,Jakob Chychrun Wrist Shot saved by Carter Hart,3rd
+89.0,-29.0,Shot,Jakob Chychrun Slap Shot saved by Carter Hart,3rd
+66.0,-19.0,Shot,Phil Kessel Wrist Shot saved by Carter Hart,3rd
+38.0,25.0,Shot,Jakob Chychrun Snap Shot saved by Carter Hart,3rd
+83.0,10.0,Shot,Loui Eriksson Backhand saved by Carter Hart,3rd
+39.0,-25.0,Missed Shot,Anton Stralman Wide of Net Carter Hart,3rd
+18.0,-34.0,Shot,Cam Dineen Wrist Shot saved by Anthony Stolarz,1st
+37.0,31.0,Shot,Anton Stralman Slap Shot saved by Anthony Stolarz,1st
+55.0,-13.0,Shot,Shayne Gostisbehere Wrist Shot saved by Anthony Stolarz,1st
+64.0,16.0,Shot,Phil Kessel Snap Shot saved by Anthony Stolarz,1st
+42.0,-29.0,Shot,Cam Dineen Wrist Shot saved by Anthony Stolarz,1st
+46.0,-18.0,Missed Shot,Phil Kessel Wide of Net Anthony Stolarz,1st
+75.0,18.0,Shot,Phil Kessel Wrist Shot saved by Anthony Stolarz,1st
+95.0,13.0,Shot,Dmitrij Jaskin Wrist Shot saved by Anthony Stolarz,1st
+33.0,-32.0,Shot,Jakob Chychrun Wrist Shot saved by Anthony Stolarz,1st
+90.0,-9.0,Shot,Andrew Ladd Wrist Shot saved by Anthony Stolarz,1st
+38.0,-24.0,Shot,Jakob Chychrun Snap Shot saved by Anthony Stolarz,1st
+59.0,-11.0,Shot,Clayton Keller Wrist Shot saved by Anthony Stolarz,1st
+81.0,1.0,Shot,Christian Fischer Tip-In saved by Anthony Stolarz,1st
+50.0,-20.0,Shot,Ilya Lyubushkin Snap Shot saved by Anthony Stolarz,1st
+75.0,-16.0,Shot,Dysin Mayo Backhand saved by Anthony Stolarz,1st
+76.0,3.0,Missed Shot,Liam O'Brien Wide of Net Anthony Stolarz,1st
+65.0,-5.0,Shot,Lawson Crouse Snap Shot saved by Anthony Stolarz,1st
+78.0,4.0,Missed Shot,Ben McCartney Wide of Net Anthony Stolarz,1st
+63.0,16.0,Shot,Cam Dineen Wrist Shot saved by Anthony Stolarz,2nd
+77.0,-12.0,Shot,Andrew Ladd Wrist Shot saved by Anthony Stolarz,2nd
+63.0,-4.0,Shot,Christian Fischer Wrist Shot saved by Anthony Stolarz,2nd
+63.0,24.0,Missed Shot,Lawson Crouse Wide of Net Anthony Stolarz,2nd
+63.0,12.0,Shot,Ilya Lyubushkin Slap Shot saved by Anthony Stolarz,2nd
+59.0,21.0,Missed Shot,Phil Kessel Hit Crossbar Anthony Stolarz,2nd
+62.0,13.0,Shot,Shayne Gostisbehere Wrist Shot saved by Anthony Stolarz,2nd
+78.0,0.0,Missed Shot,Dmitrij Jaskin Wide of Net Anthony Stolarz,3rd
+11.0,-26.0,Shot,Jakob Chychrun Snap Shot saved by Anthony Stolarz,3rd
+75.0,30.0,Shot,Anton Stralman Wrist Shot saved by Anthony Stolarz,3rd
+86.0,5.0,Shot,Lawson Crouse Wrap-around saved by Anthony Stolarz,3rd
+48.0,-16.0,Shot,Lawson Crouse Slap Shot saved by Anthony Stolarz,3rd
+50.0,0.0,Missed Shot,Ilya Lyubushkin Hit Crossbar Anthony Stolarz,3rd
+84.0,7.0,Shot,Dmitrij Jaskin Wrist Shot saved by Anthony Stolarz,3rd
+55.0,-18.0,Missed Shot,Clayton Keller Wide of Net Anthony Stolarz,3rd
+82.0,-8.0,Shot,Phil Kessel Backhand saved by Anthony Stolarz,3rd
+39.0,-30.0,Shot,Jakob Chychrun Snap Shot saved by Anthony Stolarz,3rd
+79.0,-16.0,Shot,Liam O'Brien Wrist Shot saved by Anthony Stolarz,3rd
+40.0,-31.0,Missed Shot,Shayne Gostisbehere Wide of Net Anthony Stolarz,3rd
+80.0,-2.0,Goal,"Shayne Gostisbehere (1) Tip-In, assists: Liam O'Brien (1), Christian Fischer (2)",3rd
+66.0,12.0,Goal,"Antoine Roussel (1) Wrist Shot, assists: Shayne Gostisbehere (6)",1st
+84.0,16.0,Shot,Cam Dineen Wrist Shot saved by Philipp Grubauer,1st
+38.0,27.0,Missed Shot,Jakob Chychrun Wide of Net Philipp Grubauer,1st
+78.0,-1.0,Shot,Clayton Keller Deflected saved by Philipp Grubauer,1st
+69.0,-11.0,Shot,Clayton Keller Wrist Shot saved by Philipp Grubauer,1st
+60.0,-14.0,Shot,Jakob Chychrun Wrist Shot saved by Philipp Grubauer,1st
+28.0,-35.0,Missed Shot,Ilya Lyubushkin Wide of Net Philipp Grubauer,1st
+46.0,27.0,Missed Shot,Cam Dineen Wide of Net Philipp Grubauer,1st
+61.0,38.0,Shot,Cam Dineen Wrist Shot saved by Philipp Grubauer,1st
+58.0,34.0,Shot,Cam Dineen Wrist Shot saved by Philipp Grubauer,1st
+68.0,30.0,Shot,Shayne Gostisbehere Wrist Shot saved by Philipp Grubauer,1st
+46.0,22.0,Shot,Jakob Chychrun Wrist Shot saved by Philipp Grubauer,2nd
+82.0,9.0,Goal,"Travis Boyd (2) Wrist Shot, assists: Christian Fischer (3), Shayne Gostisbehere (7)",2nd
+63.0,13.0,Shot,Ben McCartney Snap Shot saved by Philipp Grubauer,2nd
+48.0,18.0,Shot,Dmitrij Jaskin Wrist Shot saved by Philipp Grubauer,2nd
+60.0,-19.0,Shot,Shayne Gostisbehere Wrist Shot saved by Philipp Grubauer,2nd
+35.0,33.0,Missed Shot,Ilya Lyubushkin Wide of Net Philipp Grubauer,2nd
+45.0,-34.0,Shot,Antoine Roussel Wrist Shot saved by Philipp Grubauer,2nd
+59.0,-1.0,Shot,Lawson Crouse Wrist Shot saved by Philipp Grubauer,2nd
+85.0,6.0,Shot,Shayne Gostisbehere Wrap-around saved by Philipp Grubauer,2nd
+40.0,34.0,Missed Shot,Shayne Gostisbehere Wide of Net Philipp Grubauer,2nd
+57.0,-14.0,Goal,"Lawson Crouse (3) Wrist Shot, assists: Johan Larsson (4), Jakob Chychrun (1)",3rd
+76.0,-3.0,Shot,Jay Beagle Backhand saved by Philipp Grubauer,3rd
+81.0,-27.0,Shot,Ben McCartney Wrist Shot saved by Philipp Grubauer,3rd
+76.0,-31.0,Missed Shot,Dysin Mayo Wide of Net Philipp Grubauer,3rd
+41.0,-30.0,Shot,Jay Beagle Snap Shot saved by Philipp Grubauer,3rd
+65.0,-10.0,Missed Shot,Cam Dineen Wide of Net Philipp Grubauer,3rd
+60.0,-12.0,Goal,"Phil Kessel (2) Wrist Shot, assists: Clayton Keller (2), Shayne Gostisbehere (8)",3rd
+70.0,5.0,Goal,"Lawson Crouse (4) Wrist Shot, assists: Johan Larsson (5)",3rd
+40.0,-13.0,Shot,Dmitrij Jaskin Backhand saved by Kaapo Kahkonen,1st
+68.0,-32.0,Shot,Dysin Mayo Wrist Shot saved by Kaapo Kahkonen,1st
+84.0,7.0,Missed Shot,Loui Eriksson Wide of Net Kaapo Kahkonen,1st
+41.0,32.0,Shot,Johan Larsson Snap Shot saved by Kaapo Kahkonen,1st
+46.0,32.0,Missed Shot,Jakob Chychrun Wide of Net Kaapo Kahkonen,1st
+49.0,-4.0,Shot,Anton Stralman Wrist Shot saved by Kaapo Kahkonen,1st
+38.0,-32.0,Missed Shot,Jakob Chychrun Wide of Net Kaapo Kahkonen,1st
+38.0,19.0,Shot,Jakob Chychrun Wrist Shot saved by Kaapo Kahkonen,1st
+39.0,8.0,Missed Shot,Jakob Chychrun Wide of Net Kaapo Kahkonen,1st
+62.0,10.0,Goal,"Andrew Ladd (2) Wrist Shot, assists: Dmitrij Jaskin (1), Shayne Gostisbehere (9)",1st
+59.0,-38.0,Shot,Dmitrij Jaskin Wrist Shot saved by Kaapo Kahkonen,1st
+45.0,-2.0,Missed Shot,Travis Boyd Wide of Net Kaapo Kahkonen,1st
+32.0,5.0,Shot,Jakob Chychrun Slap Shot saved by Kaapo Kahkonen,1st
+82.0,6.0,Shot,Clayton Keller Tip-In saved by Kaapo Kahkonen,2nd
+81.0,-4.0,Shot,Travis Boyd Backhand saved by Kaapo Kahkonen,2nd
+81.0,-2.0,Missed Shot,Barrett Hayton Wide of Net Kaapo Kahkonen,2nd
+52.0,33.0,Shot,Jakob Chychrun Wrist Shot saved by Kaapo Kahkonen,2nd
+43.0,10.0,Missed Shot,Jakob Chychrun Wide of Net Kaapo Kahkonen,2nd
+48.0,-29.0,Missed Shot,Clayton Keller Wide of Net Kaapo Kahkonen,2nd
+36.0,-32.0,Shot,Clayton Keller Wrist Shot saved by Kaapo Kahkonen,2nd
+46.0,14.0,Missed Shot,Jakob Chychrun Wide of Net Kaapo Kahkonen,2nd
+54.0,37.0,Missed Shot,Dmitrij Jaskin Wide of Net Kaapo Kahkonen,2nd
+78.0,3.0,Shot,Lawson Crouse Backhand saved by Kaapo Kahkonen,2nd
+78.0,1.0,Missed Shot,Loui Eriksson Over Net Kaapo Kahkonen,2nd
+47.0,20.0,Missed Shot,Shayne Gostisbehere Wide of Net Kaapo Kahkonen,3rd
+39.0,27.0,Shot,Shayne Gostisbehere Wrist Shot saved by Kaapo Kahkonen,3rd
+43.0,-34.0,Missed Shot,Jakob Chychrun Wide of Net Kaapo Kahkonen,3rd
+33.0,8.0,Shot,Shayne Gostisbehere Slap Shot saved by Kaapo Kahkonen,3rd
+60.0,-31.0,Missed Shot,Jakob Chychrun Wide of Net Kaapo Kahkonen,3rd
+52.0,24.0,Shot,Dmitrij Jaskin Slap Shot saved by Kaapo Kahkonen,3rd
+46.0,-13.0,Shot,Barrett Hayton Wrist Shot saved by Kaapo Kahkonen,3rd
+64.0,4.0,Goal,"Shayne Gostisbehere (2) Snap Shot, assists: Clayton Keller (3), Travis Boyd (1)",3rd
+60.0,-31.0,Missed Shot,Lawson Crouse Hit Crossbar Kaapo Kahkonen,3rd
+44.0,-27.0,Shot,Dysin Mayo Slap Shot saved by Kaapo Kahkonen,3rd
+38.0,21.0,Shot,Anton Stralman Slap Shot saved by Kaapo Kahkonen,3rd
+42.0,25.0,Shot,Phil Kessel Wrist Shot saved by Kaapo Kahkonen,3rd
+35.0,-7.0,Shot,Jakob Chychrun Wrist Shot saved by Kaapo Kahkonen,3rd
+50.0,32.0,Shot,Lawson Crouse Wrist Shot saved by Kaapo Kahkonen,3rd
+82.0,-4.0,Shot,Lawson Crouse Wrist Shot saved by Kaapo Kahkonen,3rd
+75.0,2.0,Shot,Lawson Crouse Deflected saved by Kaapo Kahkonen,3rd
+59.0,16.0,Shot,Ilya Lyubushkin Wrist Shot saved by Kaapo Kahkonen,3rd
+60.0,-30.0,Missed Shot,Jakob Chychrun Wide of Net Marc-Andre Fleury,1st
+43.0,-14.0,Shot,Ilya Lyubushkin Wrist Shot saved by Marc-Andre Fleury,1st
+71.0,15.0,Shot,Dysin Mayo Backhand saved by Marc-Andre Fleury,1st
+48.0,-17.0,Shot,Alex Galchenyuk Wrist Shot saved by Marc-Andre Fleury,1st
+38.0,15.0,Shot,Lawson Crouse Snap Shot saved by Marc-Andre Fleury,1st
+82.0,-2.0,Shot,Johan Larsson Wrist Shot saved by Marc-Andre Fleury,1st
+77.0,-9.0,Shot,Johan Larsson Backhand saved by Marc-Andre Fleury,1st
+56.0,-29.0,Shot,Barrett Hayton Wrist Shot saved by Marc-Andre Fleury,1st
+32.0,29.0,Missed Shot,Shayne Gostisbehere Wide of Net Marc-Andre Fleury,1st
+77.0,7.0,Missed Shot,Lawson Crouse Wide of Net Marc-Andre Fleury,2nd
+33.0,26.0,Shot,Anton Stralman Slap Shot saved by Marc-Andre Fleury,2nd
+67.0,-16.0,Shot,Travis Boyd Wrist Shot saved by Marc-Andre Fleury,2nd
+76.0,5.0,Missed Shot,Travis Boyd Wide of Net Marc-Andre Fleury,2nd
+69.0,37.0,Shot,Christian Fischer Wrist Shot saved by Marc-Andre Fleury,2nd
+51.0,0.0,Shot,Clayton Keller Slap Shot saved by Marc-Andre Fleury,2nd
+79.0,-9.0,Shot,Barrett Hayton Backhand saved by Marc-Andre Fleury,2nd
+40.0,33.0,Shot,Clayton Keller Slap Shot saved by Marc-Andre Fleury,2nd
+41.0,-19.0,Shot,Jakob Chychrun Wrist Shot saved by Marc-Andre Fleury,3rd
+45.0,-20.0,Goal,"Andrew Ladd (3) Wrist Shot, assists: Kyle Capobianco (1), Lawson Crouse (3)",3rd
+82.0,-9.0,Shot,Clayton Keller Backhand saved by Marc-Andre Fleury,3rd
+73.0,-6.0,Missed Shot,Loui Eriksson Wide of Net Marc-Andre Fleury,3rd
+70.0,8.0,Shot,Johan Larsson Snap Shot saved by Marc-Andre Fleury,3rd
+53.0,24.0,Shot,Jakob Chychrun Wrist Shot saved by Marc-Andre Fleury,3rd
+32.0,0.0,Missed Shot,Johan Larsson Wide of Net Marc-Andre Fleury,3rd
+85.0,5.0,Shot,Phil Kessel Wrap-around saved by Marc-Andre Fleury,3rd
+76.0,6.0,Shot,Phil Kessel Wrist Shot saved by Marc-Andre Fleury,3rd
+55.0,2.0,Missed Shot,Clayton Keller Wide of Net Marc-Andre Fleury,3rd
+66.0,16.0,Missed Shot,Shayne Gostisbehere Over Net Marc-Andre Fleury,3rd
+48.0,24.0,Shot,Kyle Capobianco Slap Shot saved by Marc-Andre Fleury,3rd
+74.0,7.0,Shot,Lawson Crouse Wrist Shot saved by Marc-Andre Fleury,3rd
+42.0,-30.0,Shot,Phil Kessel Wrist Shot saved by Marc-Andre Fleury,3rd
+81.0,7.0,Missed Shot,Phil Kessel Wide of Net Marc-Andre Fleury,3rd
+63.0,27.0,Shot,Lawson Crouse Slap Shot saved by Juuse Saros,1st
+76.0,8.0,Shot,Clayton Keller Snap Shot saved by Juuse Saros,1st
+77.0,10.0,Shot,Clayton Keller Slap Shot saved by Juuse Saros,1st
+81.0,11.0,Missed Shot,Clayton Keller Wide of Net Juuse Saros,1st
+66.0,-23.0,Shot,Jakob Chychrun Snap Shot saved by Juuse Saros,1st
+41.0,10.0,Missed Shot,Shayne Gostisbehere Wide of Net Juuse Saros,1st
+55.0,1.0,Missed Shot,Phil Kessel Over Net Juuse Saros,1st
+48.0,1.0,Shot,Phil Kessel Wrist Shot saved by Juuse Saros,1st
+45.0,-6.0,Missed Shot,Shayne Gostisbehere Wide of Net Juuse Saros,1st
+68.0,-20.0,Shot,Clayton Keller Wrist Shot saved by Juuse Saros,2nd
+69.0,18.0,Shot,Alex Galchenyuk Wrist Shot saved by Juuse Saros,2nd
+59.0,7.0,Shot,Phil Kessel Wrist Shot saved by Juuse Saros,2nd
+38.0,24.0,Shot,Jakob Chychrun Wrist Shot saved by Juuse Saros,2nd
+41.0,-24.0,Shot,Anton Stralman Slap Shot saved by Juuse Saros,2nd
+50.0,-17.0,Shot,Dysin Mayo Wrist Shot saved by Juuse Saros,2nd
+67.0,17.0,Shot,Phil Kessel Snap Shot saved by Juuse Saros,2nd
+45.0,-9.0,Shot,Antoine Roussel Wrist Shot saved by Juuse Saros,3rd
+37.0,32.0,Shot,Dysin Mayo Wrist Shot saved by Juuse Saros,3rd
+55.0,-17.0,Shot,Phil Kessel Wrist Shot saved by Juuse Saros,3rd
+80.0,-2.0,Shot,Johan Larsson Tip-In saved by Juuse Saros,3rd
+44.0,33.0,Shot,Phil Kessel Wrist Shot saved by Juuse Saros,3rd
+51.0,0.0,Shot,Loui Eriksson Wrist Shot saved by Juuse Saros,3rd
+74.0,33.0,Shot,Alex Galchenyuk Backhand saved by Juuse Saros,3rd
+57.0,9.0,Shot,Alex Galchenyuk Wrist Shot saved by Juuse Saros,3rd
+54.0,22.0,Missed Shot,Barrett Hayton Wide of Net Juuse Saros,3rd
+33.0,-25.0,Shot,Jakob Chychrun Wrist Shot saved by Juuse Saros,3rd
+48.0,7.0,Missed Shot,Lawson Crouse Wide of Net Juuse Saros,3rd
+56.0,0.0,Shot,Clayton Keller Deflected saved by Juuse Saros,3rd
+47.0,11.0,Goal,"Jakob Chychrun (1) Wrist Shot, assists: Phil Kessel (4), Shayne Gostisbehere (10)",3rd
+77.0,-27.0,Missed Shot,Lawson Crouse Over Net Jordan Binnington,1st
+83.0,-22.0,Shot,Phil Kessel Wrist Shot saved by Jordan Binnington,1st
+64.0,-20.0,Shot,Antoine Roussel Wrist Shot saved by Jordan Binnington,1st
+75.0,1.0,Shot,Clayton Keller Wrist Shot saved by Jordan Binnington,1st
+45.0,19.0,Shot,Alex Galchenyuk Snap Shot saved by Jordan Binnington,1st
+40.0,15.0,Goal,"Kyle Capobianco (1) Wrist Shot, assists: Lawson Crouse (4), Alex Galchenyuk (1)",1st
+46.0,-27.0,Shot,Jakob Chychrun Wrist Shot saved by Jordan Binnington,1st
+64.0,-14.0,Shot,Lawson Crouse Wrist Shot saved by Jordan Binnington,1st
+31.0,-22.0,Shot,Dysin Mayo Wrist Shot saved by Jordan Binnington,1st
+53.0,1.0,Shot,Kyle Capobianco Wrist Shot saved by Jordan Binnington,1st
+95.0,12.0,Shot,Kyle Capobianco Slap Shot saved by Jordan Binnington,1st
+74.0,-9.0,Missed Shot,Alex Galchenyuk Wide of Net Jordan Binnington,1st
+37.0,-27.0,Missed Shot,Jakob Chychrun Wide of Net Jordan Binnington,1st
+68.0,27.0,Missed Shot,Phil Kessel Wide of Net Jordan Binnington,1st
+21.0,-28.0,Shot,Clayton Keller Wrist Shot saved by Jordan Binnington,1st
+83.0,-13.0,Missed Shot,Lawson Crouse Wide of Net Jordan Binnington,2nd
+75.0,-3.0,Shot,Jay Beagle Wrist Shot saved by Jordan Binnington,2nd
+47.0,16.0,Shot,Jan Jenik Wrist Shot saved by Jordan Binnington,2nd
+43.0,23.0,Missed Shot,Jakob Chychrun Wide of Net Jordan Binnington,2nd
+74.0,10.0,Missed Shot,Alex Galchenyuk Wide of Net Jordan Binnington,2nd
+47.0,30.0,Shot,Jakob Chychrun Snap Shot saved by Jordan Binnington,2nd
+53.0,35.0,Shot,Antoine Roussel Tip-In saved by Jordan Binnington,2nd
+67.0,-13.0,Shot,Liam O'Brien Wrist Shot saved by Jordan Binnington,2nd
+74.0,6.0,Goal,"Barrett Hayton (1) Wrist Shot, assists: none",2nd
+67.0,-18.0,Shot,Loui Eriksson Wrist Shot saved by Jordan Binnington,2nd
+65.0,-16.0,Shot,Antoine Roussel Wrist Shot saved by Jordan Binnington,2nd
+46.0,32.0,Shot,Shayne Gostisbehere Wrist Shot saved by Jordan Binnington,2nd
+71.0,-30.0,Missed Shot,Loui Eriksson Wide of Net Jordan Binnington,3rd
+37.0,-27.0,Shot,Shayne Gostisbehere Slap Shot saved by Jordan Binnington,3rd
+74.0,1.0,Shot,Lawson Crouse Wrist Shot saved by Jordan Binnington,3rd
+78.0,-1.0,Goal,"Barrett Hayton (2) Tip-In, assists: Shayne Gostisbehere (11), Phil Kessel (5)",3rd
+51.0,-23.0,Shot,Phil Kessel Wrist Shot saved by Elvis Merzlikins,1st
+85.0,-6.0,Shot,Travis Boyd Wrist Shot saved by Elvis Merzlikins,1st
+37.0,-20.0,Missed Shot,Clayton Keller Wide of Net Elvis Merzlikins,1st
+62.0,24.0,Goal,"Ryan Dzingel (1) Wrist Shot, assists: Alex Galchenyuk (2), Kyle Capobianco (2)",1st
+47.0,21.0,Shot,Shayne Gostisbehere Slap Shot saved by Elvis Merzlikins,1st
+56.0,28.0,Shot,Jakob Chychrun Wrist Shot saved by Elvis Merzlikins,1st
+64.0,-15.0,Shot,Alex Galchenyuk Snap Shot saved by Elvis Merzlikins,1st
+82.0,-2.0,Missed Shot,Hudson Fasching Wide of Net Elvis Merzlikins,1st
+54.0,-12.0,Missed Shot,Dysin Mayo Wide of Net Elvis Merzlikins,1st
+58.0,3.0,Shot,Antoine Roussel Wrist Shot saved by Elvis Merzlikins,1st
+37.0,23.0,Missed Shot,Hudson Fasching Wide of Net Elvis Merzlikins,1st
+33.0,-30.0,Shot,Jakob Chychrun Wrist Shot saved by Elvis Merzlikins,1st
+57.0,-25.0,Shot,Ilya Lyubushkin Wrist Shot saved by Elvis Merzlikins,1st
+78.0,2.0,Missed Shot,Clayton Keller Wide of Net Elvis Merzlikins,2nd
+35.0,23.0,Missed Shot,Jakob Chychrun Wide of Net Elvis Merzlikins,2nd
+49.0,27.0,Shot,Lawson Crouse Wrist Shot saved by Elvis Merzlikins,2nd
+78.0,9.0,Shot,Phil Kessel Wrist Shot saved by Elvis Merzlikins,2nd
+39.0,-30.0,Shot,Jakob Chychrun Wrist Shot saved by Elvis Merzlikins,2nd
+82.0,-4.0,Shot,Travis Boyd Tip-In saved by Elvis Merzlikins,2nd
+81.0,-8.0,Shot,Travis Boyd Wrist Shot saved by Elvis Merzlikins,2nd
+77.0,3.0,Shot,Barrett Hayton Wrist Shot saved by Elvis Merzlikins,2nd
+61.0,-13.0,Shot,Dysin Mayo Wrist Shot saved by Elvis Merzlikins,2nd
+59.0,22.0,Goal,"Phil Kessel (3) Wrist Shot, assists: none",2nd
+74.0,-10.0,Shot,Lawson Crouse Wrist Shot saved by Elvis Merzlikins,2nd
+72.0,-5.0,Goal,"Lawson Crouse (5) Wrist Shot, assists: Travis Boyd (2), Jakob Chychrun (2)",2nd
+78.0,-6.0,Shot,Jakob Chychrun Tip-In saved by Elvis Merzlikins,2nd
+68.0,-18.0,Missed Shot,Hudson Fasching Wide of Net Elvis Merzlikins,3rd
+83.0,-6.0,Shot,Hudson Fasching Backhand saved by Elvis Merzlikins,3rd
+60.0,12.0,Missed Shot,Ryan Dzingel Over Net Elvis Merzlikins,3rd
+75.0,14.0,Shot,Barrett Hayton Wrist Shot saved by Elvis Merzlikins,3rd
+78.0,-9.0,Missed Shot,Barrett Hayton Wide of Net Elvis Merzlikins,3rd
+58.0,-10.0,Shot,Clayton Keller Wrist Shot saved by Elvis Merzlikins,3rd
+52.0,-14.0,Shot,Loui Eriksson Wrist Shot saved by Elvis Merzlikins,3rd
+35.0,18.0,Missed Shot,Kyle Capobianco Wide of Net Elvis Merzlikins,3rd
+66.0,33.0,Shot,Jay Beagle Backhand saved by Elvis Merzlikins,3rd
+85.0,-11.0,Missed Shot,Clayton Keller Over Net Elvis Merzlikins,3rd
+65.0,18.0,Goal,"Jakob Chychrun (2) Snap Shot, assists: Clayton Keller (4), Ilya Lyubushkin (3)",3rd
+57.0,22.0,Shot,Jakob Chychrun Wrist Shot saved by Elvis Merzlikins,3rd
+77.0,-18.0,Missed Shot,Jakob Chychrun Over Net Elvis Merzlikins,3rd
+43.0,17.0,Shot,Jakob Chychrun Wrist Shot saved by Elvis Merzlikins,3rd
+61.0,27.0,Shot,Lawson Crouse Wrist Shot saved by Elvis Merzlikins,OT
+73.0,2.0,Shot,Clayton Keller Wrist Shot saved by Elvis Merzlikins,SO
+73.0,5.0,Goal,Alex Galchenyuk - Wrist Shot,SO
+73.0,4.0,Shot,Phil Kessel Wrist Shot saved by Elvis Merzlikins,SO
+74.0,-3.0,Shot,Travis Boyd Wrist Shot saved by Elvis Merzlikins,SO
+75.0,1.0,Shot,Barrett Hayton Wrist Shot saved by Elvis Merzlikins,SO
+73.0,1.0,Goal,Jakob Chychrun - Wrist Shot,SO
+73.0,1.0,Shot,Antoine Roussel Wrist Shot saved by Elvis Merzlikins,SO
+50.0,1.0,Shot,Antoine Roussel Slap Shot saved by Alex Nedeljkovic,1st
+42.0,-23.0,Shot,Ilya Lyubushkin Slap Shot saved by Alex Nedeljkovic,1st
+35.0,34.0,Missed Shot,Jakob Chychrun Wide of Net Alex Nedeljkovic,1st
+38.0,-5.0,Missed Shot,Dysin Mayo Wide of Net Alex Nedeljkovic,1st
+69.0,6.0,Shot,Barrett Hayton Tip-In saved by Alex Nedeljkovic,1st
+70.0,0.0,Missed Shot,Loui Eriksson Over Net Alex Nedeljkovic,1st
+74.0,-16.0,Shot,Lawson Crouse Wrist Shot saved by Alex Nedeljkovic,1st
+54.0,35.0,Missed Shot,Phil Kessel Wide of Net Alex Nedeljkovic,1st
+36.0,26.0,Shot,Shayne Gostisbehere Slap Shot saved by Alex Nedeljkovic,1st
+60.0,-27.0,Shot,Travis Boyd Wrist Shot saved by Alex Nedeljkovic,1st
+34.0,33.0,Shot,Alex Galchenyuk Snap Shot saved by Alex Nedeljkovic,1st
+75.0,-36.0,Shot,Kyle Capobianco Slap Shot saved by Alex Nedeljkovic,1st
+56.0,30.0,Missed Shot,Phil Kessel Wide of Net Alex Nedeljkovic,1st
+57.0,-38.0,Shot,Lawson Crouse Wrist Shot saved by Alex Nedeljkovic,2nd
+39.0,35.0,Missed Shot,Phil Kessel Wide of Net Alex Nedeljkovic,2nd
+74.0,-20.0,Shot,Alex Galchenyuk Wrist Shot saved by Alex Nedeljkovic,2nd
+37.0,-27.0,Shot,Jakob Chychrun Slap Shot saved by Alex Nedeljkovic,2nd
+58.0,-15.0,Shot,Shayne Gostisbehere Wrist Shot saved by Alex Nedeljkovic,2nd
+75.0,-1.0,Missed Shot,Hudson Fasching Wide of Net Alex Nedeljkovic,2nd
+52.0,6.0,Shot,Clayton Keller Wrist Shot saved by Alex Nedeljkovic,2nd
+50.0,32.0,Missed Shot,Lawson Crouse Wide of Net Alex Nedeljkovic,2nd
+77.0,-13.0,Shot,Ryan Dzingel Wrist Shot saved by Alex Nedeljkovic,2nd
+45.0,1.0,Missed Shot,Cam Dineen Wide of Net Alex Nedeljkovic,2nd
+51.0,29.0,Shot,Jakob Chychrun Wrist Shot saved by Alex Nedeljkovic,3rd
+77.0,27.0,Shot,Shayne Gostisbehere Wrist Shot saved by Alex Nedeljkovic,3rd
+41.0,-15.0,Missed Shot,Barrett Hayton Wide of Net Alex Nedeljkovic,3rd
+44.0,-29.0,Shot,Shayne Gostisbehere Snap Shot saved by Alex Nedeljkovic,3rd
+49.0,22.0,Shot,Jakob Chychrun Slap Shot saved by Alex Nedeljkovic,3rd
+69.0,22.0,Shot,Barrett Hayton Wrist Shot saved by Alex Nedeljkovic,3rd
+44.0,1.0,Missed Shot,Clayton Keller Wide of Net Alex Nedeljkovic,3rd
+62.0,-25.0,Shot,Jakob Chychrun Wrist Shot saved by Alex Nedeljkovic,3rd
+76.0,-22.0,Shot,Clayton Keller Slap Shot saved by Alex Nedeljkovic,3rd
+39.0,-29.0,Shot,Shayne Gostisbehere Snap Shot saved by Alex Nedeljkovic,3rd
+76.0,26.0,Shot,Alex Galchenyuk Wrist Shot saved by Alex Nedeljkovic,3rd
+70.0,13.0,Goal,"Ryan Dzingel (2) Tip-In, assists: Cam Dineen (1), Lawson Crouse (5)",3rd
+42.0,29.0,Shot,Shayne Gostisbehere Slap Shot saved by Alex Nedeljkovic,3rd
+60.0,-31.0,Shot,Ilya Lyubushkin Wrist Shot saved by Alex Nedeljkovic,3rd
+80.0,20.0,Shot,Clayton Keller Wrist Shot saved by Alex Nedeljkovic,3rd
+80.0,-19.0,Shot,Clayton Keller Wrist Shot saved by Alex Nedeljkovic,OT
+79.0,5.0,Goal,"Clayton Keller (4) Wrist Shot, assists: Jakob Chychrun (3), Phil Kessel (6)",OT
