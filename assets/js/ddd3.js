@@ -1,6 +1,6 @@
 
 // set the dimensions and margins of the graph
-var margin = {top: -40, right: 30, bottom: 60, left: 0},
+var margin = {top: -30, right: 30, bottom: 60, left: 0},
     width = 780 - margin.left - margin.right,
     height = 448 - margin.top - margin.bottom;
 
@@ -14,7 +14,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 // read data
-d3.csv("https://gideonvictor.com/kings_1.csv", function(data) {
+d3.csv("https://gideonvictor.com/kings_20201120.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
@@ -39,12 +39,12 @@ d3.csv("https://gideonvictor.com/kings_1.csv", function(data) {
 
   // Prepare a color palette
   var color = d3.scaleLinear()
-      .domain([4, 20]) // Number of points in the bin?
+      .domain([3, 15]) // Number of points in the bin?
       .range(["Transparent",  "#5D3FD3"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
-    .radius(15) // size of the bin in px
+    .radius(10) // size of the bin in px
     .extent([ [0, 0], [width, height] ])
 
   // Plot the hexbins
@@ -66,7 +66,7 @@ d3.csv("https://gideonvictor.com/kings_1.csv", function(data) {
       .attr("stroke-width", "0")
 })
 
-d3.csv("https://gideonvictor.com/hurricanes_0.csv", function(data) {
+d3.csv("https://gideonvictor.com/coyotes_20201120.csv", function(data) {
   // Add X axis
   var x = d3.scaleLinear()
     .domain([0, 100])
@@ -91,12 +91,12 @@ d3.csv("https://gideonvictor.com/hurricanes_0.csv", function(data) {
 
   // Prepare a color palette
   var color = d3.scaleLinear()
-      .domain([4, 20]) // Number of points in the bin?
+      .domain([3, 15]) // Number of points in the bin?
       .range(["Transparent",  "#8B0000"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
-    .radius(15) // size of the bin in px
+    .radius(10) // size of the bin in px
     .extent([ [0, 0], [width, height] ])
 
 
