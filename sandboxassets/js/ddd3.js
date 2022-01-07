@@ -1,9 +1,16 @@
 
-
 // set the dimensions and margins of the graph
-var margin = {top: 0, right: 30, bottom: 60, left: 0},
-    width = 780 - margin.left - margin.right,
-    height = 448 - margin.top - margin.bottom;
+var margin = {top: -45, right: 20, bottom: -50, left: -6},
+    width = 990 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom,
+    raddd = 1;
+
+    // var raddd = 10; // You better declare this var outside the event handler function if you want to use it else where
+    //
+    // $("#slider").on("change",function(){
+    //     raddd = $(this).val();
+    //     console.log(raddd)
+    // });
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -14,10 +21,8 @@ var svg = d3.select("#my_dataviz")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
 
-
-
 // read data
-d3.csv("https://gideonvictor.com/kings_20201120.csv", function(data) {
+d3.csv("https://gideonvictor.com/Orient.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
@@ -42,12 +47,12 @@ d3.csv("https://gideonvictor.com/kings_20201120.csv", function(data) {
 
   // Prepare a color palette
   var color = d3.scaleLinear()
-      .domain([3, 15]) // Number of points in the bin?
+      .domain([0, 1]) // Number of points in the bin?
       .range(["Transparent",  "#5D3FD3"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
-    .radius(10) // size of the bin in px
+    .radius(raddd) // size of the bin in px
     .extent([ [0, 0], [width, height] ])
 
   // Plot the hexbins
@@ -69,11 +74,11 @@ d3.csv("https://gideonvictor.com/kings_20201120.csv", function(data) {
       .attr("stroke-width", "0")
 })
 
-d3.csv("https://gideonvictor.com/coyotes_20201120.csv", function(data) {
+d3.csv("https://gideonvictor.com/Orient.csv", function(data) {
   // Add X axis
   var x = d3.scaleLinear()
     .domain([0, 100])
-    .range([ width/2, width-10]);
+    .range([ width/2, width]);
   // svg.append("g")
     // .attr("transform", "translate(0," + height + ")")
     // .call(d3.axisBottom(x));
@@ -89,17 +94,17 @@ d3.csv("https://gideonvictor.com/coyotes_20201120.csv", function(data) {
   // Reformat the data: d3.hexbin() needs a specific format
   var otherinputForHexbinFun = []
   data.forEach(function(d) {
-    otherinputForHexbinFun.push( [x(d.x), y(d.y)] )  // Note that we had the transform value of X and Y !
+    otherinputForHexbinFun.push( [x(d.x*-1), y(d.y*-1)] )  // Note that we had the transform value of X and Y !
   })
 
   // Prepare a color palette
   var color = d3.scaleLinear()
-      .domain([3, 15]) // Number of points in the bin?
+      .domain([0, 1]) // Number of points in the bin?
       .range(["Transparent",  "#8B0000"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
-    .radius(10) // size of the bin in px
+    .radius(raddd) // size of the bin in px
     .extent([ [0, 0], [width, height] ])
 
 

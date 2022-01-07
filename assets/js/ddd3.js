@@ -1,6 +1,10 @@
 
+
+
 // set the dimensions and margins of the graph
-var margin = {top: -30, right: 30, bottom: 60, left: 0},
+
+
+var margin = {top: 0, right: 0, bottom: 0, left: 0},
     width = 780 - margin.left - margin.right,
     height = 448 - margin.top - margin.bottom;
 
@@ -40,7 +44,7 @@ d3.csv("https://gideonvictor.com/kings_20201120.csv", function(data) {
   // Prepare a color palette
   var color = d3.scaleLinear()
       .domain([3, 15]) // Number of points in the bin?
-      .range(["Transparent",  "#5D3FD3"])
+      .range(["Transparent",  "#5D3FD3",  "#8B0000"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
