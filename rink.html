@@ -1,55 +1,53 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180528799-1"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-
-		  gtag('config', 'UA-180528799-1');
-		</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
 		<!-- Load d3.js -->
 		<script src="https://d3js.org/d3.v4.js"></script>
 		<!-- specific plugin -->
 		<script src="https://d3js.org/d3-hexbin.v0.2.min.js"></script>
 
-		<title>Gideon Victor</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-			<div id="wrapper">
-					<nav id="nav">
-						<a href="#Display" class="icon fa-image"><span>Display</span></a>
-					</nav>
-					<div id="main">
-								<article id="Display" class="panel">
-									<section>
-										<div class="row">
-											<div class="col-12">
-												<h1 style="text-align:center;">Kings vs. Coyotes</h1>
-												<div id="my_dataviz"></div>
-											</div>
-										</div>
-									</section>
-								</article>
-					</div>
-				<!-- Footer -->
-					<div id="footer">
-						<ul class="copyright">
-							<li><a href="https://gideonvictor.com/presentation/TheHumanExperience" target="_blank">Design: Victor Investments</a></li>
-						</ul>
-					</div>
-			</div>
+		<link rel="stylesheet" href="sandboxassets/css/main.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+		<noscript><link rel="stylesheet" href="sandboxassets/css/noscript.css" /></noscript>
+	</head>
+	<body>
+<div style="  margin: auto;
+width: 960px;
+padding: 10px;">
+<h1 style="text-align:center;
+font-size:30px;
+font-family: 'Montserrat', sans-serif;">
+Kings v. Predators <br />
+2022-01-06
+</h1>
+<form>
+  <!-- <input type=range min=2 max=20 step=.1 value = 10 id="sliderrr" style="width:680px;"> -->
+	<!-- <input type = "range" min="0" max="30" value="10" step=".1" id="slider" style="width:680px;"/> -->
+  <output style="font-size:smaller;font-style:oblique;" name=o></output>
+</form>
+<div class="chart" id="my_dataviz">
+<div class="chart" id="full-rink-horz">
+
+</div>
+</div>
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-			<script src="assets/js/ddd3.js"></script>
+			<script src="sandboxassets/js/jquery.min.js"></script>
+			<script src="sandboxassets/js/browser.min.js"></script>
+			<script src="sandboxassets/js/breakpoints.min.js"></script>
+			<script src="sandboxassets/js/util.js"></script>
+			<script src="sandboxassets/js/main.js"></script>
+			<script src="sandboxassets/js/rinkplot.js"></script>
+			<script src="sandboxassets/js/ddd3.js"></script>
+			<script>
+
+			</script>
+			</body>
 	</body>
 </html>

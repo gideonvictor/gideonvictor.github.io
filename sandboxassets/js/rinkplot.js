@@ -51,7 +51,7 @@ var RINK_MAP = function RinkMap(config){
         showDanger: true,
         horizontal: true,
         fullRink: true,
-        watermark: "Gideon Victor"
+        watermark: "LAKINGSPBP"
     }
 
     if (config !== "undefined"){

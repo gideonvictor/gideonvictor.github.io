@@ -1,9 +1,12 @@
 
 // set the dimensions and margins of the graph
-var margin = {top: -45, right: 20, bottom: -50, left: -6},
+var margin = {top: -35, right: 20, bottom: -50, left: -6},
     width = 990 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom,
-    raddd = 1;
+    raddd = 20
+    minnn = 0
+    maxxx = 3
+    ;
 
     // var raddd = 10; // You better declare this var outside the event handler function if you want to use it else where
     //
@@ -22,7 +25,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 // read data
-d3.csv("https://gideonvictor.com/Orient.csv", function(data) {
+d3.csv("https://gideonvictor.com/Kings.csv", function(data) {
 
   // Add X axis
   var x = d3.scaleLinear()
@@ -47,8 +50,8 @@ d3.csv("https://gideonvictor.com/Orient.csv", function(data) {
 
   // Prepare a color palette
   var color = d3.scaleLinear()
-      .domain([0, 1]) // Number of points in the bin?
-      .range(["Transparent",  "#5D3FD3"])
+      .domain([minnn, maxxx]) // Number of points in the bin?
+      .range(["Transparent",  "#572A84"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
@@ -74,7 +77,7 @@ d3.csv("https://gideonvictor.com/Orient.csv", function(data) {
       .attr("stroke-width", "0")
 })
 
-d3.csv("https://gideonvictor.com/Orient.csv", function(data) {
+d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
   // Add X axis
   var x = d3.scaleLinear()
     .domain([0, 100])
@@ -94,13 +97,13 @@ d3.csv("https://gideonvictor.com/Orient.csv", function(data) {
   // Reformat the data: d3.hexbin() needs a specific format
   var otherinputForHexbinFun = []
   data.forEach(function(d) {
-    otherinputForHexbinFun.push( [x(d.x*-1), y(d.y*-1)] )  // Note that we had the transform value of X and Y !
+    otherinputForHexbinFun.push( [x(d.x), y(d.y)] )  // Note that we had the transform value of X and Y !
   })
 
   // Prepare a color palette
   var color = d3.scaleLinear()
-      .domain([0, 1]) // Number of points in the bin?
-      .range(["Transparent",  "#8B0000"])
+      .domain([minnn, maxxx]) // Number of points in the bin?
+      .range(["Transparent",  "#041E42"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
