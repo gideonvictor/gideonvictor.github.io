@@ -1,29 +1,30 @@
 x,y,event,description,ordinalNum
-81.0,5.0,Shot,Alexandre Carrier Backhand saved by Jonathan Quick,1st
-50.0,-29.0,Goal,"Filip Forsberg (18) Snap Shot, assists: Roman Josi (20), Mikael Granlund (26)",1st
-52.0,22.0,Missed Shot,Nick Cousins Wide of Net Jonathan Quick,1st
-81.0,9.0,Missed Shot,Ryan Johansen Wide of Net Jonathan Quick,1st
-50.0,38.0,Shot,Eeli Tolvanen Wrist Shot saved by Jonathan Quick,1st
-83.0,-5.0,Shot,Nick Cousins Tip-In saved by Jonathan Quick,1st
-40.0,-16.0,Shot,Matt Luff Snap Shot saved by Jonathan Quick,1st
-83.0,-7.0,Missed Shot,Michael McCarron Over Net Jonathan Quick,1st
-80.0,0.0,Goal,"Matt Duchene (14) Wrist Shot, assists: Filip Forsberg (11), Roman Josi (21)",1st
-36.0,0.0,Shot,Philippe Myers Slap Shot saved by Jonathan Quick,2nd
-78.0,2.0,Shot,Matt Luff Wrist Shot saved by Jonathan Quick,2nd
-83.0,5.0,Goal,"Matt Luff (1) Tip-In, assists: Michael McCarron (1), Nick Cousins (5)",2nd
-84.0,5.0,Shot,Tanner Jeannot Wrist Shot saved by Jonathan Quick,2nd
-61.0,-1.0,Shot,Matt Benning Wrist Shot saved by Jonathan Quick,2nd
-77.0,-15.0,Missed Shot,Mark Borowiecki Wide of Net Jonathan Quick,2nd
-78.0,15.0,Missed Shot,Nick Cousins Wide of Net Jonathan Quick,2nd
-86.0,8.0,Shot,Alexandre Carrier Wrist Shot saved by Jonathan Quick,2nd
-82.0,14.0,Shot,Eeli Tolvanen Wrist Shot saved by Jonathan Quick,2nd
-54.0,9.0,Shot,Alexandre Carrier Wrist Shot saved by Jonathan Quick,2nd
-32.0,15.0,Missed Shot,Mark Borowiecki Wide of Net Jonathan Quick,3rd
-73.0,4.0,Missed Shot,Michael McCarron Wide of Net Jonathan Quick,3rd
-33.0,-21.0,Shot,Matt Benning Slap Shot saved by Jonathan Quick,3rd
-82.0,1.0,Shot,Luke Kunin Wrist Shot saved by Jonathan Quick,3rd
-74.0,2.0,Shot,Luke Kunin Wrist Shot saved by Jonathan Quick,3rd
-73.0,7.0,Shot,Filip Forsberg Snap Shot saved by Jonathan Quick,3rd
-55.0,6.0,Shot,Eeli Tolvanen Wrist Shot saved by Jonathan Quick,3rd
-14.0,-17.0,Missed Shot,Matt Duchene Wide of Net,3rd
-77.0,-2.0,Goal,"Yakov Trenin (8) Wrist Shot, assists: Tanner Jeannot (11), Colton Sissons (11)",3rd
+65.0,-13.0,Missed Shot,Filip Hronek Wide of Net Cal Petersen,1st
+63.0,-1.0,Shot,Pius Suter Snap Shot saved by Cal Petersen,1st
+84.0,-13.0,Missed Shot,Tyler Bertuzzi Wide of Net Cal Petersen,1st
+62.0,17.0,Shot,Robby Fabbri Snap Shot saved by Cal Petersen,1st
+32.0,-13.0,Shot,Filip Hronek Wrist Shot saved by Cal Petersen,2nd
+81.0,14.0,Shot,Robby Fabbri Wrist Shot saved by Cal Petersen,2nd
+57.0,23.0,Shot,Moritz Seider Slap Shot saved by Cal Petersen,2nd
+79.0,-7.0,Shot,Robby Fabbri Wrist Shot saved by Cal Petersen,2nd
+85.0,-22.0,Missed Shot,Sam Gagner Wide of Net Cal Petersen,2nd
+55.0,-9.0,Shot,Dylan Larkin Wrist Shot saved by Cal Petersen,2nd
+54.0,-18.0,Shot,Sam Gagner Wrist Shot saved by Cal Petersen,2nd
+81.0,-4.0,Shot,Tyler Bertuzzi Wrist Shot saved by Cal Petersen,2nd
+67.0,-16.0,Missed Shot,Lucas Raymond Over Net Cal Petersen,2nd
+52.0,-12.0,Shot,Pius Suter Snap Shot saved by Cal Petersen,2nd
+68.0,-2.0,Missed Shot,Pius Suter Over Net Cal Petersen,2nd
+56.0,35.0,Shot,Michael Rasmussen Wrist Shot saved by Cal Petersen,2nd
+85.0,7.0,Shot,Vladislav Namestnikov Wrist Shot saved by Cal Petersen,2nd
+73.0,-3.0,Shot,Joe Veleno Tip-In saved by Cal Petersen,3rd
+63.0,2.0,Shot,Pius Suter Snap Shot saved by Cal Petersen,3rd
+85.0,-23.0,Shot,Tyler Bertuzzi Snap Shot saved by Cal Petersen,3rd
+48.0,-34.0,Shot,Sam Gagner Wrist Shot saved by Cal Petersen,3rd
+49.0,1.0,Shot,Lucas Raymond Wrist Shot saved by Cal Petersen,3rd
+64.0,19.0,Missed Shot,Robby Fabbri Wide of Net Cal Petersen,3rd
+78.0,1.0,Missed Shot,Vladislav Namestnikov Wide of Net Cal Petersen,3rd
+67.0,-32.0,Shot,Dylan Larkin Wrist Shot saved by Cal Petersen,3rd
+63.0,-33.0,Missed Shot,Moritz Seider Wide of Net Cal Petersen,3rd
+48.0,25.0,Shot,Filip Hronek Slap Shot saved by Cal Petersen,3rd
+78.0,0.0,Shot,Pius Suter Wrist Shot saved by Cal Petersen,3rd
+24.0,18.0,Shot,Sam Gagner Wrist Shot saved by Cal Petersen,3rd

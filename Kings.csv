@@ -1,63 +1,55 @@
 x,y,event,description,ordinalNum
--85.0,-18.0,Missed Shot,Brendan Lemieux Wide of Net Juuse Saros,1st
--67.0,-17.0,Shot,Phillip Danault Snap Shot saved by Juuse Saros,1st
--67.0,-17.0,Shot,Blake Lizotte Tip-In saved by Juuse Saros,1st
--38.0,-3.0,Shot,Drew Doughty Wrist Shot saved by Juuse Saros,1st
--88.0,5.0,Shot,Phillip Danault Backhand saved by Juuse Saros,1st
--82.0,5.0,Shot,Phillip Danault Backhand saved by Juuse Saros,1st
--57.0,26.0,Shot,Anze Kopitar Slap Shot saved by Juuse Saros,1st
--73.0,17.0,Shot,Anze Kopitar Snap Shot saved by Juuse Saros,1st
--78.0,-7.0,Shot,Martin Frk Wrist Shot saved by Juuse Saros,1st
--49.0,-17.0,Missed Shot,Drew Doughty Goalpost Juuse Saros,1st
--67.0,21.0,Missed Shot,Anze Kopitar Wide of Net Juuse Saros,1st
--82.0,1.0,Missed Shot,Martin Frk Wide of Net Juuse Saros,1st
--82.0,8.0,Shot,Phillip Danault Deflected saved by Juuse Saros,1st
--50.0,-19.0,Shot,Mikey Anderson Wrist Shot saved by Juuse Saros,1st
--46.0,-30.0,Shot,Trevor Moore Wrist Shot saved by Juuse Saros,1st
--63.0,13.0,Shot,Rasmus Kupari Wrist Shot saved by Juuse Saros,1st
--82.0,-3.0,Shot,Adrian Kempe Wrist Shot saved by Juuse Saros,1st
--66.0,34.0,Shot,Viktor Arvidsson Slap Shot saved by Juuse Saros,2nd
--80.0,3.0,Missed Shot,Trevor Moore Wide of Net Juuse Saros,2nd
--49.0,11.0,Shot,Jacob Moverare Wrist Shot saved by Juuse Saros,2nd
--79.0,3.0,Shot,Adrian Kempe Wrist Shot saved by Juuse Saros,2nd
--64.0,39.0,Shot,Lias Andersson Wrist Shot saved by Juuse Saros,2nd
--81.0,-2.0,Goal,"Dustin Brown (5) Wrist Shot, assists: none",2nd
--34.0,-7.0,Shot,Mikey Anderson Snap Shot saved by Juuse Saros,2nd
--32.0,-19.0,Missed Shot,Adrian Kempe Wide of Net Juuse Saros,2nd
--35.0,-4.0,Shot,Martin Frk Slap Shot saved by Juuse Saros,2nd
--52.0,8.0,Missed Shot,Trevor Moore Over Net Juuse Saros,2nd
--80.0,-2.0,Shot,Brendan Lemieux Tip-In saved by Juuse Saros,2nd
--70.0,-17.0,Missed Shot,Adrian Kempe Wide of Net Juuse Saros,2nd
--77.0,24.0,Missed Shot,Viktor Arvidsson Wide of Net Juuse Saros,2nd
--18.0,-32.0,Shot,Phillip Danault Backhand saved by Juuse Saros,2nd
--34.0,-26.0,Shot,Dustin Brown Wrist Shot saved by Juuse Saros,2nd
--69.0,-20.0,Shot,Anze Kopitar Backhand saved by Juuse Saros,2nd
--64.0,22.0,Shot,Martin Frk Slap Shot saved by Juuse Saros,2nd
--67.0,40.0,Shot,Arthur Kaliyev Wrist Shot saved by Juuse Saros,2nd
--64.0,-33.0,Shot,Dustin Brown Wrist Shot saved by Juuse Saros,2nd
--65.0,34.0,Missed Shot,Anze Kopitar Over Net Juuse Saros,3rd
--82.0,-2.0,Shot,Phillip Danault Deflected saved by Juuse Saros,3rd
--69.0,-3.0,Missed Shot,Rasmus Kupari Wide of Net Juuse Saros,3rd
--86.0,-6.0,Shot,Arthur Kaliyev Backhand saved by Juuse Saros,3rd
--85.0,-11.0,Shot,Matt Roy Wrist Shot saved by Juuse Saros,3rd
--81.0,6.0,Missed Shot,Martin Frk Wide of Net Juuse Saros,3rd
--77.0,33.0,Shot,Drew Doughty Wrist Shot saved by Juuse Saros,3rd
--78.0,-2.0,Shot,Anze Kopitar Wrist Shot saved by Juuse Saros,3rd
--76.0,18.0,Shot,Drew Doughty Wrist Shot saved by Juuse Saros,3rd
--83.0,9.0,Shot,Drew Doughty Slap Shot saved by Juuse Saros,3rd
--38.0,-22.0,Shot,Viktor Arvidsson Wrist Shot saved by Juuse Saros,3rd
--79.0,9.0,Shot,Martin Frk Wrist Shot saved by Juuse Saros,3rd
--37.0,30.0,Goal,"Martin Frk (1) Slap Shot, assists: Drew Doughty (14), Viktor Arvidsson (11)",3rd
--88.0,-5.0,Shot,Tobias Bjornfot Backhand saved by Juuse Saros,3rd
--34.0,-31.0,Shot,Sean Durzi Wrist Shot saved by Juuse Saros,3rd
--59.0,-21.0,Shot,Arthur Kaliyev Snap Shot saved by Juuse Saros,3rd
--77.0,-1.0,Shot,Arthur Kaliyev Tip-In saved by Juuse Saros,3rd
--85.0,-4.0,Shot,Trevor Moore Backhand saved by Juuse Saros,3rd
--37.0,-27.0,Shot,Drew Doughty Wrist Shot saved by Juuse Saros,3rd
--76.0,18.0,Shot,Brendan Lemieux Snap Shot saved by Juuse Saros,3rd
--74.0,-4.0,Shot,Brendan Lemieux Wrist Shot saved by Juuse Saros,3rd
--41.0,29.0,Missed Shot,Drew Doughty Wide of Net Juuse Saros,3rd
--55.0,-8.0,Missed Shot,Adrian Kempe Wide of Net Juuse Saros,3rd
--37.0,0.0,Shot,Drew Doughty Slap Shot saved by Juuse Saros,3rd
--79.0,-3.0,Shot,Viktor Arvidsson Wrist Shot saved by Juuse Saros,3rd
--60.0,-17.0,Shot,Martin Frk Slap Shot saved by Juuse Saros,3rd
+-69.0,-32.0,Shot,Viktor Arvidsson Wrist Shot saved by Alex Nedeljkovic,1st
+-71.0,-29.0,Shot,Viktor Arvidsson Slap Shot saved by Alex Nedeljkovic,1st
+-79.0,0.0,Missed Shot,Brendan Lemieux Goalpost Alex Nedeljkovic,1st
+-52.0,35.0,Shot,Dustin Brown Wrist Shot saved by Alex Nedeljkovic,1st
+-50.0,11.0,Shot,Anze Kopitar Snap Shot saved by Alex Nedeljkovic,1st
+-70.0,-39.0,Shot,Olli Maatta Wrist Shot saved by Alex Nedeljkovic,1st
+-41.0,-14.0,Shot,Drew Doughty Wrist Shot saved by Alex Nedeljkovic,1st
+-86.0,8.0,Shot,Phillip Danault Backhand saved by Alex Nedeljkovic,1st
+-91.0,8.0,Shot,Trevor Moore Wrist Shot saved by Alex Nedeljkovic,1st
+-33.0,-12.0,Missed Shot,Drew Doughty Wide of Net Alex Nedeljkovic,1st
+-49.0,30.0,Shot,Anze Kopitar Snap Shot saved by Alex Nedeljkovic,1st
+-76.0,0.0,Shot,Trevor Moore Wrist Shot saved by Alex Nedeljkovic,1st
+-82.0,-3.0,Shot,Arthur Kaliyev Wrist Shot saved by Alex Nedeljkovic,1st
+-81.0,0.0,Goal,"Phillip Danault (6) Wrist Shot, assists: Arthur Kaliyev (5), Dustin Brown (9)",1st
+-45.0,32.0,Missed Shot,Sean Durzi Wide of Net Alex Nedeljkovic,1st
+-78.0,7.0,Shot,Brendan Lemieux Wrist Shot saved by Alex Nedeljkovic,1st
+-36.0,21.0,Goal,"Drew Doughty (4) Slap Shot, assists: Rasmus Kupari (4), Dustin Brown (10)",1st
+-55.0,28.0,Shot,Viktor Arvidsson Wrist Shot saved by Alex Nedeljkovic,1st
+-52.0,20.0,Shot,Anze Kopitar Slap Shot saved by Alex Nedeljkovic,1st
+-38.0,-15.0,Missed Shot,Martin Frk Wide of Net Alex Nedeljkovic,1st
+-54.0,-13.0,Shot,Arthur Kaliyev Snap Shot saved by Alex Nedeljkovic,1st
+-67.0,-9.0,Shot,Brendan Lemieux Wrist Shot saved by Alex Nedeljkovic,1st
+-62.0,-5.0,Shot,Anze Kopitar Wrist Shot saved by Alex Nedeljkovic,1st
+-36.0,-26.0,Shot,Mikey Anderson Slap Shot saved by Alex Nedeljkovic,1st
+-36.0,-27.0,Shot,Mikey Anderson Wrist Shot saved by Alex Nedeljkovic,1st
+-69.0,-22.0,Missed Shot,Blake Lizotte Wide of Net Alex Nedeljkovic,1st
+-85.0,24.0,Missed Shot,Arthur Kaliyev Wide of Net Alex Nedeljkovic,1st
+-41.0,31.0,Shot,Sean Durzi Slap Shot saved by Alex Nedeljkovic,1st
+-79.0,-3.0,Shot,Lias Andersson Wrist Shot saved by Alex Nedeljkovic,1st
+-82.0,-3.0,Shot,Lias Andersson Wrist Shot saved by Alex Nedeljkovic,1st
+-78.0,-32.0,Shot,Viktor Arvidsson Snap Shot saved by Alex Nedeljkovic,1st
+-81.0,-7.0,Shot,Arthur Kaliyev Wrist Shot saved by Alex Nedeljkovic,1st
+-67.0,-4.0,Shot,Brendan Lemieux Snap Shot saved by Alex Nedeljkovic,1st
+-80.0,14.0,Missed Shot,Viktor Arvidsson Wide of Net Alex Nedeljkovic,2nd
+-78.0,-7.0,Missed Shot,Phillip Danault Wide of Net Alex Nedeljkovic,2nd
+-35.0,-5.0,Shot,Matt Roy Slap Shot saved by Alex Nedeljkovic,2nd
+-98.0,2.0,Shot,Drew Doughty Wrist Shot saved by Alex Nedeljkovic,2nd
+-61.0,0.0,Shot,Adrian Kempe Wrist Shot saved by Alex Nedeljkovic,2nd
+-83.0,-5.0,Shot,Adrian Kempe Wrist Shot saved by Alex Nedeljkovic,2nd
+-77.0,-12.0,Shot,Arthur Kaliyev Backhand saved by Alex Nedeljkovic,2nd
+-85.0,33.0,Shot,Lias Andersson Wrist Shot saved by Alex Nedeljkovic,2nd
+-67.0,-14.0,Goal,"Adrian Kempe (15) Snap Shot, assists: Matt Roy (13), Blake Lizotte (6)",2nd
+-64.0,15.0,Missed Shot,Trevor Moore Wide of Net Alex Nedeljkovic,2nd
+-79.0,5.0,Shot,Trevor Moore Tip-In saved by Alex Nedeljkovic,2nd
+-61.0,35.0,Shot,Brendan Lemieux Snap Shot saved by Alex Nedeljkovic,3rd
+-74.0,9.0,Missed Shot,Sean Durzi Wide of Net Alex Nedeljkovic,3rd
+-57.0,40.0,Shot,Dustin Brown Wrist Shot saved by Alex Nedeljkovic,3rd
+-74.0,0.0,Shot,Phillip Danault Backhand saved by Alex Nedeljkovic,3rd
+-83.0,-18.0,Shot,Martin Frk Deflected saved by Alex Nedeljkovic,3rd
+-55.0,-19.0,Shot,Phillip Danault Wrist Shot saved by Alex Nedeljkovic,3rd
+-84.0,6.0,Missed Shot,Adrian Kempe Wide of Net Alex Nedeljkovic,3rd
+-32.0,-36.0,Missed Shot,Trevor Moore Goalpost,3rd
+-84.0,1.0,Goal,"Trevor Moore (5) Wrist Shot, assists: none",3rd
+-67.0,-3.0,Shot,Blake Lizotte Wrist Shot saved by Alex Nedeljkovic,3rd
