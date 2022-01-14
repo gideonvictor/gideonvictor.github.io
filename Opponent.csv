@@ -1,31 +1,38 @@
 x,y,event,description,ordinalNum
-53.0,-1.0,Shot,Ryan Strome Wrist Shot saved by Cal Petersen,1st
-81.0,-17.0,Shot,Ryan Strome Snap Shot saved by Cal Petersen,1st
-48.0,-20.0,Shot,Jacob Trouba Wrist Shot saved by Cal Petersen,1st
-58.0,2.0,Shot,Chris Kreider Slap Shot saved by Cal Petersen,1st
-34.0,29.0,Missed Shot,Ryan Lindgren Wide of Net Cal Petersen,1st
-78.0,-25.0,Shot,Artemi Panarin Slap Shot saved by Cal Petersen,1st
-58.0,-22.0,Missed Shot,Mika Zibanejad Wide of Net Cal Petersen,1st
-60.0,13.0,Missed Shot,Artemi Panarin Wide of Net Cal Petersen,1st
-87.0,12.0,Shot,Chris Kreider Wrist Shot saved by Cal Petersen,1st
-84.0,-5.0,Shot,Filip Chytil Backhand saved by Cal Petersen,2nd
-77.0,1.0,Shot,Jonny Brodzinski Tip-In saved by Cal Petersen,2nd
-65.0,34.0,Shot,Adam Fox Wrist Shot saved by Cal Petersen,2nd
-75.0,1.0,Shot,Filip Chytil Wrist Shot saved by Cal Petersen,2nd
-73.0,-14.0,Shot,Kevin Rooney Wrist Shot saved by Cal Petersen,2nd
-71.0,7.0,Shot,Ryan Strome Wrist Shot saved by Cal Petersen,2nd
-80.0,-10.0,Shot,Ryan Lindgren Tip-In saved by Cal Petersen,2nd
-36.0,-25.0,Missed Shot,Ryan Lindgren Wide of Net Cal Petersen,2nd
-54.0,35.0,Shot,Mika Zibanejad Wrist Shot saved by Cal Petersen,2nd
-35.0,-29.0,Shot,K'Andre Miller Wrist Shot saved by Cal Petersen,2nd
-81.0,27.0,Shot,Filip Chytil Wrist Shot saved by Cal Petersen,3rd
-77.0,8.0,Shot,Greg McKegg Wrist Shot saved by Cal Petersen,3rd
-38.0,-28.0,Missed Shot,Jacob Trouba Wide of Net Cal Petersen,3rd
-34.0,1.0,Shot,Jarred Tinordi Wrist Shot saved by Cal Petersen,3rd
-48.0,-14.0,Shot,Adam Fox Wrist Shot saved by Cal Petersen,3rd
-82.0,-6.0,Goal,"Mika Zibanejad (13) Tip-In, assists: Filip Chytil (6), Greg McKegg (2)",3rd
-70.0,-23.0,Shot,Ryan Strome Snap Shot saved by Cal Petersen,3rd
-73.0,-28.0,Missed Shot,Mika Zibanejad Wide of Net Cal Petersen,3rd
-56.0,-28.0,Shot,Ryan Strome Wrist Shot saved by Cal Petersen,3rd
-84.0,-10.0,Shot,Chris Kreider Backhand saved by Cal Petersen,3rd
-74.0,-1.0,Missed Shot,Ryan Strome Wide of Net Cal Petersen,3rd
+75.0,18.0,Shot,Dominik Simon Wrist Shot saved by Jonathan Quick,1st
+88.0,-33.0,Shot,Drew O'Connor Snap Shot saved by Jonathan Quick,1st
+33.0,0.0,Shot,Kris Letang Slap Shot saved by Jonathan Quick,1st
+76.0,1.0,Missed Shot,Dominik Simon Wide of Net Jonathan Quick,1st
+87.0,19.0,Goal,"Kris Letang (2) Backhand, assists: Dominik Simon (6), Brian Dumoulin (8)",1st
+77.0,13.0,Missed Shot,Sidney Crosby Wide of Net Jonathan Quick,1st
+79.0,10.0,Shot,Jeff Carter Backhand saved by Jonathan Quick,1st
+82.0,-8.0,Shot,Evgeni Malkin Wrist Shot saved by Jonathan Quick,1st
+87.0,-11.0,Shot,Jeff Carter Backhand saved by Jonathan Quick,1st
+81.0,14.0,Shot,Jeff Carter Snap Shot saved by Jonathan Quick,1st
+56.0,-10.0,Shot,Chad Ruhwedel Snap Shot saved by Jonathan Quick,1st
+79.0,33.0,Shot,Jeff Carter Snap Shot saved by Jonathan Quick,2nd
+43.0,-1.0,Missed Shot,Evgeni Malkin Wide of Net Jonathan Quick,2nd
+67.0,20.0,Missed Shot,Sidney Crosby Wide of Net Jonathan Quick,2nd
+82.0,5.0,Shot,Evan Rodrigues Tip-In saved by Jonathan Quick,2nd
+70.0,16.0,Shot,Jake Guentzel Wrist Shot saved by Jonathan Quick,2nd
+67.0,5.0,Missed Shot,Sidney Crosby Hit Crossbar Jonathan Quick,2nd
+51.0,0.0,Shot,Marcus Pettersson Wrist Shot saved by Jonathan Quick,2nd
+80.0,-6.0,Shot,Jeff Carter Snap Shot saved by Jonathan Quick,2nd
+79.0,25.0,Shot,Dominik Simon Snap Shot saved by Jonathan Quick,2nd
+86.0,7.0,Shot,Brian Boyle Backhand saved by Jonathan Quick,2nd
+82.0,-1.0,Shot,Jake Guentzel Wrist Shot saved by Jonathan Quick,2nd
+83.0,25.0,Shot,Kasperi Kapanen Snap Shot saved by Jonathan Quick,3rd
+75.0,2.0,Shot,Jeff Carter Tip-In saved by Jonathan Quick,3rd
+35.0,3.0,Shot,John Marino Slap Shot saved by Jonathan Quick,3rd
+61.0,-1.0,Goal,"Radim Zohorna (1) Wrist Shot, assists: Teddy Blueger (7), Chad Ruhwedel (4)",3rd
+78.0,-10.0,Missed Shot,Dominik Simon Wide of Net Jonathan Quick,3rd
+75.0,14.0,Shot,Drew O'Connor Wrist Shot saved by Jonathan Quick,3rd
+90.0,16.0,Shot,Drew O'Connor Wrist Shot saved by Jonathan Quick,3rd
+79.0,-1.0,Shot,Kasper Bjorkqvist Snap Shot saved by Jonathan Quick,3rd
+61.0,7.0,Shot,Kasperi Kapanen Snap Shot saved by Jonathan Quick,3rd
+84.0,-18.0,Missed Shot,Jeff Carter Wide of Net Jonathan Quick,3rd
+63.0,7.0,Shot,Mike Matheson Wrist Shot saved by Jonathan Quick,3rd
+71.0,-23.0,Shot,Chad Ruhwedel Slap Shot saved by Jonathan Quick,3rd
+88.0,26.0,Shot,Jeff Carter Wrist Shot saved by Jonathan Quick,3rd
+82.0,15.0,Shot,Marcus Pettersson Wrist Shot saved by Jonathan Quick,3rd
+34.0,24.0,Missed Shot,Marcus Pettersson Wide of Net Jonathan Quick,3rd
