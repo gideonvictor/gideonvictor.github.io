@@ -47,7 +47,7 @@ d3.csv("https://gideonvictor.com/Kings.csv", function(data) {
   data.forEach(function(d) {
     inputForHexbinFun.push( [x(d.x), y(d.y)] )  // Note that we had the transform value of X and Y !
   })
-console.log(inputForHexbinFun)
+
   // Prepare a color palette
   var color = d3.scaleLinear()
       .domain([minnn, maxxx]) // Number of points in the bin?
@@ -64,7 +64,7 @@ console.log(inputForHexbinFun)
     .append("rect")
       .attr("width", width)
       .attr("height", height)
-
+console.log(inputForHexbinFun)
   svg.append("g")
     .attr("clip-path", "url(#clip)")
     .selectAll("path")
