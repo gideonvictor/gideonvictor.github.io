@@ -64,7 +64,7 @@ d3.csv("https://gideonvictor.com/Kings.csv", function(data) {
     .append("rect")
       .attr("width", width)
       .attr("height", height)
-console.log(hexbin(inputForHexbinFun))
+
   svg.append("g")
     .attr("clip-path", "url(#clip)")
     .selectAll("path")
@@ -76,7 +76,7 @@ console.log(hexbin(inputForHexbinFun))
       .attr("stroke", "black")
       .attr("stroke-width", "0")
 })
-
+console.log(inputForHexbinFun)
 d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
   // Add X axis
   var x = d3.scaleLinear()
@@ -129,3 +129,4 @@ d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
       .attr("stroke", "black")
       .attr("stroke-width", "0")
 })
+console.log(otherinputForHexbinFun)
