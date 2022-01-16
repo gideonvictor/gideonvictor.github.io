@@ -1,7 +1,7 @@
 
 // set the dimensions and margins of the graph
-var margin = {top: -35, right: 20, bottom: -50, left: -6},
-    width = 990 - margin.left - margin.right,
+var margin = {top: 0, right: 0, bottom: 0, left: 0},
+    width = 960 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom,
     raddd = 20
     minnn = 0
@@ -30,7 +30,7 @@ d3.csv("https://gideonvictor.com/Kings.csv", function(data) {
   // Add X axis
   var x = d3.scaleLinear()
     .domain([-100, 0])
-    .range([ 10, width/2 ]);
+    .range([ 0, width/2 ]);
   // svg.append("g")
   //   .attr("transform", "translate(0," + height + ")")
     // .call(d3.axisBottom(x));
@@ -76,7 +76,7 @@ d3.csv("https://gideonvictor.com/Kings.csv", function(data) {
       .attr("stroke", "black")
       .attr("stroke-width", "0")
 })
-console.log(inputForHexbinFun)
+
 d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
   // Add X axis
   var x = d3.scaleLinear()
@@ -129,4 +129,3 @@ d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
       .attr("stroke", "black")
       .attr("stroke-width", "0")
 })
-console.log(otherinputForHexbinFun)
