@@ -1,50 +1,43 @@
 x,y,event,description,ordinalNum
--58.0,18.0,Missed Shot,Viktor Arvidsson Wide of Net Jon Gillies,1st
--72.0,4.0,Missed Shot,Trevor Moore Goalpost Jon Gillies,1st
--53.0,-25.0,Missed Shot,Mikey Anderson Wide of Net Jon Gillies,1st
--56.0,5.0,Shot,Brendan Lemieux Snap Shot saved by Jon Gillies,1st
--72.0,-23.0,Shot,Adrian Kempe Wrist Shot saved by Jon Gillies,1st
--58.0,24.0,Goal,"Alex Iafallo (12) Wrist Shot, assists: none",1st
--91.0,10.0,Missed Shot,Trevor Moore Wide of Net Jon Gillies,1st
--85.0,-28.0,Missed Shot,Arthur Kaliyev Wide of Net Jon Gillies,1st
--80.0,7.0,Shot,Alex Iafallo Slap Shot saved by Jon Gillies,1st
--78.0,6.0,Missed Shot,Blake Lizotte Over Net Jon Gillies,1st
--68.0,29.0,Shot,Dustin Brown Wrist Shot saved by Jon Gillies,1st
--6.0,-2.0,Shot,Anze Kopitar Wrist Shot saved by Jon Gillies,1st
--36.0,-26.0,Missed Shot,Matt Roy Wide of Net Jon Gillies,2nd
--32.0,-14.0,Shot,Matt Roy Wrist Shot saved by Jon Gillies,2nd
--46.0,-27.0,Shot,Dustin Brown Snap Shot saved by Jon Gillies,2nd
--52.0,-28.0,Missed Shot,Drew Doughty Wide of Net Jon Gillies,2nd
--81.0,13.0,Shot,Adrian Kempe Snap Shot saved by Jon Gillies,2nd
--75.0,31.0,Shot,Alex Iafallo Snap Shot saved by Jon Gillies,2nd
--69.0,20.0,Missed Shot,Anze Kopitar Wide of Net Jon Gillies,2nd
--70.0,-24.0,Shot,Trevor Moore Slap Shot saved by Jon Gillies,2nd
--75.0,1.0,Shot,Phillip Danault Tip-In saved by Jon Gillies,2nd
--60.0,0.0,Shot,Sean Durzi Snap Shot saved by Jon Gillies,2nd
--56.0,1.0,Shot,Carl Grundstrom Snap Shot saved by Jon Gillies,2nd
--65.0,8.0,Shot,Viktor Arvidsson Wrist Shot saved by Jon Gillies,2nd
--46.0,26.0,Missed Shot,Blake Lizotte Wide of Net Jon Gillies,2nd
--44.0,11.0,Shot,Olli Maatta Slap Shot saved by Jon Gillies,2nd
--66.0,-13.0,Goal,"Viktor Arvidsson (10) Wrist Shot, assists: Trevor Moore (14)",2nd
--62.0,30.0,Shot,Blake Lizotte Wrist Shot saved by Jon Gillies,2nd
--76.0,35.0,Shot,Brendan Lemieux Wrist Shot saved by Jon Gillies,2nd
--32.0,36.0,Missed Shot,Tobias Bjornfot Wide of Net Jon Gillies,2nd
--43.0,-30.0,Shot,Drew Doughty Wrist Shot saved by Jon Gillies,2nd
--10.0,39.0,Shot,Arthur Kaliyev Backhand saved by Jon Gillies,3rd
--47.0,2.0,Shot,Drew Doughty Wrist Shot saved by Jon Gillies,3rd
--61.0,-8.0,Shot,Adrian Kempe Slap Shot saved by Jon Gillies,3rd
--41.0,1.0,Shot,Drew Doughty Slap Shot saved by Jon Gillies,3rd
--73.0,2.0,Shot,Alex Iafallo Tip-In saved by Jon Gillies,3rd
--48.0,-14.0,Shot,Adrian Kempe Slap Shot saved by Jon Gillies,3rd
--16.0,-35.0,Shot,Arthur Kaliyev Wrist Shot saved by Jon Gillies,3rd
--47.0,-6.0,Missed Shot,Carl Grundstrom Wide of Net Jon Gillies,3rd
--57.0,0.0,Shot,Blake Lizotte Snap Shot saved by Jon Gillies,3rd
--44.0,31.0,Shot,Olli Maatta Snap Shot saved by Jon Gillies,3rd
--58.0,-31.0,Shot,Carl Grundstrom Snap Shot saved by Jon Gillies,3rd
--62.0,-16.0,Shot,Blake Lizotte Snap Shot saved by Jon Gillies,3rd
--56.0,24.0,Shot,Adrian Kempe Wrist Shot saved by Jon Gillies,3rd
--63.0,6.0,Goal,"Carl Grundstrom (6) Snap Shot, assists: Dustin Brown (12), Tobias Bjornfot (6)",3rd
--59.0,13.0,Shot,Phillip Danault Snap Shot saved by Jon Gillies,3rd
--44.0,29.0,Shot,Drew Doughty Slap Shot saved by Jon Gillies,3rd
--11.0,26.0,Shot,Quinton Byfield Backhand saved by Jon Gillies,3rd
--81.0,-11.0,Shot,Viktor Arvidsson Snap Shot saved by Jon Gillies,3rd
+-54.0,-17.0,Shot,Arthur Kaliyev Wrist Shot saved by Semyon Varlamov,1st
+-52.0,20.0,Shot,Sean Durzi Wrist Shot saved by Semyon Varlamov,1st
+-47.0,-21.0,Shot,Alex Iafallo Wrist Shot saved by Semyon Varlamov,1st
+-39.0,22.0,Shot,Matt Roy Wrist Shot saved by Semyon Varlamov,1st
+-51.0,-17.0,Missed Shot,Alex Iafallo Wide of Net Semyon Varlamov,1st
+-44.0,-16.0,Shot,Mikey Anderson Slap Shot saved by Semyon Varlamov,1st
+-85.0,7.0,Missed Shot,Tobias Bjornfot Wide of Net Semyon Varlamov,1st
+-78.0,-1.0,Shot,Adrian Kempe Snap Shot saved by Semyon Varlamov,1st
+-38.0,-1.0,Missed Shot,Matt Roy Wide of Net Semyon Varlamov,1st
+-76.0,0.0,Shot,Quinton Byfield Wrist Shot saved by Semyon Varlamov,1st
+-64.0,-7.0,Missed Shot,Viktor Arvidsson Over Net Semyon Varlamov,1st
+-68.0,0.0,Goal,"Quinton Byfield (1) Wrist Shot, assists: Andreas Athanasiou (4), Dustin Brown (13)",1st
+-39.0,23.0,Shot,Matt Roy Wrist Shot saved by Semyon Varlamov,1st
+-86.0,-2.0,Shot,Matt Roy Backhand saved by Semyon Varlamov,2nd
+-41.0,22.0,Shot,Olli Maatta Wrist Shot saved by Semyon Varlamov,2nd
+-81.0,11.0,Shot,Viktor Arvidsson Wrist Shot saved by Semyon Varlamov,2nd
+-81.0,3.0,Shot,Dustin Brown Backhand saved by Semyon Varlamov,2nd
+-56.0,-4.0,Shot,Drew Doughty Slap Shot saved by Semyon Varlamov,2nd
+-46.0,2.0,Shot,Drew Doughty Wrist Shot saved by Semyon Varlamov,2nd
+-77.0,-3.0,Missed Shot,Dustin Brown Wide of Net Semyon Varlamov,2nd
+-79.0,-10.0,Shot,Viktor Arvidsson Wrist Shot saved by Semyon Varlamov,2nd
+-64.0,-3.0,Shot,Andreas Athanasiou Wrist Shot saved by Semyon Varlamov,2nd
+-59.0,24.0,Shot,Andreas Athanasiou Wrist Shot saved by Semyon Varlamov,2nd
+-73.0,-14.0,Missed Shot,Arthur Kaliyev Wide of Net Semyon Varlamov,2nd
+-42.0,-18.0,Shot,Drew Doughty Slap Shot saved by Semyon Varlamov,2nd
+-71.0,15.0,Missed Shot,Trevor Moore Wide of Net Semyon Varlamov,2nd
+-35.0,20.0,Goal,"Andreas Athanasiou (4) Wrist Shot, assists: Dustin Brown (14), Drew Doughty (18)",2nd
+-79.0,-16.0,Missed Shot,Trevor Moore Wide of Net Semyon Varlamov,3rd
+-73.0,-10.0,Shot,Viktor Arvidsson Wrist Shot saved by Semyon Varlamov,3rd
+-76.0,-1.0,Shot,Viktor Arvidsson Wrist Shot saved by Semyon Varlamov,3rd
+-57.0,-4.0,Missed Shot,Brendan Lemieux Wide of Net Semyon Varlamov,3rd
+-67.0,-2.0,Missed Shot,Viktor Arvidsson Wide of Net Semyon Varlamov,3rd
+-61.0,0.0,Missed Shot,Arthur Kaliyev Over Net Semyon Varlamov,3rd
+-41.0,-23.0,Missed Shot,Andreas Athanasiou Wide of Net Semyon Varlamov,3rd
+-63.0,18.0,Shot,Viktor Arvidsson Wrist Shot saved by Semyon Varlamov,3rd
+-80.0,2.0,Shot,Trevor Moore Wrist Shot saved by Semyon Varlamov,3rd
+-82.0,1.0,Shot,Trevor Moore Wrist Shot saved by Semyon Varlamov,3rd
+-85.0,6.0,Shot,Arthur Kaliyev Wrap-around saved by Semyon Varlamov,3rd
+-67.0,-14.0,Shot,Anze Kopitar Wrist Shot saved by Semyon Varlamov,3rd
+-61.0,-22.0,Shot,Trevor Moore Wrist Shot saved by Semyon Varlamov,3rd
+-58.0,5.0,Shot,Viktor Arvidsson Wrist Shot saved by Semyon Varlamov,3rd
+-6.0,18.0,Goal,"Adrian Kempe (18) Wrist Shot, assists: Anze Kopitar (25), Trevor Moore (16)",3rd

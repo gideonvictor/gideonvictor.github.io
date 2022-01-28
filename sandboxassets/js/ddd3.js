@@ -73,8 +73,8 @@ d3.csv("https://gideonvictor.com/Kings.csv", function(data) {
       .attr("d", hexbin.hexagon())
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
       .attr("fill", function(d) { return color(d.length); })
-      .attr("stroke", "black")
-      .attr("stroke-width", "0")
+      // .attr("stroke", "black")
+      // .attr("stroke-width", "0")
 })
 
 d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
@@ -103,7 +103,7 @@ d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
   // Prepare a color palette
   var color = d3.scaleLinear()
       .domain([minnn, maxxx]) // Number of points in the bin?
-      .range(["Transparent",  "#CE1126"])
+      .range(["Transparent",  "#00539b"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
@@ -126,6 +126,8 @@ d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
       .attr("d", hexbin.hexagon())
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
       .attr("fill", function(d) { return color(d.length); })
-      .attr("stroke", "black")
-      .attr("stroke-width", "0")
+      // .attr("stroke", "black")
+      // .attr("stroke-width", "0")
+
+console.log(hexbin(otherinputForHexbinFun))
 })
