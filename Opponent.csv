@@ -1,32 +1,41 @@
 x,y,event,description,ordinalNum
-67.0,-9.0,Shot,Oliver Wahlstrom Wrist Shot saved by Cal Petersen,1st
-62.0,-20.0,Missed Shot,Adam Pelech Goalpost Cal Petersen,1st
-84.0,13.0,Shot,Adam Pelech Wrist Shot saved by Cal Petersen,1st
-74.0,-2.0,Missed Shot,Anders Lee Wide of Net Cal Petersen,1st
-78.0,7.0,Shot,Anders Lee Wrist Shot saved by Cal Petersen,1st
-44.0,-2.0,Shot,Noah Dobson Wrist Shot saved by Cal Petersen,2nd
-69.0,12.0,Missed Shot,Josh Bailey Wide of Net Cal Petersen,2nd
-86.0,-6.0,Shot,Casey Cizikas Backhand saved by Cal Petersen,2nd
-56.0,16.0,Shot,Noah Dobson Slap Shot saved by Cal Petersen,2nd
-79.0,-8.0,Shot,Jean-Gabriel Pageau Wrist Shot saved by Cal Petersen,2nd
-83.0,25.0,Shot,Scott Mayfield Wrist Shot saved by Cal Petersen,2nd
-83.0,1.0,Shot,Oliver Wahlstrom Wrist Shot saved by Cal Petersen,2nd
-38.0,-30.0,Shot,Zdeno Chara Slap Shot saved by Cal Petersen,2nd
-65.0,0.0,Shot,Josh Bailey Slap Shot saved by Cal Petersen,2nd
-43.0,-4.0,Missed Shot,Robin Salo Goalpost Cal Petersen,2nd
-87.0,5.0,Shot,Zach Parise Wrap-around saved by Cal Petersen,2nd
-76.0,4.0,Shot,Anthony Beauvillier Backhand saved by Cal Petersen,2nd
-84.0,-2.0,Shot,Anders Lee Wrist Shot saved by Cal Petersen,2nd
-83.0,-2.0,Shot,Kyle Palmieri Backhand saved by Cal Petersen,2nd
-85.0,-2.0,Shot,Mathew Barzal Wrist Shot saved by Cal Petersen,2nd
-67.0,1.0,Missed Shot,Adam Pelech Over Net Cal Petersen,3rd
-86.0,-12.0,Shot,Matt Martin Backhand saved by Cal Petersen,3rd
-70.0,0.0,Shot,Oliver Wahlstrom Backhand saved by Cal Petersen,3rd
-72.0,1.0,Shot,Jean-Gabriel Pageau Wrist Shot saved by Cal Petersen,3rd
-88.0,5.0,Shot,Kyle Palmieri Wrap-around saved by Cal Petersen,3rd
-85.0,0.0,Shot,Cal Clutterbuck Snap Shot saved by Cal Petersen,3rd
-48.0,-26.0,Missed Shot,Noah Dobson Wide of Net Cal Petersen,3rd
-54.0,1.0,Shot,Adam Pelech Wrist Shot saved by Cal Petersen,3rd
-75.0,-1.0,Shot,Anders Lee Wrist Shot saved by Cal Petersen,3rd
-47.0,37.0,Goal,"Mathew Barzal (9) Tip-In, assists: Brock Nelson (7), Josh Bailey (17)",3rd
-85.0,6.0,Goal,"Casey Cizikas (3) Snap Shot, assists: Matt Martin (2), Cal Clutterbuck (4)",3rd
+89.0,-5.0,Shot,Jake Guentzel Wrap-around saved by Cal Petersen,1st
+73.0,4.0,Shot,Jake Guentzel Wrist Shot saved by Cal Petersen,1st
+50.0,-38.0,Shot,Jeff Carter Wrist Shot saved by Cal Petersen,1st
+53.0,-41.0,Shot,John Marino Wrist Shot saved by Cal Petersen,1st
+35.0,14.0,Missed Shot,Brian Dumoulin Wide of Net Cal Petersen,1st
+74.0,33.0,Missed Shot,Bryan Rust Wide of Net Cal Petersen,1st
+78.0,0.0,Missed Shot,Radim Zohorna Wide of Net Cal Petersen,1st
+66.0,9.0,Shot,Bryan Rust Wrist Shot saved by Cal Petersen,1st
+55.0,12.0,Shot,Brian Dumoulin Snap Shot saved by Cal Petersen,1st
+59.0,6.0,Missed Shot,Jake Guentzel Wide of Net Cal Petersen,1st
+79.0,-9.0,Shot,Jake Guentzel Wrist Shot saved by Cal Petersen,1st
+66.0,27.0,Shot,Jeff Carter Snap Shot saved by Cal Petersen,1st
+74.0,40.0,Shot,Brian Dumoulin Slap Shot saved by Cal Petersen,1st
+51.0,18.0,Shot,Kasperi Kapanen Slap Shot saved by Cal Petersen,2nd
+50.0,-25.0,Missed Shot,Brian Boyle Wide of Net Cal Petersen,2nd
+84.0,-6.0,Shot,Sidney Crosby Wrap-around saved by Cal Petersen,2nd
+64.0,2.0,Missed Shot,Radim Zohorna Wide of Net Cal Petersen,2nd
+68.0,-2.0,Shot,Evgeni Malkin Wrist Shot saved by Cal Petersen,2nd
+83.0,3.0,Missed Shot,Bryan Rust Wide of Net Cal Petersen,2nd
+69.0,-4.0,Missed Shot,Evgeni Malkin Wide of Net Cal Petersen,2nd
+66.0,17.0,Shot,Evgeni Malkin Slap Shot saved by Cal Petersen,2nd
+84.0,1.0,Shot,Jake Guentzel Tip-In saved by Cal Petersen,2nd
+71.0,-4.0,Goal,"Sidney Crosby (12) Wrist Shot, assists: Evgeni Malkin (8), Kris Letang (34)",2nd
+85.0,-5.0,Shot,Jeff Carter Wrist Shot saved by Cal Petersen,2nd
+88.0,-6.0,Shot,Brian Dumoulin Backhand saved by Cal Petersen,2nd
+65.0,13.0,Missed Shot,Bryan Rust Wide of Net Cal Petersen,2nd
+75.0,-15.0,Shot,Jake Guentzel Wrist Shot saved by Cal Petersen,2nd
+44.0,-21.0,Shot,Jeff Carter Snap Shot saved by Cal Petersen,2nd
+51.0,10.0,Shot,Brian Dumoulin Wrist Shot saved by Cal Petersen,2nd
+71.0,13.0,Shot,Evgeni Malkin Wrist Shot saved by Cal Petersen,3rd
+38.0,31.0,Missed Shot,Marcus Pettersson Wide of Net Cal Petersen,3rd
+51.0,-39.0,Shot,Chad Ruhwedel Snap Shot saved by Cal Petersen,3rd
+79.0,1.0,Goal,"Bryan Rust (11) Wrist Shot, assists: Kris Letang (35)",3rd
+83.0,14.0,Missed Shot,Bryan Rust Wide of Net Cal Petersen,3rd
+89.0,7.0,Goal,"Bryan Rust (12) Wrist Shot, assists: Sidney Crosby (26), Jake Guentzel (20)",3rd
+7.0,-37.0,Shot,Kris Letang Wrist Shot saved by Cal Petersen,3rd
+81.0,-14.0,Missed Shot,Bryan Rust Wide of Net Cal Petersen,3rd
+67.0,22.0,Shot,Jake Guentzel Wrist Shot saved by Cal Petersen,3rd
+42.0,35.0,Missed Shot,Radim Zohorna Wide of Net Cal Petersen,3rd
+39.0,-22.0,Missed Shot,Jeff Carter Wide of Net Cal Petersen,3rd
