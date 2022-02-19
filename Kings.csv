@@ -1,41 +1,54 @@
 x,y,event,description,ordinalNum
--82.0,3.0,Missed Shot,Olli Maatta Wide of Net Mike Smith,1st
--57.0,21.0,Shot,Dustin Brown Wrist Shot saved by Mike Smith,1st
--55.0,-19.0,Shot,Brendan Lemieux Snap Shot saved by Mike Smith,1st
--77.0,-9.0,Shot,Viktor Arvidsson Wrist Shot saved by Mike Smith,1st
--24.0,34.0,Shot,Alex Iafallo Wrist Shot saved by Mike Smith,1st
--37.0,-11.0,Missed Shot,Viktor Arvidsson Wide of Net Mike Smith,1st
--68.0,-36.0,Shot,Andreas Athanasiou Wrist Shot saved by Mike Smith,1st
--80.0,27.0,Shot,Arthur Kaliyev Wrist Shot saved by Mike Smith,1st
--76.0,2.0,Goal,"Arthur Kaliyev (9) Tip-In, assists: Brendan Lemieux (2)",1st
--40.0,26.0,Missed Shot,Adrian Kempe Wide of Net Mike Smith,1st
--73.0,1.0,Missed Shot,Alex Iafallo Over Net Mike Smith,1st
--68.0,29.0,Shot,Andreas Athanasiou Slap Shot saved by Mike Smith,1st
--73.0,21.0,Shot,Adrian Kempe Snap Shot saved by Mike Smith,1st
--73.0,1.0,Shot,Alex Iafallo Tip-In saved by Mike Smith,1st
--73.0,29.0,Shot,Andreas Athanasiou Snap Shot saved by Mike Smith,1st
--86.0,11.0,Shot,Viktor Arvidsson Wrist Shot saved by Mike Smith,2nd
--73.0,2.0,Missed Shot,Adrian Kempe Wide of Net Mike Smith,2nd
--82.0,6.0,Missed Shot,Phillip Danault Wide of Net Mike Smith,2nd
--67.0,40.0,Shot,Arthur Kaliyev Wrist Shot saved by Mike Smith,2nd
--79.0,17.0,Missed Shot,Matt Roy Wide of Net Mike Smith,2nd
--57.0,25.0,Shot,Arthur Kaliyev Snap Shot saved by Mike Smith,2nd
--72.0,15.0,Shot,Anze Kopitar Snap Shot saved by Mike Smith,2nd
--77.0,-2.0,Shot,Anze Kopitar Backhand saved by Mike Smith,2nd
--82.0,11.0,Shot,Blake Lizotte Backhand saved by Mike Smith,2nd
--37.0,23.0,Shot,Drew Doughty Slap Shot saved by Mike Smith,2nd
--80.0,-21.0,Shot,Anze Kopitar Wrist Shot saved by Mike Smith,2nd
--81.0,-4.0,Shot,Alex Iafallo Tip-In saved by Mike Smith,3rd
--91.0,-15.0,Shot,Anze Kopitar Wrist Shot saved by Mike Smith,3rd
--48.0,-16.0,Shot,Adrian Kempe Snap Shot saved by Mike Smith,3rd
--72.0,-28.0,Missed Shot,Drew Doughty Wide of Net Mike Smith,3rd
--42.0,-25.0,Shot,Drew Doughty Slap Shot saved by Mike Smith,3rd
--87.0,-18.0,Shot,Viktor Arvidsson Wrist Shot saved by Mike Smith,3rd
--73.0,1.0,Goal,"Phillip Danault (13) Wrist Shot, assists: Viktor Arvidsson (17), Drew Doughty (20)",3rd
--51.0,-27.0,Shot,Arthur Kaliyev Wrist Shot saved by Mike Smith,3rd
--87.0,6.0,Shot,Phillip Danault Wrap-around saved by Mike Smith,3rd
--71.0,-21.0,Shot,Drew Doughty Slap Shot saved by Mike Smith,3rd
--69.0,26.0,Shot,Phillip Danault Wrist Shot saved by Mike Smith,3rd
--35.0,13.0,Shot,Sean Durzi Snap Shot saved by Mike Smith,3rd
--74.0,0.0,Shot,Phillip Danault Snap Shot saved by Mike Smith,3rd
--15.0,38.0,Shot,Sean Durzi Wrist Shot saved by Mike Smith,3rd
+-80.0,9.0,Missed Shot,Phillip Danault Over Net Laurent Brossoit,1st
+-82.0,3.0,Missed Shot,Andreas Athanasiou Wide of Net Laurent Brossoit,1st
+-77.0,-4.0,Shot,Blake Lizotte Tip-In saved by Laurent Brossoit,1st
+-36.0,-6.0,Missed Shot,Sean Durzi Goalpost Laurent Brossoit,1st
+-18.0,-2.0,Shot,Arthur Kaliyev Wrist Shot saved by Laurent Brossoit,1st
+-85.0,6.0,Shot,Arthur Kaliyev Wrist Shot saved by Laurent Brossoit,1st
+-62.0,27.0,Shot,Viktor Arvidsson Wrist Shot saved by Laurent Brossoit,1st
+-77.0,16.0,Shot,Viktor Arvidsson Snap Shot saved by Laurent Brossoit,1st
+-69.0,2.0,Missed Shot,Viktor Arvidsson Wide of Net Laurent Brossoit,1st
+-59.0,-13.0,Missed Shot,Adrian Kempe Wide of Net Laurent Brossoit,1st
+-57.0,-26.0,Missed Shot,Viktor Arvidsson Wide of Net Laurent Brossoit,1st
+-31.0,-6.0,Shot,Drew Doughty Slap Shot saved by Laurent Brossoit,1st
+-14.0,38.0,Shot,Brendan Lemieux Wrist Shot saved by Laurent Brossoit,1st
+-82.0,-18.0,Missed Shot,Adrian Kempe Wide of Net Laurent Brossoit,1st
+-72.0,7.0,Missed Shot,Phillip Danault Wide of Net Laurent Brossoit,1st
+-87.0,4.0,Goal,"Andreas Athanasiou (5) Wrist Shot, assists: none",1st
+-63.0,-24.0,Shot,Arthur Kaliyev Wrist Shot saved by Laurent Brossoit,1st
+-55.0,-22.0,Shot,Adrian Kempe Slap Shot saved by Laurent Brossoit,1st
+-91.0,-7.0,Missed Shot,Viktor Arvidsson Wide of Net Laurent Brossoit,1st
+-89.0,-25.0,Missed Shot,Anze Kopitar Goalpost Laurent Brossoit,1st
+-86.0,-14.0,Missed Shot,Dustin Brown Over Net Laurent Brossoit,1st
+-74.0,-26.0,Goal,"Adrian Kempe (20) Wrist Shot, assists: Drew Doughty (21), Anze Kopitar (29)",2nd
+-43.0,-29.0,Shot,Trevor Moore Wrist Shot saved by Laurent Brossoit,2nd
+-65.0,24.0,Missed Shot,Dustin Brown Wide of Net Laurent Brossoit,2nd
+-65.0,19.0,Missed Shot,Quinton Byfield Wide of Net Laurent Brossoit,2nd
+-66.0,22.0,Shot,Andreas Athanasiou Wrist Shot saved by Laurent Brossoit,2nd
+-66.0,-37.0,Shot,Dustin Brown Wrist Shot saved by Laurent Brossoit,2nd
+-87.0,7.0,Missed Shot,Quinton Byfield Wide of Net Laurent Brossoit,2nd
+-82.0,21.0,Shot,Adrian Kempe Wrist Shot saved by Laurent Brossoit,2nd
+-64.0,-10.0,Missed Shot,Alex Iafallo Wide of Net Laurent Brossoit,2nd
+-73.0,-10.0,Shot,Viktor Arvidsson Backhand saved by Laurent Brossoit,2nd
+-72.0,-6.0,Goal,"Phillip Danault (14) Wrist Shot, assists: Viktor Arvidsson (18), Matt Roy (14)",2nd
+-57.0,23.0,Missed Shot,Viktor Arvidsson Missing key [ED_null] Laurent Brossoit,3rd
+-67.0,-24.0,Shot,Viktor Arvidsson Wrist Shot saved by Laurent Brossoit,3rd
+-42.0,2.0,Shot,Anze Kopitar Wrist Shot saved by Laurent Brossoit,3rd
+-81.0,-10.0,Missed Shot,Adrian Kempe Wide of Net Laurent Brossoit,3rd
+-71.0,-36.0,Shot,Alex Iafallo Backhand saved by Laurent Brossoit,3rd
+-57.0,25.0,Shot,Blake Lizotte Wrist Shot saved by Laurent Brossoit,3rd
+-63.0,0.0,Missed Shot,Quinton Byfield Wide of Net Laurent Brossoit,3rd
+-61.0,-11.0,Missed Shot,Trevor Moore Wide of Net Laurent Brossoit,3rd
+-82.0,26.0,Missed Shot,Andreas Athanasiou Wide of Net Laurent Brossoit,3rd
+-87.0,4.0,Shot,Dustin Brown Backhand saved by Laurent Brossoit,3rd
+-73.0,-15.0,Missed Shot,Alex Iafallo Wide of Net Laurent Brossoit,3rd
+-30.0,20.0,Shot,Tobias Bjornfot Slap Shot saved by Laurent Brossoit,3rd
+-52.0,0.0,Shot,Andreas Athanasiou Snap Shot saved by Laurent Brossoit,3rd
+-61.0,3.0,Shot,Anze Kopitar Wrist Shot saved by Laurent Brossoit,3rd
+-51.0,3.0,Shot,Viktor Arvidsson Wrist Shot saved by Laurent Brossoit,3rd
+-64.0,1.0,Shot,Quinton Byfield Wrist Shot saved by Laurent Brossoit,3rd
+-31.0,32.0,Shot,Drew Doughty Wrist Shot saved by Laurent Brossoit,3rd
+-83.0,2.0,Shot,Adrian Kempe Wrist Shot saved by Laurent Brossoit,OT
+-82.0,27.0,Shot,Matt Roy Wrist Shot saved by Laurent Brossoit,OT
+-82.0,-1.0,Missed Shot,Phillip Danault Wide of Net Laurent Brossoit,OT
+-83.0,-3.0,Goal,"Adrian Kempe (0) Wrist Shot, assists: Sean Durzi (12), Anze Kopitar (30)",OT
