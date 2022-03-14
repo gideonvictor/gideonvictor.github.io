@@ -1,34 +1,46 @@
 x,y,event,description,ordinalNum
-37.0,-33.0,Shot,Anton Stralman Wrist Shot saved by Cal Petersen,1st
-64.0,-1.0,Shot,Anton Stralman Tip-In saved by Cal Petersen,1st
-86.0,-9.0,Goal,"Anton Stralman (4) Wrist Shot, assists: Janis Moser (5), Loui Eriksson (10)",1st
-87.0,11.0,Missed Shot,Andrew Ladd Wide of Net Cal Petersen,1st
-47.0,14.0,Shot,Jakob Chychrun Slap Shot saved by Cal Petersen,1st
-60.0,24.0,Missed Shot,Janis Moser Wide of Net Cal Petersen,1st
-54.0,-27.0,Missed Shot,Dysin Mayo Wide of Net Cal Petersen,1st
-36.0,36.0,Missed Shot,Liam O'Brien Wide of Net Cal Petersen,2nd
-35.0,-28.0,Missed Shot,Janis Moser Wide of Net Cal Petersen,2nd
-82.0,8.0,Shot,Shayne Gostisbehere Wrist Shot saved by Cal Petersen,2nd
-82.0,-5.0,Goal,"Lawson Crouse (13) Wrist Shot, assists: Alex Galchenyuk (7), Phil Kessel (27)",2nd
-64.0,13.0,Shot,Liam O'Brien Wrist Shot saved by Cal Petersen,2nd
-54.0,14.0,Missed Shot,Dysin Mayo Over Net Cal Petersen,2nd
-37.0,-29.0,Shot,Shayne Gostisbehere Wrist Shot saved by Cal Petersen,2nd
-66.0,-21.0,Goal,"Clayton Keller (19) Wrist Shot, assists: Travis Boyd (13), Shayne Gostisbehere (21)",2nd
-86.0,-12.0,Missed Shot,Andrew Ladd Wide of Net Cal Petersen,2nd
-59.0,-6.0,Shot,Andrew Ladd Wrist Shot saved by Cal Petersen,2nd
-60.0,-11.0,Missed Shot,Christian Fischer Wide of Net Cal Petersen,2nd
-46.0,23.0,Shot,Andrew Ladd Snap Shot saved by Cal Petersen,2nd
-78.0,5.0,Shot,Nick Schmaltz Tip-In saved by Cal Petersen,2nd
-82.0,-14.0,Shot,Lawson Crouse Wrist Shot saved by Cal Petersen,2nd
-39.0,16.0,Missed Shot,Shayne Gostisbehere Wide of Net Cal Petersen,2nd
-80.0,16.0,Shot,Jakob Chychrun Wrist Shot saved by Cal Petersen,3rd
-42.0,-26.0,Missed Shot,Dysin Mayo Wide of Net Cal Petersen,3rd
-65.0,13.0,Shot,Andrew Ladd Slap Shot saved by Cal Petersen,3rd
-68.0,8.0,Shot,Andrew Ladd Wrist Shot saved by Cal Petersen,3rd
-74.0,22.0,Shot,Phil Kessel Snap Shot saved by Cal Petersen,3rd
-73.0,-1.0,Shot,Travis Boyd Wrist Shot saved by Cal Petersen,3rd
-41.0,-26.0,Shot,Anton Stralman Wrist Shot saved by Cal Petersen,3rd
-82.0,-31.0,Shot,Anton Stralman Wrist Shot saved by Cal Petersen,3rd
-80.0,8.0,Shot,Loui Eriksson Wrist Shot saved by Cal Petersen,3rd
-43.0,14.0,Shot,Janis Moser Wrist Shot saved by Cal Petersen,3rd
-10.0,-17.0,Shot,Shayne Gostisbehere Wrist Shot saved by Cal Petersen,3rd
+72.0,12.0,Shot,Gustav Forsling Wrist Shot saved by Jonathan Quick,1st
+80.0,8.0,Missed Shot,MacKenzie Weegar Wide of Net Jonathan Quick,1st
+69.0,0.0,Shot,Sam Bennett Wrist Shot saved by Jonathan Quick,1st
+68.0,-12.0,Shot,Patric Hornqvist Wrist Shot saved by Jonathan Quick,1st
+70.0,-2.0,Shot,Mason Marchment Deflected saved by Jonathan Quick,1st
+76.0,2.0,Shot,Sam Bennett Snap Shot saved by Jonathan Quick,1st
+63.0,-24.0,Shot,Patric Hornqvist Wrist Shot saved by Jonathan Quick,1st
+32.0,23.0,Shot,Gustav Forsling Slap Shot saved by Jonathan Quick,1st
+65.0,-10.0,Missed Shot,Aleksander Barkov Goalpost Jonathan Quick,1st
+81.0,-16.0,Shot,Anthony Duclair Wrist Shot saved by Jonathan Quick,1st
+75.0,12.0,Shot,Carter Verhaeghe Snap Shot saved by Jonathan Quick,1st
+75.0,1.0,Shot,Anthony Duclair Wrist Shot saved by Jonathan Quick,1st
+52.0,-14.0,Shot,Noel Acciari Snap Shot saved by Jonathan Quick,1st
+70.0,32.0,Missed Shot,MacKenzie Weegar Wide of Net Jonathan Quick,2nd
+74.0,0.0,Goal,"Eetu Luostarinen (9) Snap Shot, assists: Jonathan Huberdeau (65)",2nd
+84.0,6.0,Goal,"Brandon Montour (7) Wrist Shot, assists: Patric Hornqvist (14), Aleksander Barkov (34)",2nd
+78.0,-1.0,Shot,Jonathan Huberdeau Snap Shot saved by Jonathan Quick,2nd
+82.0,-8.0,Shot,Brandon Montour Wrist Shot saved by Jonathan Quick,2nd
+65.0,5.0,Missed Shot,Frank Vatrano Wide of Net Jonathan Quick,2nd
+85.0,-11.0,Missed Shot,Noel Acciari Wide of Net Jonathan Quick,2nd
+41.0,-17.0,Shot,Gustav Forsling Slap Shot saved by Jonathan Quick,2nd
+64.0,31.0,Shot,Radko Gudas Slap Shot saved by Jonathan Quick,2nd
+39.0,19.0,Shot,Brandon Montour Slap Shot saved by Jonathan Quick,2nd
+66.0,-40.0,Shot,Anthony Duclair Snap Shot saved by Jonathan Quick,2nd
+56.0,-31.0,Shot,Frank Vatrano Slap Shot saved by Jonathan Quick,2nd
+67.0,18.0,Shot,MacKenzie Weegar Snap Shot saved by Jonathan Quick,2nd
+58.0,-13.0,Shot,Sam Reinhart Wrist Shot saved by Jonathan Quick,3rd
+68.0,-12.0,Missed Shot,Carter Verhaeghe Wide of Net Jonathan Quick,3rd
+37.0,24.0,Missed Shot,Gustav Forsling Wide of Net Jonathan Quick,3rd
+14.0,-3.0,Shot,Frank Vatrano Wrist Shot saved by Jonathan Quick,3rd
+85.0,17.0,Shot,Gustav Forsling Wrist Shot saved by Jonathan Quick,3rd
+78.0,8.0,Shot,Maxim Mamin Wrist Shot saved by Jonathan Quick,3rd
+77.0,30.0,Shot,Sam Reinhart Backhand saved by Jonathan Quick,3rd
+31.0,20.0,Shot,Patric Hornqvist Wrist Shot saved by Jonathan Quick,3rd
+53.0,20.0,Missed Shot,Frank Vatrano Wide of Net Jonathan Quick,3rd
+78.0,6.0,Shot,Aaron Ekblad Wrist Shot saved by Jonathan Quick,OT
+81.0,-3.0,Shot,Aaron Ekblad Snap Shot saved by Jonathan Quick,OT
+82.0,3.0,Shot,Aaron Ekblad Snap Shot saved by Jonathan Quick,OT
+80.0,-11.0,Shot,Radko Gudas Backhand saved by Jonathan Quick,OT
+18.0,-20.0,Shot,Jonathan Huberdeau saved by Jonathan Quick,OT
+80.0,2.0,Shot,Jonathan Huberdeau Wrist Shot saved by Jonathan Quick,SO
+79.0,1.0,Goal,Aleksander Barkov - Backhand,SO
+79.0,0.0,Missed Shot,Sam Reinhart Wide of Net Jonathan Quick,SO
+79.0,0.0,Shot,Eetu Luostarinen Backhand saved by Jonathan Quick,SO
+81.0,-1.0,Shot,Anthony Duclair Wrist Shot saved by Jonathan Quick,SO
