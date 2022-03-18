@@ -69,7 +69,7 @@ d3.csv("https://gideonvictor.com/Kings.csv", function(data) {
     .attr("clip-path", "url(#clip)")
     .selectAll("path")
     .data( hexbin(inputForHexbinFun) )
-    .enter().append("path")
+    .enter().append("path")006D75
       .attr("d", hexbin.hexagon())
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
       .attr("fill", function(d) { return color(d.length); })
@@ -103,7 +103,7 @@ d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
   // Prepare a color palette
   var color = d3.scaleLinear()
       .domain([minnn, maxxx]) // Number of points in the bin?
-      .range(["Transparent",  "#c8102E"])
+      .range(["Transparent",  "#006D75"])
 
 
 
