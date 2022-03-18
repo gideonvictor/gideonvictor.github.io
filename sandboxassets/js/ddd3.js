@@ -69,7 +69,7 @@ d3.csv("https://gideonvictor.com/Kings.csv", function(data) {
     .attr("clip-path", "url(#clip)")
     .selectAll("path")
     .data( hexbin(inputForHexbinFun) )
-    .enter().append("path")006D75
+    .enter().append("path")
       .attr("d", hexbin.hexagon())
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
       .attr("fill", function(d) { return color(d.length); })
