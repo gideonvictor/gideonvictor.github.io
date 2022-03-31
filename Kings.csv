@@ -1,50 +1,53 @@
 x,y,event,description,ordinalNum
--81.0,-6.0,Missed Shot,Quinton Byfield Wide of Net Chris Driedger,1st
--43.0,-32.0,Shot,Arthur Kaliyev Wrist Shot saved by Chris Driedger,1st
--30.0,39.0,Shot,Sean Durzi Snap Shot saved by Chris Driedger,1st
--82.0,20.0,Shot,Carl Grundstrom Backhand saved by Chris Driedger,1st
--76.0,-11.0,Goal,"Arthur Kaliyev (13) Wrist Shot, assists: Adrian Kempe (14), Viktor Arvidsson (22)",1st
--61.0,26.0,Shot,Rasmus Kupari Wrist Shot saved by Chris Driedger,1st
--79.0,0.0,Shot,Trevor Moore Tip-In saved by Chris Driedger,1st
--84.0,38.0,Shot,Trevor Moore Backhand saved by Chris Driedger,1st
--41.0,15.0,Missed Shot,Tobias Bjornfot Wide of Net Chris Driedger,1st
--53.0,34.0,Shot,Rasmus Kupari Wrist Shot saved by Chris Driedger,1st
--79.0,-2.0,Shot,Gabriel Vilardi Tip-In saved by Chris Driedger,1st
--54.0,-25.0,Shot,Troy Stecher Wrist Shot saved by Chris Driedger,2nd
--75.0,0.0,Shot,Carl Grundstrom Tip-In saved by Chris Driedger,2nd
--79.0,-1.0,Missed Shot,Adrian Kempe Wide of Net Chris Driedger,2nd
--31.0,35.0,Shot,Jacob Moverare Snap Shot saved by Chris Driedger,2nd
--75.0,-36.0,Missed Shot,Arthur Kaliyev Wide of Net Chris Driedger,2nd
--50.0,-3.0,Missed Shot,Adrian Kempe Wide of Net Chris Driedger,2nd
--40.0,38.0,Missed Shot,Trevor Moore Wide of Net Chris Driedger,2nd
--63.0,27.0,Shot,Trevor Moore Deflected saved by Chris Driedger,2nd
--78.0,32.0,Shot,Olli Maatta Wrist Shot saved by Chris Driedger,2nd
--79.0,-6.0,Missed Shot,Quinton Byfield Wide of Net Chris Driedger,2nd
--73.0,-14.0,Shot,Troy Stecher Wrist Shot saved by Chris Driedger,2nd
--77.0,-17.0,Shot,Rasmus Kupari Snap Shot saved by Chris Driedger,2nd
--65.0,12.0,Shot,Jacob Moverare Wrist Shot saved by Chris Driedger,2nd
--77.0,4.0,Shot,Troy Stecher Backhand saved by Chris Driedger,2nd
--75.0,4.0,Shot,Alex Iafallo Tip-In saved by Chris Driedger,2nd
--81.0,-2.0,Shot,Phillip Danault Snap Shot saved by Chris Driedger,2nd
--43.0,7.0,Missed Shot,Phillip Danault Wide of Net Chris Driedger,2nd
--71.0,-5.0,Shot,Viktor Arvidsson Wrist Shot saved by Chris Driedger,3rd
--80.0,-6.0,Shot,Trevor Moore Wrist Shot saved by Chris Driedger,3rd
--47.0,-22.0,Shot,Jacob Moverare Wrist Shot saved by Chris Driedger,3rd
--77.0,1.0,Missed Shot,Carl Grundstrom Wide of Net Chris Driedger,3rd
--64.0,-36.0,Shot,Gabriel Vilardi Wrist Shot saved by Chris Driedger,3rd
--68.0,20.0,Shot,Lias Andersson Snap Shot saved by Chris Driedger,3rd
--75.0,5.0,Missed Shot,Anze Kopitar Wide of Net Chris Driedger,3rd
--72.0,-11.0,Shot,Phillip Danault Tip-In saved by Chris Driedger,3rd
--51.0,-28.0,Shot,Alex Iafallo Wrist Shot saved by Chris Driedger,3rd
--35.0,-27.0,Shot,Jacob Moverare Wrist Shot saved by Chris Driedger,3rd
--37.0,31.0,Shot,Jordan Spence Slap Shot saved by Chris Driedger,3rd
--78.0,11.0,Shot,Sean Durzi Wrist Shot saved by Chris Driedger,3rd
--49.0,-2.0,Shot,Anze Kopitar Snap Shot saved by Chris Driedger,3rd
--38.0,-20.0,Shot,Jacob Moverare Wrist Shot saved by Chris Driedger,3rd
--52.0,-17.0,Shot,Gabriel Vilardi Snap Shot saved by Chris Driedger,3rd
--82.0,-5.0,Missed Shot,Quinton Byfield Wide of Net Chris Driedger,3rd
--77.0,1.0,Shot,Gabriel Vilardi Tip-In saved by Chris Driedger,3rd
--57.0,8.0,Shot,Alex Iafallo Snap Shot saved by Chris Driedger,3rd
--77.0,10.0,Shot,Carl Grundstrom Tip-In saved by Chris Driedger,3rd
--65.0,12.0,Missed Shot,Arthur Kaliyev Wide of Net Chris Driedger,3rd
--41.0,-25.0,Shot,Tobias Bjornfot Slap Shot saved by Chris Driedger,3rd
+-73.0,0.0,Goal,"Alexander Edler (2) Wrist Shot, assists: Carl Grundstrom (5)",1st
+-57.0,-34.0,Shot,Viktor Arvidsson Snap Shot saved by Mikko Koskinen,1st
+-30.0,34.0,Shot,Sean Durzi Wrist Shot saved by Mikko Koskinen,1st
+-67.0,-27.0,Shot,Anze Kopitar Snap Shot saved by Mikko Koskinen,1st
+-10.0,16.0,Shot,Viktor Arvidsson Wrist Shot saved by Mikko Koskinen,1st
+-78.0,-1.0,Missed Shot,Adrian Kempe Wide of Net Mikko Koskinen,1st
+-59.0,34.0,Shot,Anze Kopitar Slap Shot saved by Mikko Koskinen,1st
+-51.0,-30.0,Shot,Adrian Kempe Wrist Shot saved by Mikko Koskinen,1st
+-61.0,28.0,Shot,Anze Kopitar Slap Shot saved by Mikko Koskinen,1st
+-65.0,23.0,Shot,Viktor Arvidsson Wrist Shot saved by Mikko Koskinen,1st
+-81.0,-1.0,Shot,Gabriel Vilardi Tip-In saved by Mikko Koskinen,1st
+-57.0,-37.0,Shot,Carl Grundstrom Wrist Shot saved by Mikko Koskinen,1st
+-47.0,5.0,Shot,Troy Stecher Snap Shot saved by Mikko Koskinen,1st
+-81.0,-8.0,Shot,Viktor Arvidsson Wrist Shot saved by Mikko Koskinen,1st
+-83.0,17.0,Shot,Rasmus Kupari Snap Shot saved by Mikko Koskinen,1st
+-82.0,6.0,Shot,Alex Iafallo Backhand saved by Mikko Koskinen,1st
+-81.0,13.0,Missed Shot,Gabriel Vilardi Wide of Net Mikko Koskinen,2nd
+-36.0,30.0,Shot,Jacob Moverare Wrist Shot saved by Mikko Koskinen,2nd
+-85.0,11.0,Missed Shot,Rasmus Kupari Wide of Net Mikko Koskinen,2nd
+-50.0,-21.0,Missed Shot,Troy Stecher Wide of Net Mikko Koskinen,2nd
+-65.0,4.0,Goal,"Quinton Byfield (5) Wrist Shot, assists: none",2nd
+-88.0,-6.0,Goal,"Carl Grundstrom (8) Slap Shot, assists: Phillip Danault (19), Alexander Edler (11)",2nd
+-37.0,18.0,Shot,Adrian Kempe Slap Shot saved by Mikko Koskinen,2nd
+-33.0,-25.0,Missed Shot,Sean Durzi Wide of Net Mikko Koskinen,2nd
+-86.0,5.0,Shot,Gabriel Vilardi Wrist Shot saved by Mikko Koskinen,2nd
+-61.0,-30.0,Shot,Alex Iafallo Wrist Shot saved by Mikko Koskinen,2nd
+-64.0,-26.0,Shot,Trevor Moore Snap Shot saved by Mikko Koskinen,2nd
+-58.0,-7.0,Shot,Arthur Kaliyev Snap Shot saved by Mikko Koskinen,3rd
+-81.0,2.0,Shot,Trevor Moore Deflected saved by Mikko Koskinen,3rd
+-27.0,5.0,Shot,Viktor Arvidsson Wrist Shot saved by Mikko Koskinen,3rd
+-24.0,18.0,Shot,Arthur Kaliyev Slap Shot saved by Mikko Koskinen,3rd
+-65.0,17.0,Shot,Phillip Danault Snap Shot saved by Mikko Koskinen,3rd
+-30.0,-1.0,Shot,Adrian Kempe Wrist Shot saved by Mikko Koskinen,3rd
+-32.0,2.0,Missed Shot,Troy Stecher Wide of Net Mikko Koskinen,3rd
+-82.0,5.0,Shot,Alex Iafallo Deflected saved by Mikko Koskinen,3rd
+-54.0,-3.0,Shot,Adrian Kempe Slap Shot saved by Mikko Koskinen,3rd
+-39.0,-23.0,Shot,Adrian Kempe Snap Shot saved by Mikko Koskinen,3rd
+-83.0,-4.0,Shot,Rasmus Kupari Deflected saved by Mikko Koskinen,3rd
+-61.0,-29.0,Shot,Adrian Kempe Snap Shot saved by Mikko Koskinen,3rd
+-84.0,-6.0,Missed Shot,Rasmus Kupari Wide of Net Mikko Koskinen,3rd
+-85.0,-3.0,Shot,Trevor Moore Backhand saved by Mikko Koskinen,3rd
+-71.0,-22.0,Shot,Phillip Danault Snap Shot saved by Mikko Koskinen,3rd
+-50.0,-1.0,Shot,Anze Kopitar Snap Shot saved by Mikko Koskinen,3rd
+-85.0,-7.0,Missed Shot,Quinton Byfield Wide of Net Mikko Koskinen,3rd
+-83.0,-14.0,Missed Shot,Rasmus Kupari Wide of Net Mikko Koskinen,3rd
+-81.0,-23.0,Shot,Quinton Byfield Snap Shot saved by Mikko Koskinen,3rd
+-83.0,25.0,Shot,Adrian Kempe Backhand saved by Mikko Koskinen,3rd
+-27.0,14.0,Shot,Rasmus Kupari Wrist Shot saved by Mikko Koskinen,3rd
+-60.0,-15.0,Shot,Tobias Bjornfot Snap Shot saved by Mikko Koskinen,OT
+-83.0,-1.0,Missed Shot,Viktor Arvidsson Over Net Mikko Koskinen,OT
+-51.0,-23.0,Shot,Jordan Spence Slap Shot saved by Mikko Koskinen,OT
+-85.0,-2.0,Shot,Viktor Arvidsson Backhand saved by Mikko Koskinen,SO
