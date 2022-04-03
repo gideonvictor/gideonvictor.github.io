@@ -1,48 +1,40 @@
 x,y,event,description,ordinalNum
-60.0,-15.0,Missed Shot,Jesse Puljujarvi Wide of Net Jonathan Quick,1st
-84.0,-3.0,Shot,Derick Brassard Slap Shot saved by Jonathan Quick,1st
-79.0,22.0,Missed Shot,Darnell Nurse Wide of Net Jonathan Quick,1st
-79.0,6.0,Shot,Kailer Yamamoto Wrist Shot saved by Jonathan Quick,1st
-33.0,-28.0,Shot,Evan Bouchard Wrist Shot saved by Jonathan Quick,1st
-61.0,39.0,Missed Shot,Duncan Keith Wide of Net Jonathan Quick,1st
-23.0,7.0,Shot,Evan Bouchard Backhand saved by Jonathan Quick,1st
-58.0,-14.0,Goal,"Cody Ceci (4) Snap Shot, assists: Connor McDavid (63)",1st
-57.0,-33.0,Shot,Cody Ceci Wrist Shot saved by Jonathan Quick,1st
-57.0,39.0,Shot,Darnell Nurse Wrist Shot saved by Jonathan Quick,1st
-82.0,4.0,Shot,Connor McDavid Wrist Shot saved by Jonathan Quick,1st
-79.0,7.0,Missed Shot,Evander Kane Wide of Net Jonathan Quick,1st
-31.0,29.0,Missed Shot,Duncan Keith Wide of Net Jonathan Quick,1st
-55.0,40.0,Shot,Evander Kane Wrist Shot saved by Jonathan Quick,1st
-90.0,-3.0,Missed Shot,Evander Kane Wide of Net Jonathan Quick,1st
-74.0,8.0,Shot,Leon Draisaitl Backhand saved by Jonathan Quick,1st
-85.0,6.0,Goal,"Leon Draisaitl (49) Wrist Shot, assists: Zach Hyman (23), Brett Kulak (11)",1st
-35.0,-25.0,Shot,Darnell Nurse Wrist Shot saved by Jonathan Quick,2nd
-80.0,10.0,Shot,Connor McDavid Backhand saved by Jonathan Quick,2nd
-52.0,22.0,Missed Shot,Darnell Nurse Wide of Net Jonathan Quick,2nd
-96.0,-8.0,Goal,"Connor McDavid (37) Wrist Shot, assists: none",2nd
-71.0,3.0,Shot,Zach Hyman Snap Shot saved by Jonathan Quick,2nd
-74.0,4.0,Shot,Leon Draisaitl Wrist Shot saved by Jonathan Quick,2nd
-33.0,21.0,Shot,Cody Ceci Slap Shot saved by Jonathan Quick,2nd
-43.0,-26.0,Shot,Duncan Keith Wrist Shot saved by Jonathan Quick,2nd
-82.0,20.0,Shot,Leon Draisaitl Snap Shot saved by Jonathan Quick,2nd
-72.0,-5.0,Shot,Connor McDavid Tip-In saved by Jonathan Quick,2nd
-85.0,5.0,Missed Shot,Leon Draisaitl Wide of Net Jonathan Quick,3rd
-77.0,1.0,Missed Shot,Zach Hyman Over Net Jonathan Quick,3rd
-67.0,20.0,Shot,Darnell Nurse Snap Shot saved by Jonathan Quick,3rd
-72.0,-15.0,Shot,Leon Draisaitl Snap Shot saved by Jonathan Quick,3rd
-62.0,12.0,Shot,Connor McDavid Wrist Shot saved by Jonathan Quick,3rd
-32.0,32.0,Shot,Brett Kulak Slap Shot saved by Jonathan Quick,3rd
-84.0,-18.0,Shot,Connor McDavid Backhand saved by Jonathan Quick,3rd
-39.0,25.0,Shot,Brett Kulak Slap Shot saved by Jonathan Quick,3rd
-71.0,7.0,Missed Shot,Leon Draisaitl Wide of Net Jonathan Quick,3rd
-56.0,-16.0,Shot,Evan Bouchard Slap Shot saved by Jonathan Quick,3rd
-72.0,-32.0,Shot,Jesse Puljujarvi Wrist Shot saved by Jonathan Quick,3rd
-84.0,6.0,Shot,Leon Draisaitl Backhand saved by Jonathan Quick,3rd
-78.0,2.0,Shot,Kailer Yamamoto Snap Shot saved by Jonathan Quick,3rd
-53.0,31.0,Shot,Evander Kane Wrist Shot saved by Jonathan Quick,3rd
-31.0,36.0,Missed Shot,Darnell Nurse Wide of Net Jonathan Quick,3rd
-84.0,-4.0,Shot,Connor McDavid Wrist Shot saved by Jonathan Quick,OT
-85.0,-3.0,Shot,Connor McDavid Wrist Shot saved by Jonathan Quick,OT
-83.0,5.0,Missed Shot,Leon Draisaitl Wide of Net Jonathan Quick,OT
-85.0,6.0,Missed Shot,Ryan Mcleod Over Net Jonathan Quick,OT
-77.0,-6.0,Shot,Connor McDavid Wrist Shot saved by Jonathan Quick,OT
+77.0,-8.0,Missed Shot,Nikolaj Ehlers Over Net Cal Petersen,1st
+81.0,-1.0,Shot,Pierre-Luc Dubois Tip-In saved by Cal Petersen,1st
+80.0,-2.0,Shot,Pierre-Luc Dubois Tip-In saved by Cal Petersen,1st
+62.0,-17.0,Goal,"Nikolaj Ehlers (22) Wrist Shot, assists: Mark Scheifele (39)",1st
+52.0,34.0,Shot,Evgeny Svechnikov Wrist Shot saved by Cal Petersen,1st
+77.0,0.0,Missed Shot,Adam Lowry Wide of Net Cal Petersen,1st
+77.0,-1.0,Shot,Mason Appleton Backhand saved by Cal Petersen,1st
+37.0,-1.0,Shot,Neal Pionk Slap Shot saved by Cal Petersen,1st
+72.0,39.0,Shot,Zach Sanford Wrist Shot saved by Cal Petersen,2nd
+65.0,1.0,Shot,Pierre-Luc Dubois Wrist Shot saved by Cal Petersen,2nd
+89.0,10.0,Shot,Adam Lowry Wrist Shot saved by Cal Petersen,2nd
+51.0,-20.0,Missed Shot,Pierre-Luc Dubois Wide of Net Cal Petersen,2nd
+66.0,25.0,Shot,Ville Heinola Wrist Shot saved by Cal Petersen,2nd
+72.0,1.0,Missed Shot,Mason Appleton Over Net Cal Petersen,2nd
+54.0,16.0,Shot,Josh Morrissey Wrist Shot saved by Cal Petersen,2nd
+74.0,1.0,Missed Shot,Blake Wheeler Wide of Net Cal Petersen,2nd
+75.0,-18.0,Shot,Mark Scheifele Slap Shot saved by Cal Petersen,2nd
+83.0,-6.0,Shot,Pierre-Luc Dubois Backhand saved by Cal Petersen,2nd
+58.0,-23.0,Shot,Ville Heinola Slap Shot saved by Cal Petersen,2nd
+83.0,1.0,Goal,"Adam Lowry (11) Tip-In, assists: Ville Heinola (5), Neal Pionk (27)",2nd
+72.0,7.0,Missed Shot,Zach Sanford Wide of Net Cal Petersen,2nd
+48.0,21.0,Shot,Josh Morrissey Wrist Shot saved by Cal Petersen,2nd
+81.0,0.0,Missed Shot,Mark Scheifele Wide of Net Cal Petersen,2nd
+74.0,-19.0,Shot,Nikolaj Ehlers Wrist Shot saved by Cal Petersen,2nd
+63.0,-16.0,Shot,Nikolaj Ehlers Wrist Shot saved by Cal Petersen,2nd
+64.0,8.0,Shot,Pierre-Luc Dubois Wrist Shot saved by Cal Petersen,2nd
+65.0,-33.0,Shot,Mark Scheifele Wrist Shot saved by Cal Petersen,3rd
+60.0,-11.0,Missed Shot,Mark Scheifele Over Net Cal Petersen,3rd
+83.0,-8.0,Missed Shot,Nikolaj Ehlers Wide of Net Cal Petersen,3rd
+59.0,-3.0,Shot,Nikolaj Ehlers Wrist Shot saved by Cal Petersen,3rd
+80.0,-1.0,Shot,Morgan Barron Backhand saved by Cal Petersen,3rd
+47.0,-35.0,Missed Shot,Evgeny Svechnikov Wide of Net Cal Petersen,3rd
+44.0,-1.0,Shot,Josh Morrissey Slap Shot saved by Cal Petersen,3rd
+60.0,-39.0,Shot,Evgeny Svechnikov Wrist Shot saved by Cal Petersen,3rd
+36.0,14.0,Missed Shot,Dylan DeMelo Wide of Net Cal Petersen,3rd
+6.0,-27.0,Shot,Logan Stanley Slap Shot saved by Cal Petersen,3rd
+53.0,16.0,Missed Shot,Nikolaj Ehlers Wide of Net Cal Petersen,3rd
+36.0,32.0,Shot,Nikolaj Ehlers Wrist Shot saved by Cal Petersen,3rd
+52.0,13.0,Shot,Mark Scheifele Wrist Shot saved by Cal Petersen,3rd

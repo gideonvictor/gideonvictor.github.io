@@ -1,53 +1,48 @@
 x,y,event,description,ordinalNum
--73.0,0.0,Goal,"Alexander Edler (2) Wrist Shot, assists: Carl Grundstrom (5)",1st
--57.0,-34.0,Shot,Viktor Arvidsson Snap Shot saved by Mikko Koskinen,1st
--30.0,34.0,Shot,Sean Durzi Wrist Shot saved by Mikko Koskinen,1st
--67.0,-27.0,Shot,Anze Kopitar Snap Shot saved by Mikko Koskinen,1st
--10.0,16.0,Shot,Viktor Arvidsson Wrist Shot saved by Mikko Koskinen,1st
--78.0,-1.0,Missed Shot,Adrian Kempe Wide of Net Mikko Koskinen,1st
--59.0,34.0,Shot,Anze Kopitar Slap Shot saved by Mikko Koskinen,1st
--51.0,-30.0,Shot,Adrian Kempe Wrist Shot saved by Mikko Koskinen,1st
--61.0,28.0,Shot,Anze Kopitar Slap Shot saved by Mikko Koskinen,1st
--65.0,23.0,Shot,Viktor Arvidsson Wrist Shot saved by Mikko Koskinen,1st
--81.0,-1.0,Shot,Gabriel Vilardi Tip-In saved by Mikko Koskinen,1st
--57.0,-37.0,Shot,Carl Grundstrom Wrist Shot saved by Mikko Koskinen,1st
--47.0,5.0,Shot,Troy Stecher Snap Shot saved by Mikko Koskinen,1st
--81.0,-8.0,Shot,Viktor Arvidsson Wrist Shot saved by Mikko Koskinen,1st
--83.0,17.0,Shot,Rasmus Kupari Snap Shot saved by Mikko Koskinen,1st
--82.0,6.0,Shot,Alex Iafallo Backhand saved by Mikko Koskinen,1st
--81.0,13.0,Missed Shot,Gabriel Vilardi Wide of Net Mikko Koskinen,2nd
--36.0,30.0,Shot,Jacob Moverare Wrist Shot saved by Mikko Koskinen,2nd
--85.0,11.0,Missed Shot,Rasmus Kupari Wide of Net Mikko Koskinen,2nd
--50.0,-21.0,Missed Shot,Troy Stecher Wide of Net Mikko Koskinen,2nd
--65.0,4.0,Goal,"Quinton Byfield (5) Wrist Shot, assists: none",2nd
--88.0,-6.0,Goal,"Carl Grundstrom (8) Slap Shot, assists: Phillip Danault (19), Alexander Edler (11)",2nd
--37.0,18.0,Shot,Adrian Kempe Slap Shot saved by Mikko Koskinen,2nd
--33.0,-25.0,Missed Shot,Sean Durzi Wide of Net Mikko Koskinen,2nd
--86.0,5.0,Shot,Gabriel Vilardi Wrist Shot saved by Mikko Koskinen,2nd
--61.0,-30.0,Shot,Alex Iafallo Wrist Shot saved by Mikko Koskinen,2nd
--64.0,-26.0,Shot,Trevor Moore Snap Shot saved by Mikko Koskinen,2nd
--58.0,-7.0,Shot,Arthur Kaliyev Snap Shot saved by Mikko Koskinen,3rd
--81.0,2.0,Shot,Trevor Moore Deflected saved by Mikko Koskinen,3rd
--27.0,5.0,Shot,Viktor Arvidsson Wrist Shot saved by Mikko Koskinen,3rd
--24.0,18.0,Shot,Arthur Kaliyev Slap Shot saved by Mikko Koskinen,3rd
--65.0,17.0,Shot,Phillip Danault Snap Shot saved by Mikko Koskinen,3rd
--30.0,-1.0,Shot,Adrian Kempe Wrist Shot saved by Mikko Koskinen,3rd
--32.0,2.0,Missed Shot,Troy Stecher Wide of Net Mikko Koskinen,3rd
--82.0,5.0,Shot,Alex Iafallo Deflected saved by Mikko Koskinen,3rd
--54.0,-3.0,Shot,Adrian Kempe Slap Shot saved by Mikko Koskinen,3rd
--39.0,-23.0,Shot,Adrian Kempe Snap Shot saved by Mikko Koskinen,3rd
--83.0,-4.0,Shot,Rasmus Kupari Deflected saved by Mikko Koskinen,3rd
--61.0,-29.0,Shot,Adrian Kempe Snap Shot saved by Mikko Koskinen,3rd
--84.0,-6.0,Missed Shot,Rasmus Kupari Wide of Net Mikko Koskinen,3rd
--85.0,-3.0,Shot,Trevor Moore Backhand saved by Mikko Koskinen,3rd
--71.0,-22.0,Shot,Phillip Danault Snap Shot saved by Mikko Koskinen,3rd
--50.0,-1.0,Shot,Anze Kopitar Snap Shot saved by Mikko Koskinen,3rd
--85.0,-7.0,Missed Shot,Quinton Byfield Wide of Net Mikko Koskinen,3rd
--83.0,-14.0,Missed Shot,Rasmus Kupari Wide of Net Mikko Koskinen,3rd
--81.0,-23.0,Shot,Quinton Byfield Snap Shot saved by Mikko Koskinen,3rd
--83.0,25.0,Shot,Adrian Kempe Backhand saved by Mikko Koskinen,3rd
--27.0,14.0,Shot,Rasmus Kupari Wrist Shot saved by Mikko Koskinen,3rd
--60.0,-15.0,Shot,Tobias Bjornfot Snap Shot saved by Mikko Koskinen,OT
--83.0,-1.0,Missed Shot,Viktor Arvidsson Over Net Mikko Koskinen,OT
--51.0,-23.0,Shot,Jordan Spence Slap Shot saved by Mikko Koskinen,OT
--85.0,-2.0,Shot,Viktor Arvidsson Backhand saved by Mikko Koskinen,SO
+-53.0,-22.0,Shot,Viktor Arvidsson Wrist Shot saved by Connor Hellebuyck,1st
+-77.0,4.0,Shot,Alex Iafallo Tip-In saved by Connor Hellebuyck,1st
+-42.0,20.0,Shot,Olli Maatta Slap Shot saved by Connor Hellebuyck,1st
+-64.0,-39.0,Shot,Jordan Spence Wrist Shot saved by Connor Hellebuyck,1st
+-84.0,15.0,Missed Shot,Quinton Byfield Over Net Connor Hellebuyck,1st
+-49.0,-18.0,Shot,Phillip Danault Wrist Shot saved by Connor Hellebuyck,1st
+-83.0,-3.0,Goal,"Adrian Kempe (29) Deflected, assists: Phillip Danault (21), Alexander Edler (13)",1st
+-7.0,31.0,Shot,Trevor Moore Slap Shot saved by Connor Hellebuyck,1st
+-64.0,5.0,Shot,Anze Kopitar Wrist Shot saved by Connor Hellebuyck,1st
+-72.0,3.0,Missed Shot,Alex Iafallo Wide of Net Connor Hellebuyck,1st
+-65.0,39.0,Shot,Alex Iafallo Wrist Shot saved by Connor Hellebuyck,1st
+-58.0,0.0,Goal,"Anze Kopitar (18) Snap Shot, assists: Adrian Kempe (16), Sean Durzi (21)",1st
+-66.0,3.0,Shot,Trevor Moore Slap Shot saved by Connor Hellebuyck,1st
+-69.0,-13.0,Shot,Anze Kopitar Wrist Shot saved by Connor Hellebuyck,1st
+-81.0,1.0,Shot,Phillip Danault Backhand saved by Connor Hellebuyck,1st
+-71.0,0.0,Shot,Alex Iafallo Wrist Shot saved by Connor Hellebuyck,1st
+-55.0,28.0,Shot,Sean Durzi Wrist Shot saved by Connor Hellebuyck,1st
+-44.0,7.0,Shot,Sean Durzi Wrist Shot saved by Connor Hellebuyck,1st
+-60.0,37.0,Shot,Lias Andersson Wrist Shot saved by Connor Hellebuyck,1st
+-35.0,26.0,Missed Shot,Alexander Edler Wide of Net Connor Hellebuyck,1st
+-54.0,-39.0,Missed Shot,Troy Stecher Wide of Net Connor Hellebuyck,1st
+-56.0,34.0,Shot,Adrian Kempe Wrist Shot saved by Connor Hellebuyck,1st
+-80.0,2.0,Missed Shot,Phillip Danault Wide of Net Connor Hellebuyck,1st
+-57.0,22.0,Shot,Anze Kopitar Wrist Shot saved by Connor Hellebuyck,1st
+-57.0,37.0,Shot,Trevor Moore Wrist Shot saved by Connor Hellebuyck,2nd
+-36.0,-27.0,Shot,Alexander Edler Wrist Shot saved by Connor Hellebuyck,2nd
+-47.0,-24.0,Shot,Arthur Kaliyev Wrist Shot saved by Connor Hellebuyck,2nd
+-77.0,2.0,Shot,Gabriel Vilardi Tip-In saved by Connor Hellebuyck,2nd
+-78.0,4.0,Goal,"Gabriel Vilardi (3) Deflected, assists: Jordan Spence (4), Anze Kopitar (41)",2nd
+-58.0,-17.0,Missed Shot,Carl Grundstrom Over Net Connor Hellebuyck,2nd
+-68.0,33.0,Shot,Viktor Arvidsson Wrist Shot saved by Connor Hellebuyck,2nd
+-84.0,18.0,Shot,Trevor Moore Wrist Shot saved by Connor Hellebuyck,2nd
+-73.0,0.0,Shot,Sean Durzi Wrist Shot saved by Connor Hellebuyck,2nd
+-13.0,28.0,Shot,Trevor Moore Wrist Shot saved by Connor Hellebuyck,2nd
+-36.0,-17.0,Missed Shot,Tobias Bjornfot Wide of Net Connor Hellebuyck,2nd
+-70.0,12.0,Shot,Alex Iafallo Wrist Shot saved by Connor Hellebuyck,2nd
+-34.0,7.0,Shot,Sean Durzi Wrist Shot saved by Connor Hellebuyck,2nd
+-84.0,-37.0,Shot,Trevor Moore Wrist Shot saved by Connor Hellebuyck,2nd
+-71.0,5.0,Missed Shot,Lias Andersson Wide of Net Connor Hellebuyck,3rd
+-42.0,1.0,Shot,Trevor Moore Wrist Shot saved by Connor Hellebuyck,3rd
+-33.0,-26.0,Shot,Jordan Spence Wrist Shot saved by Connor Hellebuyck,3rd
+-83.0,-22.0,Shot,Trevor Moore Backhand saved by Connor Hellebuyck,3rd
+-53.0,32.0,Shot,Quinton Byfield Wrist Shot saved by Connor Hellebuyck,3rd
+-38.0,-20.0,Shot,Jordan Spence Wrist Shot saved by Connor Hellebuyck,3rd
+-76.0,0.0,Shot,Adrian Kempe Wrist Shot saved by Connor Hellebuyck,3rd
+-81.0,1.0,Shot,Adrian Kempe Tip-In saved by Connor Hellebuyck,3rd
+-13.0,-18.0,Missed Shot,Alex Iafallo Wide of Net,3rd
