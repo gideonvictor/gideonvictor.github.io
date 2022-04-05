@@ -103,7 +103,7 @@ d3.csv("https://gideonvictor.com/Opponent.csv", function(data) {
   // Prepare a color palette
   var color = d3.scaleLinear()
       .domain([minnn, maxxx]) // Number of points in the bin?
-      .range(["Transparent",  "#004C97"])
+      .range(["Transparent",  "#c8102E"])
 
 
 
