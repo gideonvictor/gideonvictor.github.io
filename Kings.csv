@@ -1,50 +1,47 @@
 x,y,event,description,ordinalNum
--53.0,10.0,Missed Shot,Rasmus Kupari Wide of Net Jacob Markstrom,1st
--69.0,3.0,Missed Shot,Phillip Danault Wide of Net Jacob Markstrom,1st
--61.0,25.0,Missed Shot,Viktor Arvidsson Wide of Net Jacob Markstrom,1st
--78.0,8.0,Missed Shot,Gabriel Vilardi Wide of Net Jacob Markstrom,1st
--25.0,4.0,Shot,Arthur Kaliyev Backhand saved by Jacob Markstrom,1st
--35.0,-36.0,Missed Shot,Tobias Bjornfot Wide of Net Jacob Markstrom,1st
--47.0,-18.0,Missed Shot,Arthur Kaliyev Wide of Net Jacob Markstrom,1st
-0.0,18.0,Missed Shot,Viktor Arvidsson Wide of Net Jacob Markstrom,1st
-0.0,37.0,Shot,Trevor Moore Wrist Shot saved by Jacob Markstrom,1st
--82.0,29.0,Goal,"Adrian Kempe (30) Slap Shot, assists: Anze Kopitar (42), Alex Iafallo (19)",1st
--75.0,-34.0,Shot,Lias Andersson Slap Shot saved by Jacob Markstrom,1st
--76.0,31.0,Shot,Trevor Moore Wrist Shot saved by Jacob Markstrom,1st
--60.0,-16.0,Missed Shot,Sean Durzi Wide of Net Jacob Markstrom,1st
--51.0,19.0,Goal,"Adrian Kempe (31) Snap Shot, assists: Anze Kopitar (43), Sean Durzi (22)",1st
--69.0,-24.0,Missed Shot,Arthur Kaliyev Wide of Net Jacob Markstrom,1st
--17.0,29.0,Shot,Phillip Danault Wrist Shot saved by Jacob Markstrom,2nd
--81.0,-11.0,Shot,Gabriel Vilardi Wrist Shot saved by Jacob Markstrom,2nd
--83.0,6.0,Missed Shot,Trevor Moore Wide of Net Jacob Markstrom,2nd
--55.0,11.0,Shot,Adrian Kempe Snap Shot saved by Jacob Markstrom,2nd
--61.0,-13.0,Shot,Anze Kopitar Wrist Shot saved by Jacob Markstrom,2nd
--69.0,-13.0,Shot,Carl Grundstrom Snap Shot saved by Jacob Markstrom,2nd
--74.0,1.0,Shot,Rasmus Kupari Snap Shot saved by Jacob Markstrom,2nd
--61.0,-16.0,Shot,Trevor Moore Wrist Shot saved by Jacob Markstrom,2nd
--53.0,-16.0,Shot,Trevor Moore Wrist Shot saved by Jacob Markstrom,2nd
--80.0,31.0,Shot,Arthur Kaliyev Wrist Shot saved by Jacob Markstrom,2nd
--31.0,32.0,Shot,Tobias Bjornfot Wrist Shot saved by Jacob Markstrom,2nd
--71.0,-17.0,Shot,Adrian Kempe Backhand saved by Jacob Markstrom,2nd
--86.0,8.0,Shot,Trevor Moore Backhand saved by Jacob Markstrom,2nd
--85.0,6.0,Shot,Trevor Moore Backhand saved by Jacob Markstrom,2nd
--73.0,14.0,Missed Shot,Viktor Arvidsson Wide of Net Jacob Markstrom,3rd
--32.0,0.0,Missed Shot,Gabriel Vilardi Wide of Net Jacob Markstrom,3rd
--88.0,-5.0,Shot,Gabriel Vilardi Wrap-around saved by Jacob Markstrom,3rd
--60.0,36.0,Shot,Trevor Moore Wrist Shot saved by Jacob Markstrom,3rd
--65.0,-6.0,Shot,Adrian Kempe Snap Shot saved by Jacob Markstrom,3rd
--79.0,-3.0,Missed Shot,Alex Iafallo Wide of Net Jacob Markstrom,3rd
--87.0,-13.0,Missed Shot,Trevor Moore Wide of Net Jacob Markstrom,3rd
--73.0,-4.0,Shot,Viktor Arvidsson Snap Shot saved by Jacob Markstrom,3rd
--43.0,-23.0,Missed Shot,Alexander Edler Wide of Net Jacob Markstrom,3rd
--62.0,-14.0,Shot,Alex Iafallo Tip-In saved by Jacob Markstrom,3rd
--32.0,23.0,Missed Shot,Anze Kopitar Wide of Net Jacob Markstrom,3rd
--41.0,34.0,Shot,Adrian Kempe Wrist Shot saved by Jacob Markstrom,3rd
--35.0,27.0,Missed Shot,Jordan Spence Wide of Net Jacob Markstrom,3rd
--79.0,-2.0,Shot,Adrian Kempe Wrist Shot saved by Jacob Markstrom,3rd
--56.0,22.0,Shot,Anze Kopitar Wrist Shot saved by Jacob Markstrom,3rd
--82.0,7.0,Shot,Trevor Moore Backhand saved by Jacob Markstrom,3rd
--65.0,-6.0,Shot,Alex Iafallo Wrist Shot saved by Jacob Markstrom,3rd
--79.0,7.0,Missed Shot,Trevor Moore Wide of Net Jacob Markstrom,3rd
--77.0,0.0,Missed Shot,Phillip Danault Wide of Net Jacob Markstrom,3rd
--84.0,8.0,Missed Shot,Trevor Moore Wide of Net Jacob Markstrom,3rd
+-46.0,-1.0,Shot,Blake Lizotte Wrist Shot saved by Darcy Kuemper,1st
+-16.0,38.0,Shot,Dustin Brown Wrist Shot saved by Darcy Kuemper,1st
+-55.0,-14.0,Missed Shot,Phillip Danault Wide of Net Darcy Kuemper,1st
+-49.0,-19.0,Shot,Jordan Spence Slap Shot saved by Darcy Kuemper,1st
+-41.0,31.0,Shot,Alex Iafallo Slap Shot saved by Darcy Kuemper,1st
+-77.0,-3.0,Shot,Viktor Arvidsson Tip-In saved by Darcy Kuemper,1st
+-78.0,-2.0,Shot,Alex Iafallo Tip-In saved by Darcy Kuemper,1st
+-83.0,-9.0,Missed Shot,Dustin Brown Wide of Net Darcy Kuemper,1st
+-51.0,39.0,Shot,Trevor Moore Snap Shot saved by Darcy Kuemper,1st
+-36.0,-35.0,Shot,Viktor Arvidsson Slap Shot saved by Darcy Kuemper,1st
+-30.0,-5.0,Missed Shot,Matt Roy Wide of Net Darcy Kuemper,1st
+-51.0,-16.0,Shot,Alexander Edler Wrist Shot saved by Darcy Kuemper,2nd
+-75.0,-9.0,Shot,Anze Kopitar Deflected saved by Darcy Kuemper,2nd
+-42.0,36.0,Shot,Troy Stecher Wrist Shot saved by Darcy Kuemper,2nd
+-79.0,1.0,Shot,Arthur Kaliyev Tip-In saved by Darcy Kuemper,2nd
+-82.0,6.0,Goal,"Adrian Kempe (33) Backhand, assists: Arthur Kaliyev (12), Troy Stecher (2)",2nd
+-33.0,22.0,Missed Shot,Jordan Spence Wide of Net Darcy Kuemper,2nd
+-63.0,14.0,Shot,Sean Durzi Wrist Shot saved by Darcy Kuemper,2nd
+-88.0,30.0,Missed Shot,Alex Iafallo Wide of Net Darcy Kuemper,2nd
+-66.0,30.0,Shot,Anze Kopitar Wrist Shot saved by Darcy Kuemper,2nd
+-46.0,-28.0,Shot,Arthur Kaliyev Wrist Shot saved by Darcy Kuemper,2nd
+-33.0,28.0,Shot,Matt Roy Wrist Shot saved by Darcy Kuemper,2nd
+-74.0,-8.0,Shot,Sean Durzi Tip-In saved by Darcy Kuemper,2nd
+-92.0,7.0,Missed Shot,Trevor Moore Wide of Net Darcy Kuemper,2nd
+-33.0,19.0,Shot,Jordan Spence Slap Shot saved by Darcy Kuemper,2nd
+-69.0,20.0,Shot,Dustin Brown Wrist Shot saved by Darcy Kuemper,2nd
+-72.0,4.0,Goal,"Alex Iafallo (16) Tip-In, assists: Jordan Spence (5), Blake Lizotte (12)",2nd
+-44.0,38.0,Shot,Troy Stecher Wrist Shot saved by Darcy Kuemper,2nd
+-70.0,9.0,Shot,Adrian Kempe Wrist Shot saved by Darcy Kuemper,2nd
+-83.0,-31.0,Missed Shot,Phillip Danault Goalpost Darcy Kuemper,2nd
+-78.0,-2.0,Shot,Phillip Danault Tip-In saved by Darcy Kuemper,2nd
+-87.0,-5.0,Missed Shot,Phillip Danault Wide of Net Darcy Kuemper,3rd
+-32.0,-33.0,Shot,Sean Durzi Wrist Shot saved by Darcy Kuemper,3rd
+-63.0,-22.0,Missed Shot,Anze Kopitar Wide of Net Darcy Kuemper,3rd
+-46.0,35.0,Missed Shot,Alexander Edler Wide of Net Darcy Kuemper,3rd
+-49.0,-25.0,Shot,Anze Kopitar Wrist Shot saved by Darcy Kuemper,3rd
+-51.0,-9.0,Missed Shot,Dustin Brown Wide of Net Darcy Kuemper,3rd
+-46.0,28.0,Missed Shot,Viktor Arvidsson Wide of Net Darcy Kuemper,3rd
+-33.0,11.0,Missed Shot,Sean Durzi Wide of Net Darcy Kuemper,3rd
+-35.0,-22.0,Shot,Jordan Spence Slap Shot saved by Darcy Kuemper,3rd
+-69.0,1.0,Goal,"Phillip Danault (23) Snap Shot, assists: Jordan Spence (6), Trevor Moore (31)",3rd
+-52.0,18.0,Shot,Alex Iafallo Wrist Shot saved by Darcy Kuemper,3rd
+-33.0,-27.0,Shot,Sean Durzi Wrist Shot saved by Darcy Kuemper,3rd
+-22.0,-41.0,Shot,Sean Durzi Wrist Shot saved by Darcy Kuemper,3rd
+-46.0,14.0,Missed Shot,Olli Maatta Wide of Net Darcy Kuemper,3rd
+-76.0,4.0,Shot,Trevor Moore Snap Shot saved by Darcy Kuemper,3rd

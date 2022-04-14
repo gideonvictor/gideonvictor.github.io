@@ -1,54 +1,51 @@
 x,y,event,description,ordinalNum
-92.0,29.0,Goal,"Johnny Gaudreau (33) Wrist Shot, assists: none",1st
-68.0,-22.0,Shot,Matthew Tkachuk Wrist Shot saved by Cal Petersen,1st
-34.0,13.0,Shot,Michael Stone Slap Shot saved by Cal Petersen,1st
-70.0,-33.0,Missed Shot,Mikael Backlund Wide of Net Cal Petersen,1st
-90.0,10.0,Shot,Ryan Carpenter Deflected saved by Cal Petersen,1st
-79.0,1.0,Shot,Elias Lindholm Tip-In saved by Cal Petersen,1st
-77.0,-14.0,Missed Shot,Elias Lindholm Wide of Net Cal Petersen,1st
-64.0,8.0,Missed Shot,Johnny Gaudreau Wide of Net Cal Petersen,1st
-65.0,32.0,Shot,Noah Hanifin Snap Shot saved by Cal Petersen,1st
-71.0,-34.0,Shot,Tyler Toffoli Slap Shot saved by Cal Petersen,1st
-80.0,-4.0,Shot,Elias Lindholm Tip-In saved by Cal Petersen,1st
-33.0,-7.0,Missed Shot,Rasmus Andersson Wide of Net Cal Petersen,1st
-47.0,18.0,Missed Shot,Tyler Toffoli Wide of Net Cal Petersen,1st
-85.0,-7.0,Shot,Matthew Tkachuk Wrist Shot saved by Cal Petersen,1st
-76.0,-4.0,Shot,Elias Lindholm Wrist Shot saved by Cal Petersen,1st
-83.0,-4.0,Shot,Matthew Tkachuk Tip-In saved by Cal Petersen,1st
-82.0,-4.0,Shot,Matthew Tkachuk Tip-In saved by Cal Petersen,1st
-82.0,-2.0,Shot,Mikael Backlund Tip-In saved by Cal Petersen,1st
-36.0,31.0,Shot,Rasmus Andersson Slap Shot saved by Cal Petersen,2nd
-58.0,-22.0,Shot,Michael Stone Slap Shot saved by Cal Petersen,2nd
-19.0,-29.0,Shot,Michael Stone Slap Shot saved by Cal Petersen,2nd
-49.0,35.0,Shot,Trevor Lewis Wrist Shot saved by Cal Petersen,2nd
-63.0,-18.0,Shot,Johnny Gaudreau Wrist Shot saved by Cal Petersen,2nd
-73.0,36.0,Shot,Erik Gudbranson Slap Shot saved by Cal Petersen,2nd
-66.0,4.0,Missed Shot,Tyler Toffoli Wide of Net Cal Petersen,2nd
-52.0,-32.0,Shot,Noah Hanifin Wrist Shot saved by Cal Petersen,2nd
-92.0,-7.0,Missed Shot,Matthew Tkachuk Wide of Net Cal Petersen,2nd
-65.0,25.0,Missed Shot,Erik Gudbranson Wide of Net Cal Petersen,2nd
-55.0,-35.0,Missed Shot,Mikael Backlund Wide of Net Cal Petersen,2nd
-71.0,-1.0,Goal,"Elias Lindholm (35) Slap Shot, assists: Johnny Gaudreau (61), Matthew Tkachuk (53)",2nd
-80.0,4.0,Goal,"Johnny Gaudreau (34) Backhand, assists: Ryan Carpenter (9), Michael Stone (2)",2nd
-62.0,14.0,Missed Shot,Trevor Lewis Wide of Net Cal Petersen,2nd
-41.0,27.0,Shot,Blake Coleman Wrist Shot saved by Cal Petersen,2nd
-87.0,-18.0,Shot,Blake Coleman Wrist Shot saved by Cal Petersen,2nd
-81.0,-6.0,Missed Shot,Blake Coleman Wide of Net Cal Petersen,2nd
-41.0,14.0,Shot,Adam Ruzicka Wrist Shot saved by Cal Petersen,2nd
-66.0,-7.0,Missed Shot,Erik Gudbranson Wide of Net Cal Petersen,2nd
-62.0,-14.0,Shot,Trevor Lewis Wrist Shot saved by Cal Petersen,2nd
-34.0,1.0,Missed Shot,Noah Hanifin Wide of Net Cal Petersen,2nd
-82.0,-10.0,Shot,Tyler Toffoli Backhand saved by Cal Petersen,2nd
-75.0,-6.0,Missed Shot,Tyler Toffoli Wide of Net Cal Petersen,2nd
-23.0,16.0,Shot,Erik Gudbranson Wrist Shot saved by Cal Petersen,2nd
-84.0,11.0,Missed Shot,Johnny Gaudreau Wide of Net Cal Petersen,3rd
-50.0,39.0,Missed Shot,Matthew Tkachuk Wide of Net Cal Petersen,3rd
-89.0,27.0,Shot,Tyler Toffoli Wrist Shot saved by Cal Petersen,3rd
-64.0,-22.0,Missed Shot,Christopher Tanev Wide of Net Cal Petersen,3rd
-82.0,35.0,Missed Shot,Johnny Gaudreau Wide of Net Cal Petersen,3rd
-76.0,14.0,Shot,Mikael Backlund Backhand saved by Cal Petersen,3rd
-67.0,23.0,Missed Shot,Andrew Mangiapane Wide of Net Cal Petersen,3rd
-47.0,38.0,Shot,Matthew Tkachuk Wrist Shot saved by Cal Petersen,3rd
-55.0,10.0,Shot,Milan Lucic Wrist Shot saved by Cal Petersen,3rd
-48.0,-5.0,Missed Shot,Trevor Lewis Wide of Net Cal Petersen,3rd
-66.0,4.0,Shot,Matthew Tkachuk Wrist Shot saved by Cal Petersen,3rd
+40.0,-40.0,Shot,Devon Toews Wrist Shot saved by Jonathan Quick,1st
+37.0,33.0,Shot,Devon Toews Slap Shot saved by Jonathan Quick,1st
+60.0,38.0,Missed Shot,Erik Johnson Wide of Net Jonathan Quick,1st
+44.0,-35.0,Shot,Erik Johnson Wrist Shot saved by Jonathan Quick,1st
+68.0,-21.0,Goal,"Nicolas Aube-Kubel (10) Tip-In, assists: Erik Johnson (16), Bowen Byram (8)",1st
+79.0,13.0,Goal,"Valeri Nichushkin (20) Backhand, assists: Bowen Byram (9), Artturi Lehkonen (17)",1st
+81.0,-27.0,Shot,Andre Burakovsky Wrist Shot saved by Jonathan Quick,1st
+68.0,17.0,Shot,Nathan MacKinnon Wrist Shot saved by Jonathan Quick,1st
+58.0,31.0,Shot,Artturi Lehkonen Wrist Shot saved by Jonathan Quick,1st
+65.0,-26.0,Shot,Nathan MacKinnon Slap Shot saved by Jonathan Quick,1st
+62.0,-23.0,Missed Shot,Nathan MacKinnon Wide of Net Jonathan Quick,1st
+58.0,23.0,Missed Shot,Mikko Rantanen Wide of Net Jonathan Quick,1st
+67.0,-27.0,Goal,"Nathan MacKinnon (27) Slap Shot, assists: Cale Makar (53), Mikko Rantanen (52)",1st
+59.0,-24.0,Goal,"Nicolas Aube-Kubel (11) Wrist Shot, assists: Alex Newhook (17), Devon Toews (42)",1st
+65.0,29.0,Missed Shot,Logan O'Connor Wide of Net Cal Petersen,1st
+63.0,26.0,Missed Shot,Artturi Lehkonen Wide of Net Cal Petersen,1st
+33.0,-23.0,Shot,Nathan MacKinnon Wrist Shot saved by Cal Petersen,1st
+64.0,6.0,Missed Shot,Bowen  Byram Wide of Net Cal Petersen,1st
+63.0,-20.0,Shot,Nico Sturm Wrist Shot saved by Cal Petersen,1st
+46.0,25.0,Shot,Josh Manson Slap Shot saved by Cal Petersen,1st
+73.0,9.0,Shot,Darren Helm Wrist Shot saved by Cal Petersen,2nd
+58.0,-6.0,Shot,Erik Johnson Wrist Shot saved by Cal Petersen,2nd
+62.0,-16.0,Missed Shot,Artturi Lehkonen Wide of Net Cal Petersen,2nd
+78.0,-26.0,Missed Shot,Andre Burakovsky Wide of Net Cal Petersen,2nd
+70.0,6.0,Missed Shot,Andre Burakovsky Wide of Net Cal Petersen,2nd
+58.0,14.0,Goal,"Andre Burakovsky (21) Slap Shot, assists: Nathan MacKinnon (52)",2nd
+11.0,40.0,Shot,Nico Sturm Wrist Shot saved by Cal Petersen,2nd
+68.0,2.0,Shot,Cale Makar Wrist Shot saved by Cal Petersen,2nd
+38.0,-6.0,Shot,Cale Makar Wrist Shot saved by Cal Petersen,2nd
+40.0,9.0,Shot,Cale Makar Wrist Shot saved by Cal Petersen,2nd
+65.0,24.0,Goal,"Cale Makar (26) Slap Shot, assists: Nathan MacKinnon (53), Artturi Lehkonen (18)",2nd
+40.0,40.0,Shot,Nico Sturm Tip-In saved by Cal Petersen,2nd
+78.0,3.0,Goal,"Nathan MacKinnon (28) Wrist Shot, assists: Cale Makar (54)",3rd
+81.0,1.0,Shot,Nicolas Aube-Kubel Tip-In saved by Cal Petersen,3rd
+42.0,17.0,Missed Shot,Nicolas Aube-Kubel Wide of Net Cal Petersen,3rd
+63.0,28.0,Missed Shot,Josh Manson Wide of Net Cal Petersen,3rd
+70.0,-7.0,Shot,Valeri Nichushkin Wrist Shot saved by Cal Petersen,3rd
+9.0,-2.0,Shot,Devon Toews Backhand saved by Cal Petersen,3rd
+87.0,-23.0,Missed Shot,Darren Helm Wide of Net Cal Petersen,3rd
+82.0,4.0,Goal,"Valeri Nichushkin (21) Wrist Shot, assists: Cale Makar (55)",3rd
+59.0,22.0,Missed Shot,Logan O'Connor Wide of Net Cal Petersen,3rd
+63.0,-39.0,Missed Shot,Bowen  Byram Wide of Net Cal Petersen,3rd
+37.0,7.0,Shot,Cale Makar Wrist Shot saved by Cal Petersen,3rd
+76.0,-12.0,Goal,"Nathan MacKinnon (29) Wrist Shot, assists: Andre Burakovsky (34)",3rd
+83.0,-5.0,Shot,Nico Sturm Tip-In saved by Cal Petersen,3rd
+75.0,0.0,Shot,Nico Sturm Backhand saved by Cal Petersen,3rd
+72.0,-14.0,Shot,Andrew Cogliano Wrist Shot saved by Cal Petersen,3rd
+62.0,25.0,Shot,Nicolas Aube-Kubel Wrist Shot saved by Cal Petersen,3rd
+56.0,-22.0,Shot,Alex Newhook Wrist Shot saved by Cal Petersen,3rd
+76.0,5.0,Missed Shot,Darren Helm Wide of Net Cal Petersen,3rd
