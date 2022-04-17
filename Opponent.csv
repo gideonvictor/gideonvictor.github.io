@@ -1,51 +1,37 @@
 x,y,event,description,ordinalNum
-40.0,-40.0,Shot,Devon Toews Wrist Shot saved by Jonathan Quick,1st
-37.0,33.0,Shot,Devon Toews Slap Shot saved by Jonathan Quick,1st
-60.0,38.0,Missed Shot,Erik Johnson Wide of Net Jonathan Quick,1st
-44.0,-35.0,Shot,Erik Johnson Wrist Shot saved by Jonathan Quick,1st
-68.0,-21.0,Goal,"Nicolas Aube-Kubel (10) Tip-In, assists: Erik Johnson (16), Bowen Byram (8)",1st
-79.0,13.0,Goal,"Valeri Nichushkin (20) Backhand, assists: Bowen Byram (9), Artturi Lehkonen (17)",1st
-81.0,-27.0,Shot,Andre Burakovsky Wrist Shot saved by Jonathan Quick,1st
-68.0,17.0,Shot,Nathan MacKinnon Wrist Shot saved by Jonathan Quick,1st
-58.0,31.0,Shot,Artturi Lehkonen Wrist Shot saved by Jonathan Quick,1st
-65.0,-26.0,Shot,Nathan MacKinnon Slap Shot saved by Jonathan Quick,1st
-62.0,-23.0,Missed Shot,Nathan MacKinnon Wide of Net Jonathan Quick,1st
-58.0,23.0,Missed Shot,Mikko Rantanen Wide of Net Jonathan Quick,1st
-67.0,-27.0,Goal,"Nathan MacKinnon (27) Slap Shot, assists: Cale Makar (53), Mikko Rantanen (52)",1st
-59.0,-24.0,Goal,"Nicolas Aube-Kubel (11) Wrist Shot, assists: Alex Newhook (17), Devon Toews (42)",1st
-65.0,29.0,Missed Shot,Logan O'Connor Wide of Net Cal Petersen,1st
-63.0,26.0,Missed Shot,Artturi Lehkonen Wide of Net Cal Petersen,1st
-33.0,-23.0,Shot,Nathan MacKinnon Wrist Shot saved by Cal Petersen,1st
-64.0,6.0,Missed Shot,Bowen  Byram Wide of Net Cal Petersen,1st
-63.0,-20.0,Shot,Nico Sturm Wrist Shot saved by Cal Petersen,1st
-46.0,25.0,Shot,Josh Manson Slap Shot saved by Cal Petersen,1st
-73.0,9.0,Shot,Darren Helm Wrist Shot saved by Cal Petersen,2nd
-58.0,-6.0,Shot,Erik Johnson Wrist Shot saved by Cal Petersen,2nd
-62.0,-16.0,Missed Shot,Artturi Lehkonen Wide of Net Cal Petersen,2nd
-78.0,-26.0,Missed Shot,Andre Burakovsky Wide of Net Cal Petersen,2nd
-70.0,6.0,Missed Shot,Andre Burakovsky Wide of Net Cal Petersen,2nd
-58.0,14.0,Goal,"Andre Burakovsky (21) Slap Shot, assists: Nathan MacKinnon (52)",2nd
-11.0,40.0,Shot,Nico Sturm Wrist Shot saved by Cal Petersen,2nd
-68.0,2.0,Shot,Cale Makar Wrist Shot saved by Cal Petersen,2nd
-38.0,-6.0,Shot,Cale Makar Wrist Shot saved by Cal Petersen,2nd
-40.0,9.0,Shot,Cale Makar Wrist Shot saved by Cal Petersen,2nd
-65.0,24.0,Goal,"Cale Makar (26) Slap Shot, assists: Nathan MacKinnon (53), Artturi Lehkonen (18)",2nd
-40.0,40.0,Shot,Nico Sturm Tip-In saved by Cal Petersen,2nd
-78.0,3.0,Goal,"Nathan MacKinnon (28) Wrist Shot, assists: Cale Makar (54)",3rd
-81.0,1.0,Shot,Nicolas Aube-Kubel Tip-In saved by Cal Petersen,3rd
-42.0,17.0,Missed Shot,Nicolas Aube-Kubel Wide of Net Cal Petersen,3rd
-63.0,28.0,Missed Shot,Josh Manson Wide of Net Cal Petersen,3rd
-70.0,-7.0,Shot,Valeri Nichushkin Wrist Shot saved by Cal Petersen,3rd
-9.0,-2.0,Shot,Devon Toews Backhand saved by Cal Petersen,3rd
-87.0,-23.0,Missed Shot,Darren Helm Wide of Net Cal Petersen,3rd
-82.0,4.0,Goal,"Valeri Nichushkin (21) Wrist Shot, assists: Cale Makar (55)",3rd
-59.0,22.0,Missed Shot,Logan O'Connor Wide of Net Cal Petersen,3rd
-63.0,-39.0,Missed Shot,Bowen  Byram Wide of Net Cal Petersen,3rd
-37.0,7.0,Shot,Cale Makar Wrist Shot saved by Cal Petersen,3rd
-76.0,-12.0,Goal,"Nathan MacKinnon (29) Wrist Shot, assists: Andre Burakovsky (34)",3rd
-83.0,-5.0,Shot,Nico Sturm Tip-In saved by Cal Petersen,3rd
-75.0,0.0,Shot,Nico Sturm Backhand saved by Cal Petersen,3rd
-72.0,-14.0,Shot,Andrew Cogliano Wrist Shot saved by Cal Petersen,3rd
-62.0,25.0,Shot,Nicolas Aube-Kubel Wrist Shot saved by Cal Petersen,3rd
-56.0,-22.0,Shot,Alex Newhook Wrist Shot saved by Cal Petersen,3rd
-76.0,5.0,Missed Shot,Darren Helm Wide of Net Cal Petersen,3rd
+35.0,14.0,Missed Shot,Zach Werenski Wide of Net Jonathan Quick,1st
+62.0,-29.0,Shot,Zach Werenski Snap Shot saved by Jonathan Quick,1st
+79.0,5.0,Shot,Eric Robinson Snap Shot saved by Jonathan Quick,1st
+76.0,6.0,Missed Shot,Oliver Bjorkstrand Wide of Net Jonathan Quick,1st
+64.0,34.0,Missed Shot,Patrik Laine Wide of Net Jonathan Quick,1st
+77.0,0.0,Missed Shot,Gustav Nyquist Wide of Net Jonathan Quick,1st
+82.0,-8.0,Shot,Adam Boqvist Wrist Shot saved by Jonathan Quick,1st
+35.0,23.0,Missed Shot,Zach Werenski Wide of Net Jonathan Quick,1st
+69.0,2.0,Missed Shot,Justin Danforth Wide of Net Jonathan Quick,1st
+79.0,1.0,Goal,"Sean Kuraly (13) Wrist Shot, assists: Carson Meyer (2), Gustav Nyquist (30)",2nd
+81.0,1.0,Shot,Patrik Laine Wrist Shot saved by Jonathan Quick,2nd
+79.0,0.0,Shot,Jack Roslovic Snap Shot saved by Jonathan Quick,2nd
+59.0,-31.0,Shot,Vladislav Gavrikov Wrist Shot saved by Jonathan Quick,2nd
+65.0,7.0,Shot,Eric Robinson Deflected saved by Jonathan Quick,2nd
+45.0,8.0,Shot,Adam Boqvist Wrist Shot saved by Jonathan Quick,2nd
+78.0,-19.0,Shot,Patrik Laine Wrist Shot saved by Jonathan Quick,2nd
+72.0,-18.0,Shot,Oliver Bjorkstrand Wrist Shot saved by Jonathan Quick,2nd
+65.0,-2.0,Shot,Jack Roslovic Snap Shot saved by Jonathan Quick,2nd
+82.0,4.0,Shot,Carson Meyer Tip-In saved by Jonathan Quick,2nd
+73.0,-12.0,Shot,Cole Sillinger Wrist Shot saved by Jonathan Quick,2nd
+36.0,-22.0,Missed Shot,Zach Werenski Wide of Net Jonathan Quick,2nd
+66.0,39.0,Shot,Vladislav Gavrikov Snap Shot saved by Jonathan Quick,3rd
+10.0,26.0,Shot,Emil Bemstrom Wrist Shot saved by Jonathan Quick,3rd
+33.0,37.0,Shot,Gustav Nyquist Wrist Shot saved by Jonathan Quick,3rd
+82.0,6.0,Shot,Patrik Laine Backhand saved by Jonathan Quick,3rd
+60.0,-29.0,Shot,Nick Blankenburg Wrist Shot saved by Jonathan Quick,3rd
+59.0,1.0,Shot,Vladislav Gavrikov Snap Shot saved by Jonathan Quick,3rd
+83.0,-7.0,Missed Shot,Patrik Laine Wide of Net Jonathan Quick,3rd
+80.0,15.0,Missed Shot,Vladislav Gavrikov Wide of Net Jonathan Quick,3rd
+59.0,10.0,Missed Shot,Patrik Laine Wide of Net Jonathan Quick,3rd
+84.0,19.0,Missed Shot,Gustav Nyquist Wide of Net Jonathan Quick,3rd
+88.0,-9.0,Shot,Gustav Nyquist Wrist Shot saved by Jonathan Quick,3rd
+86.0,-8.0,Missed Shot,Eric Robinson Wide of Net Jonathan Quick,3rd
+67.0,-29.0,Shot,Eric Robinson Snap Shot saved by Jonathan Quick,3rd
+63.0,32.0,Missed Shot,Patrik Laine Wide of Net Jonathan Quick,3rd
+32.0,12.0,Missed Shot,Oliver Bjorkstrand Wide of Net Jonathan Quick,3rd
