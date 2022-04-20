@@ -1,56 +1,44 @@
 x,y,event,description,ordinalNum
--75.0,17.0,Goal,"Dustin Brown (9) Snap Shot, assists: Blake Lizotte (13)",1st
--70.0,17.0,Shot,Adrian Kempe Snap Shot saved by Elvis Merzlikins,1st
--80.0,-2.0,Shot,Adrian Kempe Wrist Shot saved by Elvis Merzlikins,1st
--84.0,8.0,Shot,Arthur Kaliyev Wrap-around saved by Elvis Merzlikins,1st
--74.0,-4.0,Goal,"Phillip Danault (24) Wrist Shot, assists: Viktor Arvidsson (26), Trevor Moore (31)",1st
--89.0,23.0,Shot,Alex Iafallo Wrist Shot saved by Elvis Merzlikins,1st
--82.0,-20.0,Shot,Alex Iafallo Wrist Shot saved by Elvis Merzlikins,1st
--65.0,-37.0,Shot,Blake Lizotte Wrist Shot saved by Elvis Merzlikins,1st
--37.0,-22.0,Shot,Jacob Moverare Wrist Shot saved by Elvis Merzlikins,1st
--58.0,3.0,Shot,Phillip Danault Snap Shot saved by Elvis Merzlikins,1st
--82.0,3.0,Shot,Andreas Athanasiou Tip-In saved by Elvis Merzlikins,1st
--72.0,-18.0,Shot,Alex Iafallo Slap Shot saved by Elvis Merzlikins,1st
--74.0,0.0,Missed Shot,Phillip Danault Wide of Net Elvis Merzlikins,1st
--69.0,-16.0,Shot,Adrian Kempe Wrist Shot saved by Elvis Merzlikins,2nd
--79.0,0.0,Shot,Adrian Kempe Deflected saved by Elvis Merzlikins,2nd
--77.0,2.0,Missed Shot,Andreas Athanasiou Wide of Net Elvis Merzlikins,2nd
--37.0,-28.0,Shot,Jordan Spence Slap Shot saved by Elvis Merzlikins,2nd
--70.0,21.0,Missed Shot,Trevor Moore Wide of Net Elvis Merzlikins,2nd
--61.0,-23.0,Shot,Sean Durzi Snap Shot saved by Elvis Merzlikins,2nd
--72.0,3.0,Shot,Rasmus Kupari Tip-In saved by Elvis Merzlikins,2nd
--51.0,-3.0,Shot,Rasmus Kupari Tip-In saved by Elvis Merzlikins,2nd
--35.0,-16.0,Shot,Jordan Spence Snap Shot saved by Elvis Merzlikins,2nd
--39.0,22.0,Shot,Arthur Kaliyev Snap Shot saved by Elvis Merzlikins,2nd
--59.0,34.0,Missed Shot,Brendan Lemieux Wide of Net Elvis Merzlikins,2nd
--49.0,25.0,Shot,Sean Durzi Snap Shot saved by Elvis Merzlikins,2nd
--73.0,22.0,Missed Shot,Arthur Kaliyev Wide of Net Elvis Merzlikins,2nd
--63.0,-27.0,Shot,Adrian Kempe Snap Shot saved by Elvis Merzlikins,2nd
--81.0,0.0,Shot,Andreas Athanasiou Snap Shot saved by Elvis Merzlikins,2nd
--77.0,11.0,Shot,Alexander Edler Slap Shot saved by Elvis Merzlikins,2nd
--67.0,-12.0,Missed Shot,Phillip Danault Wide of Net Elvis Merzlikins,2nd
--65.0,-17.0,Shot,Trevor Moore Snap Shot saved by Elvis Merzlikins,2nd
--61.0,20.0,Shot,Alex Iafallo Tip-In saved by Elvis Merzlikins,2nd
--79.0,4.0,Shot,Andreas Athanasiou Snap Shot saved by Elvis Merzlikins,2nd
--45.0,21.0,Missed Shot,Viktor Arvidsson Wide of Net Elvis Merzlikins,2nd
--80.0,-5.0,Shot,Phillip Danault Wrist Shot saved by Elvis Merzlikins,2nd
--58.0,17.0,Missed Shot,Viktor Arvidsson Wide of Net Elvis Merzlikins,2nd
--79.0,0.0,Missed Shot,Andreas Athanasiou Wide of Net Elvis Merzlikins,2nd
--55.0,-25.0,Shot,Adrian Kempe Slap Shot saved by Elvis Merzlikins,2nd
--65.0,18.0,Missed Shot,Andreas Athanasiou Wide of Net Elvis Merzlikins,2nd
--41.0,-25.0,Shot,Sean Durzi Wrist Shot saved by Elvis Merzlikins,2nd
--57.0,-20.0,Missed Shot,Adrian Kempe Wide of Net Elvis Merzlikins,2nd
--43.0,17.0,Shot,Phillip Danault Wrist Shot saved by Elvis Merzlikins,3rd
--75.0,-6.0,Shot,Jordan Spence Tip-In saved by Elvis Merzlikins,3rd
--70.0,-15.0,Shot,Viktor Arvidsson Snap Shot saved by Elvis Merzlikins,3rd
--71.0,25.0,Missed Shot,Viktor Arvidsson Wide of Net Elvis Merzlikins,3rd
--84.0,17.0,Shot,Adrian Kempe Backhand saved by Elvis Merzlikins,3rd
--80.0,18.0,Missed Shot,Blake Lizotte Wide of Net Elvis Merzlikins,3rd
--86.0,-8.0,Missed Shot,Phillip Danault Wide of Net Elvis Merzlikins,3rd
--86.0,-5.0,Shot,Trevor Moore Backhand saved by Elvis Merzlikins,3rd
--69.0,-10.0,Shot,Alex Iafallo Wrist Shot saved by Elvis Merzlikins,3rd
--35.0,3.0,Missed Shot,Olli Maatta Wide of Net Elvis Merzlikins,3rd
--81.0,1.0,Shot,Trevor Moore Tip-In saved by Elvis Merzlikins,3rd
--78.0,4.0,Missed Shot,Anze Kopitar Wide of Net Elvis Merzlikins,3rd
--61.0,-9.0,Shot,Blake Lizotte Snap Shot saved by Elvis Merzlikins,3rd
--35.0,35.0,Missed Shot,Jordan Spence Wide of Net Elvis Merzlikins,3rd
+-82.0,9.0,Shot,Phillip Danault Wrist Shot saved by John Gibson,1st
+-80.0,-5.0,Missed Shot,Andreas Athanasiou Wide of Net John Gibson,1st
+-59.0,24.0,Shot,Anze Kopitar Slap Shot saved by John Gibson,1st
+-56.0,-3.0,Missed Shot,Sean Durzi Wide of Net John Gibson,1st
+-54.0,30.0,Shot,Adrian Kempe Slap Shot saved by John Gibson,1st
+-72.0,-13.0,Shot,Anze Kopitar Wrist Shot saved by John Gibson,1st
+-70.0,-9.0,Missed Shot,Sean Durzi Wide of Net John Gibson,1st
+-64.0,15.0,Shot,Viktor Arvidsson Slap Shot saved by John Gibson,1st
+-61.0,-2.0,Missed Shot,Brendan Lemieux Wide of Net John Gibson,1st
+-92.0,-11.0,Shot,Andreas Athanasiou Wrist Shot saved by John Gibson,1st
+-45.0,8.0,Missed Shot,Matt Roy Wide of Net John Gibson,1st
+-39.0,23.0,Shot,Sean Durzi Wrist Shot saved by John Gibson,1st
+-82.0,7.0,Shot,Alex Iafallo Backhand saved by John Gibson,1st
+-49.0,18.0,Shot,Viktor Arvidsson Slap Shot saved by John Gibson,1st
+-76.0,16.0,Shot,Adrian Kempe Wrist Shot saved by John Gibson,1st
+-47.0,25.0,Missed Shot,Jordan Spence Wide of Net John Gibson,1st
+-95.0,20.0,Missed Shot,Trevor Moore Wide of Net John Gibson,1st
+-64.0,21.0,Shot,Phillip Danault Wrist Shot saved by John Gibson,2nd
+-62.0,15.0,Goal,"Adrian Kempe (34) Wrist Shot, assists: Anze Kopitar (45)",2nd
+-83.0,11.0,Missed Shot,Andreas Athanasiou Wide of Net John Gibson,2nd
+-69.0,21.0,Shot,Olli Maatta Wrist Shot saved by John Gibson,2nd
+-72.0,20.0,Shot,Andreas Athanasiou Wrist Shot saved by John Gibson,2nd
+-76.0,11.0,Shot,Sean Durzi Tip-In saved by John Gibson,2nd
+-40.0,-10.0,Shot,Phillip Danault Slap Shot saved by John Gibson,2nd
+-48.0,-3.0,Shot,Blake Lizotte Slap Shot saved by John Gibson,2nd
+-67.0,-21.0,Missed Shot,Blake Lizotte Wide of Net John Gibson,2nd
+-55.0,31.0,Shot,Arthur Kaliyev Wrist Shot saved by John Gibson,2nd
+-35.0,33.0,Shot,Alexander Edler Wrist Shot saved by John Gibson,2nd
+-78.0,24.0,Shot,Viktor Arvidsson Wrist Shot saved by John Gibson,2nd
+-45.0,3.0,Missed Shot,Matt Roy Wide of Net John Gibson,2nd
+-60.0,-36.0,Shot,Anze Kopitar Snap Shot saved by John Gibson,2nd
+-69.0,20.0,Shot,Olli Maatta Wrist Shot saved by John Gibson,2nd
+-71.0,-19.0,Missed Shot,Dustin Brown Wide of Net John Gibson,2nd
+-68.0,-17.0,Shot,Viktor Arvidsson Wrist Shot saved by John Gibson,3rd
+-84.0,-9.0,Goal,"Phillip Danault (25) Wrist Shot, assists: Viktor Arvidsson (27), Matt Roy (18)",3rd
+-54.0,-31.0,Shot,Alex Iafallo Wrist Shot saved by John Gibson,3rd
+-82.0,14.0,Missed Shot,Blake Lizotte Wide of Net John Gibson,3rd
+-86.0,-10.0,Shot,Sean Durzi Backhand saved by John Gibson,3rd
+-55.0,-24.0,Shot,Andreas Athanasiou Slap Shot saved by John Gibson,3rd
+-64.0,-23.0,Missed Shot,Andreas Athanasiou Wide of Net John Gibson,3rd
+-60.0,-22.0,Missed Shot,Alex Iafallo Wide of Net John Gibson,3rd
+-76.0,-2.0,Missed Shot,Dustin Brown Wide of Net John Gibson,3rd
+-50.0,-25.0,Shot,Arthur Kaliyev Wrist Shot saved by John Gibson,3rd
