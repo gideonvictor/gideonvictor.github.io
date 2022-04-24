@@ -1,44 +1,53 @@
 x,y,event,description,ordinalNum
--82.0,9.0,Shot,Phillip Danault Wrist Shot saved by John Gibson,1st
--80.0,-5.0,Missed Shot,Andreas Athanasiou Wide of Net John Gibson,1st
--59.0,24.0,Shot,Anze Kopitar Slap Shot saved by John Gibson,1st
--56.0,-3.0,Missed Shot,Sean Durzi Wide of Net John Gibson,1st
--54.0,30.0,Shot,Adrian Kempe Slap Shot saved by John Gibson,1st
--72.0,-13.0,Shot,Anze Kopitar Wrist Shot saved by John Gibson,1st
--70.0,-9.0,Missed Shot,Sean Durzi Wide of Net John Gibson,1st
--64.0,15.0,Shot,Viktor Arvidsson Slap Shot saved by John Gibson,1st
--61.0,-2.0,Missed Shot,Brendan Lemieux Wide of Net John Gibson,1st
--92.0,-11.0,Shot,Andreas Athanasiou Wrist Shot saved by John Gibson,1st
--45.0,8.0,Missed Shot,Matt Roy Wide of Net John Gibson,1st
--39.0,23.0,Shot,Sean Durzi Wrist Shot saved by John Gibson,1st
--82.0,7.0,Shot,Alex Iafallo Backhand saved by John Gibson,1st
--49.0,18.0,Shot,Viktor Arvidsson Slap Shot saved by John Gibson,1st
--76.0,16.0,Shot,Adrian Kempe Wrist Shot saved by John Gibson,1st
--47.0,25.0,Missed Shot,Jordan Spence Wide of Net John Gibson,1st
--95.0,20.0,Missed Shot,Trevor Moore Wide of Net John Gibson,1st
--64.0,21.0,Shot,Phillip Danault Wrist Shot saved by John Gibson,2nd
--62.0,15.0,Goal,"Adrian Kempe (34) Wrist Shot, assists: Anze Kopitar (45)",2nd
--83.0,11.0,Missed Shot,Andreas Athanasiou Wide of Net John Gibson,2nd
--69.0,21.0,Shot,Olli Maatta Wrist Shot saved by John Gibson,2nd
--72.0,20.0,Shot,Andreas Athanasiou Wrist Shot saved by John Gibson,2nd
--76.0,11.0,Shot,Sean Durzi Tip-In saved by John Gibson,2nd
--40.0,-10.0,Shot,Phillip Danault Slap Shot saved by John Gibson,2nd
--48.0,-3.0,Shot,Blake Lizotte Slap Shot saved by John Gibson,2nd
--67.0,-21.0,Missed Shot,Blake Lizotte Wide of Net John Gibson,2nd
--55.0,31.0,Shot,Arthur Kaliyev Wrist Shot saved by John Gibson,2nd
--35.0,33.0,Shot,Alexander Edler Wrist Shot saved by John Gibson,2nd
--78.0,24.0,Shot,Viktor Arvidsson Wrist Shot saved by John Gibson,2nd
--45.0,3.0,Missed Shot,Matt Roy Wide of Net John Gibson,2nd
--60.0,-36.0,Shot,Anze Kopitar Snap Shot saved by John Gibson,2nd
--69.0,20.0,Shot,Olli Maatta Wrist Shot saved by John Gibson,2nd
--71.0,-19.0,Missed Shot,Dustin Brown Wide of Net John Gibson,2nd
--68.0,-17.0,Shot,Viktor Arvidsson Wrist Shot saved by John Gibson,3rd
--84.0,-9.0,Goal,"Phillip Danault (25) Wrist Shot, assists: Viktor Arvidsson (27), Matt Roy (18)",3rd
--54.0,-31.0,Shot,Alex Iafallo Wrist Shot saved by John Gibson,3rd
--82.0,14.0,Missed Shot,Blake Lizotte Wide of Net John Gibson,3rd
--86.0,-10.0,Shot,Sean Durzi Backhand saved by John Gibson,3rd
--55.0,-24.0,Shot,Andreas Athanasiou Slap Shot saved by John Gibson,3rd
--64.0,-23.0,Missed Shot,Andreas Athanasiou Wide of Net John Gibson,3rd
--60.0,-22.0,Missed Shot,Alex Iafallo Wide of Net John Gibson,3rd
--76.0,-2.0,Missed Shot,Dustin Brown Wide of Net John Gibson,3rd
--50.0,-25.0,Shot,Arthur Kaliyev Wrist Shot saved by John Gibson,3rd
+-59.0,-17.0,Missed Shot,Trevor Moore Wide of Net Anthony Stolarz,1st
+-84.0,25.0,Missed Shot,Arthur Kaliyev Wide of Net Anthony Stolarz,1st
+-61.0,-7.0,Missed Shot,Anze Kopitar Goalpost Anthony Stolarz,1st
+-61.0,24.0,Shot,Blake Lizotte Snap Shot saved by Anthony Stolarz,1st
+-75.0,1.0,Shot,Carl Grundstrom Backhand saved by Anthony Stolarz,1st
+-53.0,37.0,Missed Shot,Adrian Kempe Wide of Net Anthony Stolarz,1st
+-58.0,-3.0,Shot,Matt Roy Snap Shot saved by Anthony Stolarz,1st
+-76.0,3.0,Shot,Anze Kopitar Backhand saved by Anthony Stolarz,1st
+-68.0,39.0,Shot,Carl Grundstrom Wrist Shot saved by Anthony Stolarz,1st
+-77.0,10.0,Goal,"Arthur Kaliyev (14) Snap Shot, assists: Quinton Byfield (4), Carl Grundstrom (6)",1st
+-72.0,29.0,Shot,Matt Roy Wrist Shot saved by Anthony Stolarz,1st
+-81.0,-1.0,Shot,Andreas Athanasiou Deflected saved by Anthony Stolarz,1st
+-80.0,-1.0,Shot,Phillip Danault Wrist Shot saved by Anthony Stolarz,1st
+-61.0,-18.0,Shot,Sean Durzi Snap Shot saved by Anthony Stolarz,1st
+-93.0,-6.0,Shot,Trevor Moore Wrist Shot saved by Anthony Stolarz,1st
+-86.0,13.0,Missed Shot,Anze Kopitar Wide of Net Anthony Stolarz,1st
+-50.0,-26.0,Missed Shot,Anze Kopitar Wide of Net Anthony Stolarz,1st
+-63.0,-7.0,Missed Shot,Anze Kopitar Wide of Net Anthony Stolarz,1st
+-71.0,0.0,Shot,Quinton Byfield Wrist Shot saved by Anthony Stolarz,1st
+-38.0,33.0,Shot,Quinton Byfield Slap Shot saved by Anthony Stolarz,1st
+-80.0,1.0,Shot,Anze Kopitar Backhand saved by Anthony Stolarz,1st
+-63.0,11.0,Shot,Phillip Danault Wrist Shot saved by Anthony Stolarz,1st
+-54.0,9.0,Missed Shot,Dustin Brown Wide of Net Anthony Stolarz,2nd
+-52.0,23.0,Shot,Olli Maatta Snap Shot saved by Anthony Stolarz,2nd
+-68.0,-28.0,Shot,Adrian Kempe Snap Shot saved by Anthony Stolarz,2nd
+-73.0,0.0,Shot,Anze Kopitar Wrist Shot saved by Anthony Stolarz,2nd
+-39.0,0.0,Shot,Andreas Athanasiou Wrist Shot saved by Anthony Stolarz,2nd
+-34.0,4.0,Missed Shot,Jordan Spence Wide of Net Anthony Stolarz,2nd
+-68.0,7.0,Shot,Arthur Kaliyev Wrist Shot saved by Anthony Stolarz,2nd
+-57.0,-21.0,Shot,Trevor Moore Wrist Shot saved by Anthony Stolarz,2nd
+-33.0,8.0,Shot,Sean Durzi Snap Shot saved by Anthony Stolarz,2nd
+-43.0,-12.0,Goal,"Matt Roy (2) Slap Shot, assists: Arthur Kaliyev (13), Anze Kopitar (46)",2nd
+-74.0,6.0,Missed Shot,Andreas Athanasiou Wide of Net Anthony Stolarz,2nd
+-56.0,-18.0,Shot,Alex Iafallo Slap Shot saved by Anthony Stolarz,2nd
+-78.0,-24.0,Shot,Adrian Kempe Wrist Shot saved by Anthony Stolarz,2nd
+-55.0,24.0,Shot,Arthur Kaliyev Slap Shot saved by Anthony Stolarz,2nd
+-43.0,7.0,Shot,Jordan Spence Slap Shot saved by Anthony Stolarz,2nd
+-40.0,-4.0,Shot,Jordan Spence Slap Shot saved by Anthony Stolarz,2nd
+-80.0,-8.0,Missed Shot,Carl Grundstrom Wide of Net Anthony Stolarz,2nd
+-80.0,12.0,Shot,Viktor Arvidsson Backhand saved by Anthony Stolarz,3rd
+-66.0,-4.0,Shot,Andreas Athanasiou Backhand saved by Anthony Stolarz,3rd
+-58.0,-29.0,Shot,Blake Lizotte Wrist Shot saved by Anthony Stolarz,3rd
+-75.0,-5.0,Missed Shot,Arthur Kaliyev Wide of Net Anthony Stolarz,3rd
+-76.0,-11.0,Shot,Arthur Kaliyev Snap Shot saved by Anthony Stolarz,3rd
+-67.0,-5.0,Shot,Phillip Danault Snap Shot saved by Anthony Stolarz,3rd
+-37.0,-9.0,Goal,"Alexander Edler (3) Slap Shot, assists: Quinton Byfield (5)",3rd
+-77.0,-6.0,Shot,Carl Grundstrom Wrist Shot saved by Anthony Stolarz,3rd
+-42.0,29.0,Shot,Matt Roy Wrist Shot saved by Anthony Stolarz,3rd
+-25.0,4.0,Shot,Alex Iafallo Deflected saved by Anthony Stolarz,3rd
+-73.0,-17.0,Shot,Alex Iafallo Wrist Shot saved by Anthony Stolarz,3rd
+-77.0,-9.0,Shot,Andreas Athanasiou Wrist Shot saved by Anthony Stolarz,3rd
+-20.0,25.0,Goal,"Alex Iafallo (17) Backhand, assists: Adrian Kempe (19), Anze Kopitar (47)",3rd
