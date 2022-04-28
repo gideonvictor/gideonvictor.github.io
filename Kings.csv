@@ -1,53 +1,41 @@
 x,y,event,description,ordinalNum
--59.0,-17.0,Missed Shot,Trevor Moore Wide of Net Anthony Stolarz,1st
--84.0,25.0,Missed Shot,Arthur Kaliyev Wide of Net Anthony Stolarz,1st
--61.0,-7.0,Missed Shot,Anze Kopitar Goalpost Anthony Stolarz,1st
--61.0,24.0,Shot,Blake Lizotte Snap Shot saved by Anthony Stolarz,1st
--75.0,1.0,Shot,Carl Grundstrom Backhand saved by Anthony Stolarz,1st
--53.0,37.0,Missed Shot,Adrian Kempe Wide of Net Anthony Stolarz,1st
--58.0,-3.0,Shot,Matt Roy Snap Shot saved by Anthony Stolarz,1st
--76.0,3.0,Shot,Anze Kopitar Backhand saved by Anthony Stolarz,1st
--68.0,39.0,Shot,Carl Grundstrom Wrist Shot saved by Anthony Stolarz,1st
--77.0,10.0,Goal,"Arthur Kaliyev (14) Snap Shot, assists: Quinton Byfield (4), Carl Grundstrom (6)",1st
--72.0,29.0,Shot,Matt Roy Wrist Shot saved by Anthony Stolarz,1st
--81.0,-1.0,Shot,Andreas Athanasiou Deflected saved by Anthony Stolarz,1st
--80.0,-1.0,Shot,Phillip Danault Wrist Shot saved by Anthony Stolarz,1st
--61.0,-18.0,Shot,Sean Durzi Snap Shot saved by Anthony Stolarz,1st
--93.0,-6.0,Shot,Trevor Moore Wrist Shot saved by Anthony Stolarz,1st
--86.0,13.0,Missed Shot,Anze Kopitar Wide of Net Anthony Stolarz,1st
--50.0,-26.0,Missed Shot,Anze Kopitar Wide of Net Anthony Stolarz,1st
--63.0,-7.0,Missed Shot,Anze Kopitar Wide of Net Anthony Stolarz,1st
--71.0,0.0,Shot,Quinton Byfield Wrist Shot saved by Anthony Stolarz,1st
--38.0,33.0,Shot,Quinton Byfield Slap Shot saved by Anthony Stolarz,1st
--80.0,1.0,Shot,Anze Kopitar Backhand saved by Anthony Stolarz,1st
--63.0,11.0,Shot,Phillip Danault Wrist Shot saved by Anthony Stolarz,1st
--54.0,9.0,Missed Shot,Dustin Brown Wide of Net Anthony Stolarz,2nd
--52.0,23.0,Shot,Olli Maatta Snap Shot saved by Anthony Stolarz,2nd
--68.0,-28.0,Shot,Adrian Kempe Snap Shot saved by Anthony Stolarz,2nd
--73.0,0.0,Shot,Anze Kopitar Wrist Shot saved by Anthony Stolarz,2nd
--39.0,0.0,Shot,Andreas Athanasiou Wrist Shot saved by Anthony Stolarz,2nd
--34.0,4.0,Missed Shot,Jordan Spence Wide of Net Anthony Stolarz,2nd
--68.0,7.0,Shot,Arthur Kaliyev Wrist Shot saved by Anthony Stolarz,2nd
--57.0,-21.0,Shot,Trevor Moore Wrist Shot saved by Anthony Stolarz,2nd
--33.0,8.0,Shot,Sean Durzi Snap Shot saved by Anthony Stolarz,2nd
--43.0,-12.0,Goal,"Matt Roy (2) Slap Shot, assists: Arthur Kaliyev (13), Anze Kopitar (46)",2nd
--74.0,6.0,Missed Shot,Andreas Athanasiou Wide of Net Anthony Stolarz,2nd
--56.0,-18.0,Shot,Alex Iafallo Slap Shot saved by Anthony Stolarz,2nd
--78.0,-24.0,Shot,Adrian Kempe Wrist Shot saved by Anthony Stolarz,2nd
--55.0,24.0,Shot,Arthur Kaliyev Slap Shot saved by Anthony Stolarz,2nd
--43.0,7.0,Shot,Jordan Spence Slap Shot saved by Anthony Stolarz,2nd
--40.0,-4.0,Shot,Jordan Spence Slap Shot saved by Anthony Stolarz,2nd
--80.0,-8.0,Missed Shot,Carl Grundstrom Wide of Net Anthony Stolarz,2nd
--80.0,12.0,Shot,Viktor Arvidsson Backhand saved by Anthony Stolarz,3rd
--66.0,-4.0,Shot,Andreas Athanasiou Backhand saved by Anthony Stolarz,3rd
--58.0,-29.0,Shot,Blake Lizotte Wrist Shot saved by Anthony Stolarz,3rd
--75.0,-5.0,Missed Shot,Arthur Kaliyev Wide of Net Anthony Stolarz,3rd
--76.0,-11.0,Shot,Arthur Kaliyev Snap Shot saved by Anthony Stolarz,3rd
--67.0,-5.0,Shot,Phillip Danault Snap Shot saved by Anthony Stolarz,3rd
--37.0,-9.0,Goal,"Alexander Edler (3) Slap Shot, assists: Quinton Byfield (5)",3rd
--77.0,-6.0,Shot,Carl Grundstrom Wrist Shot saved by Anthony Stolarz,3rd
--42.0,29.0,Shot,Matt Roy Wrist Shot saved by Anthony Stolarz,3rd
--25.0,4.0,Shot,Alex Iafallo Deflected saved by Anthony Stolarz,3rd
--73.0,-17.0,Shot,Alex Iafallo Wrist Shot saved by Anthony Stolarz,3rd
--77.0,-9.0,Shot,Andreas Athanasiou Wrist Shot saved by Anthony Stolarz,3rd
--20.0,25.0,Goal,"Alex Iafallo (17) Backhand, assists: Adrian Kempe (19), Anze Kopitar (47)",3rd
+-77.0,-17.0,Shot,Lias Andersson Wrist Shot saved by Philipp Grubauer,1st
+-21.0,0.0,Shot,Lias Andersson Tip-In saved by Philipp Grubauer,1st
+-74.0,-13.0,Missed Shot,Andreas Athanasiou Wide of Net Philipp Grubauer,1st
+-33.0,42.0,Missed Shot,Blake Lizotte Wide of Net Philipp Grubauer,2nd
+-34.0,-16.0,Shot,Jordan Spence Wrist Shot saved by Philipp Grubauer,2nd
+-88.0,5.0,Shot,Quinton Byfield Wrap-around saved by Philipp Grubauer,2nd
+-54.0,18.0,Missed Shot,Carl Grundstrom Wide of Net Philipp Grubauer,2nd
+-60.0,37.0,Shot,Brendan Lemieux Wrist Shot saved by Philipp Grubauer,2nd
+-51.0,-25.0,Missed Shot,Trevor Moore Wide of Net Philipp Grubauer,2nd
+-65.0,39.0,Shot,Trevor Moore Wrist Shot saved by Philipp Grubauer,2nd
+-69.0,20.0,Shot,Blake Lizotte Wrist Shot saved by Philipp Grubauer,2nd
+-67.0,-3.0,Missed Shot,Carl Grundstrom Wide of Net Philipp Grubauer,2nd
+-60.0,-35.0,Shot,Jordan Spence Wrist Shot saved by Philipp Grubauer,2nd
+-60.0,-29.0,Missed Shot,Carl Grundstrom Wide of Net Philipp Grubauer,2nd
+-66.0,13.0,Shot,Gabriel Vilardi Wrist Shot saved by Philipp Grubauer,2nd
+-81.0,34.0,Shot,Arthur Kaliyev Wrist Shot saved by Philipp Grubauer,2nd
+-64.0,12.0,Goal,"Gabriel Vilardi (4) Slap Shot, assists: Blake Lizotte (14), Jacob Moverare (2)",2nd
+-49.0,37.0,Shot,Arthur Kaliyev Wrist Shot saved by Philipp Grubauer,2nd
+-48.0,-17.0,Shot,Andreas Athanasiou Wrist Shot saved by Philipp Grubauer,2nd
+-75.0,7.0,Goal,"Phillip Danault (27) Wrist Shot, assists: Viktor Arvidsson (29), Andreas Athanasiou (6)",2nd
+-32.0,-5.0,Shot,Sean Durzi Wrist Shot saved by Philipp Grubauer,2nd
+-86.0,-4.0,Shot,Lias Andersson Wrist Shot saved by Philipp Grubauer,2nd
+-84.0,-6.0,Shot,Lias Andersson Wrist Shot saved by Philipp Grubauer,2nd
+-76.0,8.0,Goal,"Trevor Moore (17) Tip-In, assists: Matt Roy (19), Gabriel Vilardi (1)",2nd
+-81.0,6.0,Shot,Andreas Athanasiou Wrist Shot saved by Philipp Grubauer,2nd
+-50.0,-37.0,Shot,Arthur Kaliyev Wrist Shot saved by Philipp Grubauer,3rd
+-67.0,1.0,Goal,"Lias Andersson (1) Wrist Shot, assists: Brendan Lemieux (4)",3rd
+-66.0,6.0,Shot,Sean Durzi Wrist Shot saved by Philipp Grubauer,3rd
+-89.0,-7.0,Missed Shot,Andreas Athanasiou Wide of Net Philipp Grubauer,3rd
+-32.0,-1.0,Shot,Jordan Spence Wrist Shot saved by Philipp Grubauer,3rd
+-88.0,-8.0,Shot,Gabriel Vilardi Wrap-around saved by Philipp Grubauer,3rd
+-63.0,-2.0,Missed Shot,Arthur Kaliyev Over Net Philipp Grubauer,3rd
+-43.0,-23.0,Shot,Mikey Anderson Wrist Shot saved by Philipp Grubauer,3rd
+-70.0,-1.0,Shot,Phillip Danault Wrist Shot saved by Philipp Grubauer,3rd
+-45.0,15.0,Missed Shot,Rasmus Kupari Wide of Net Philipp Grubauer,3rd
+-78.0,33.0,Missed Shot,Arthur Kaliyev Wide of Net Philipp Grubauer,3rd
+-8.0,18.0,Missed Shot,Viktor Arvidsson Wide of Net Philipp Grubauer,3rd
+-60.0,12.0,Missed Shot,Gabriel Vilardi Over Net Philipp Grubauer,3rd
+-74.0,-6.0,Goal,"Andreas Athanasiou (11) Wrist Shot, assists: Gabriel Vilardi (2), Mikey Anderson (6)",3rd
+-14.0,23.0,Shot,Arthur Kaliyev Wrist Shot saved by Philipp Grubauer,3rd

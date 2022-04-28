@@ -1,29 +1,57 @@
 x,y,event,description,ordinalNum
-53.0,-15.0,Shot,Troy Terry Wrist Shot saved by Jonathan Quick,1st
-64.0,8.0,Missed Shot,Sam Steel Wide of Net Jonathan Quick,1st
-59.0,26.0,Shot,Josh Mahura Wrist Shot saved by Jonathan Quick,1st
-36.0,-29.0,Shot,Jamie Drysdale Slap Shot saved by Jonathan Quick,1st
-77.0,-5.0,Shot,Ryan Getzlaf Backhand saved by Jonathan Quick,1st
-77.0,6.0,Shot,Troy Terry Wrist Shot saved by Jonathan Quick,1st
-77.0,2.0,Shot,Isac Lundestrom Wrist Shot saved by Jonathan Quick,1st
-79.0,5.0,Shot,Zach Aston-Reese Wrist Shot saved by Jonathan Quick,1st
-75.0,-6.0,Shot,Dominik Simon Snap Shot saved by Jonathan Quick,1st
-81.0,-17.0,Missed Shot,Dominik Simon Wide of Net Jonathan Quick,1st
-19.0,20.0,Shot,Dominik Simon Deflected saved by Jonathan Quick,1st
-50.0,16.0,Missed Shot,Andrej Sustr Wide of Net Jonathan Quick,2nd
-70.0,23.0,Goal,"Trevor Zegras (22) Snap Shot, assists: Ryan Getzlaf (33), Sonny Milano (19)",2nd
-19.0,-3.0,Goal,"Gerry Mayhew (10) Wrist Shot, assists: Josh Mahura (4)",2nd
-77.0,-18.0,Shot,Isac Lundestrom Snap Shot saved by Jonathan Quick,2nd
-41.0,-34.0,Missed Shot,Max Comtois Wide of Net Jonathan Quick,2nd
-68.0,9.0,Shot,Gerry Mayhew Slap Shot saved by Jonathan Quick,2nd
-67.0,20.0,Shot,Kevin Shattenkirk Snap Shot saved by Jonathan Quick,2nd
-61.0,-8.0,Shot,Zach Aston-Reese Snap Shot saved by Jonathan Quick,3rd
-74.0,16.0,Missed Shot,Max Comtois Wide of Net Jonathan Quick,3rd
-73.0,-19.0,Shot,Troy Terry Wrist Shot saved by Jonathan Quick,3rd
-47.0,-9.0,Missed Shot,Adam Henrique Wide of Net Jonathan Quick,3rd
-73.0,38.0,Shot,Sonny Milano Wrist Shot saved by Jonathan Quick,3rd
-9.0,-26.0,Shot,Andrej Sustr Wrist Shot saved by Jonathan Quick,3rd
-36.0,0.0,Shot,Jamie Drysdale Slap Shot saved by Jonathan Quick,3rd
-71.0,11.0,Missed Shot,Adam Henrique Wide of Net Jonathan Quick,3rd
-34.0,6.0,Shot,Josh Mahura Backhand saved by Jonathan Quick,3rd
-36.0,7.0,Shot,Cam Fowler Slap Shot saved by Jonathan Quick,3rd
+73.0,-36.0,Shot,Ryan Donato Backhand saved by Jonathan Quick,1st
+23.0,6.0,Shot,Victor Rask Wrist Shot saved by Jonathan Quick,1st
+78.0,-10.0,Shot,Karson Kuhlman Wrist Shot saved by Jonathan Quick,1st
+31.0,32.0,Shot,Dennis Cholowski Wrist Shot saved by Jonathan Quick,1st
+59.0,17.0,Shot,Daniel Sprong Wrist Shot saved by Jonathan Quick,1st
+70.0,-10.0,Shot,Morgan Geekie Snap Shot saved by Jonathan Quick,1st
+31.0,29.0,Missed Shot,Dennis Cholowski Wide of Net Jonathan Quick,1st
+56.0,-21.0,Shot,Jordan Eberle Wrist Shot saved by Jonathan Quick,1st
+71.0,-4.0,Shot,Karson Kuhlman Wrist Shot saved by Jonathan Quick,1st
+74.0,-1.0,Shot,Alex Wennberg Wrist Shot saved by Jonathan Quick,1st
+46.0,36.0,Shot,Victor Rask Wrist Shot saved by Jonathan Quick,1st
+62.0,1.0,Shot,Will Borgen Wrist Shot saved by Jonathan Quick,1st
+33.0,22.0,Missed Shot,Dennis Cholowski Wide of Net Jonathan Quick,1st
+60.0,13.0,Goal,"Jared McCann (27) Slap Shot, assists: Yanni Gourde (27)",1st
+77.0,-9.0,Missed Shot,Yanni Gourde Wide of Net Jonathan Quick,1st
+43.0,29.0,Missed Shot,Will Borgen Wide of Net Jonathan Quick,2nd
+58.0,-14.0,Missed Shot,Yanni Gourde Wide of Net Jonathan Quick,2nd
+68.0,-21.0,Missed Shot,Yanni Gourde Wide of Net Jonathan Quick,2nd
+71.0,23.0,Shot,Karson Kuhlman Wrist Shot saved by Jonathan Quick,2nd
+82.0,-7.0,Goal,"Ryan Donato (16) Wrist Shot, assists: Jordan Eberle (23), Carson Soucy (11)",2nd
+21.0,33.0,Missed Shot,Will Borgen Wide of Net Jonathan Quick,2nd
+62.0,-37.0,Shot,Cale Fleury Wrist Shot saved by Jonathan Quick,2nd
+32.0,-29.0,Shot,Dennis Cholowski Wrist Shot saved by Jonathan Quick,2nd
+33.0,1.0,Shot,Carson Soucy Wrist Shot saved by Jonathan Quick,2nd
+33.0,6.0,Missed Shot,Jamie Oleksiak Wide of Net Jonathan Quick,2nd
+88.0,-10.0,Missed Shot,Jordan Eberle Goalpost Jonathan Quick,2nd
+56.0,-8.0,Shot,Dennis Cholowski Wrist Shot saved by Jonathan Quick,2nd
+33.0,21.0,Shot,Adam Larsson Slap Shot saved by Jonathan Quick,2nd
+82.0,-6.0,Missed Shot,Joonas Donskoi Wide of Net Jonathan Quick,2nd
+71.0,4.0,Goal,"Jordan Eberle (21) Snap Shot, assists: Matty Beniers (4), Ryan Donato (15)",2nd
+32.0,-23.0,Shot,Dennis Cholowski Wrist Shot saved by Jonathan Quick,2nd
+35.0,23.0,Shot,Will Borgen Wrist Shot saved by Jonathan Quick,2nd
+81.0,-4.0,Shot,Joonas Donskoi Backhand saved by Jonathan Quick,2nd
+81.0,-2.0,Shot,Morgan Geekie Wrist Shot saved by Jonathan Quick,3rd
+62.0,16.0,Shot,Victor Rask Wrist Shot saved by Jonathan Quick,3rd
+11.0,30.0,Shot,Carson Soucy Wrist Shot saved by Jonathan Quick,3rd
+34.0,22.0,Shot,Jamie Oleksiak Wrist Shot saved by Jonathan Quick,3rd
+45.0,-37.0,Shot,Daniel Sprong Wrist Shot saved by Jonathan Quick,3rd
+83.0,-1.0,Missed Shot,Daniel Sprong Wide of Net Jonathan Quick,3rd
+83.0,7.0,Shot,Daniel Sprong Wrist Shot saved by Jonathan Quick,3rd
+41.0,-34.0,Shot,Adam Larsson Slap Shot saved by Jonathan Quick,3rd
+85.0,-7.0,Shot,Alex Wennberg Wrist Shot saved by Jonathan Quick,3rd
+59.0,-36.0,Shot,Adam Larsson Wrist Shot saved by Jonathan Quick,3rd
+50.0,-26.0,Shot,Jared McCann Wrist Shot saved by Jonathan Quick,3rd
+32.0,24.0,Missed Shot,Jamie Oleksiak Wide of Net Jonathan Quick,3rd
+52.0,-21.0,Missed Shot,Karson Kuhlman Wide of Net Jonathan Quick,3rd
+67.0,-2.0,Shot,Jared McCann Wrist Shot saved by Jonathan Quick,3rd
+86.0,8.0,Shot,Jamie Oleksiak Wrist Shot saved by Jonathan Quick,3rd
+27.0,-39.0,Shot,Yanni Gourde Wrist Shot saved by Jonathan Quick,3rd
+83.0,8.0,Missed Shot,Jordan Eberle Goalpost Jonathan Quick,3rd
+75.0,5.0,Shot,Matty Beniers Wrist Shot saved by Jonathan Quick,3rd
+63.0,26.0,Missed Shot,Daniel Sprong Goalpost Jonathan Quick,3rd
+43.0,-34.0,Shot,Riley Sheahan Slap Shot saved by Jonathan Quick,3rd
+24.0,39.0,Shot,Jared McCann Wrist Shot saved by Jonathan Quick,3rd
+77.0,13.0,Shot,Riley Sheahan Wrist Shot saved by Jonathan Quick,3rd
+72.0,-35.0,Missed Shot,Cale Fleury Wide of Net Jonathan Quick,3rd
