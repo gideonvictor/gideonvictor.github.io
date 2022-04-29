@@ -1,41 +1,48 @@
 x,y,event,description,ordinalNum
--77.0,-17.0,Shot,Lias Andersson Wrist Shot saved by Philipp Grubauer,1st
--21.0,0.0,Shot,Lias Andersson Tip-In saved by Philipp Grubauer,1st
--74.0,-13.0,Missed Shot,Andreas Athanasiou Wide of Net Philipp Grubauer,1st
--33.0,42.0,Missed Shot,Blake Lizotte Wide of Net Philipp Grubauer,2nd
--34.0,-16.0,Shot,Jordan Spence Wrist Shot saved by Philipp Grubauer,2nd
--88.0,5.0,Shot,Quinton Byfield Wrap-around saved by Philipp Grubauer,2nd
--54.0,18.0,Missed Shot,Carl Grundstrom Wide of Net Philipp Grubauer,2nd
--60.0,37.0,Shot,Brendan Lemieux Wrist Shot saved by Philipp Grubauer,2nd
--51.0,-25.0,Missed Shot,Trevor Moore Wide of Net Philipp Grubauer,2nd
--65.0,39.0,Shot,Trevor Moore Wrist Shot saved by Philipp Grubauer,2nd
--69.0,20.0,Shot,Blake Lizotte Wrist Shot saved by Philipp Grubauer,2nd
--67.0,-3.0,Missed Shot,Carl Grundstrom Wide of Net Philipp Grubauer,2nd
--60.0,-35.0,Shot,Jordan Spence Wrist Shot saved by Philipp Grubauer,2nd
--60.0,-29.0,Missed Shot,Carl Grundstrom Wide of Net Philipp Grubauer,2nd
--66.0,13.0,Shot,Gabriel Vilardi Wrist Shot saved by Philipp Grubauer,2nd
--81.0,34.0,Shot,Arthur Kaliyev Wrist Shot saved by Philipp Grubauer,2nd
--64.0,12.0,Goal,"Gabriel Vilardi (4) Slap Shot, assists: Blake Lizotte (14), Jacob Moverare (2)",2nd
--49.0,37.0,Shot,Arthur Kaliyev Wrist Shot saved by Philipp Grubauer,2nd
--48.0,-17.0,Shot,Andreas Athanasiou Wrist Shot saved by Philipp Grubauer,2nd
--75.0,7.0,Goal,"Phillip Danault (27) Wrist Shot, assists: Viktor Arvidsson (29), Andreas Athanasiou (6)",2nd
--32.0,-5.0,Shot,Sean Durzi Wrist Shot saved by Philipp Grubauer,2nd
--86.0,-4.0,Shot,Lias Andersson Wrist Shot saved by Philipp Grubauer,2nd
--84.0,-6.0,Shot,Lias Andersson Wrist Shot saved by Philipp Grubauer,2nd
--76.0,8.0,Goal,"Trevor Moore (17) Tip-In, assists: Matt Roy (19), Gabriel Vilardi (1)",2nd
--81.0,6.0,Shot,Andreas Athanasiou Wrist Shot saved by Philipp Grubauer,2nd
--50.0,-37.0,Shot,Arthur Kaliyev Wrist Shot saved by Philipp Grubauer,3rd
--67.0,1.0,Goal,"Lias Andersson (1) Wrist Shot, assists: Brendan Lemieux (4)",3rd
--66.0,6.0,Shot,Sean Durzi Wrist Shot saved by Philipp Grubauer,3rd
--89.0,-7.0,Missed Shot,Andreas Athanasiou Wide of Net Philipp Grubauer,3rd
--32.0,-1.0,Shot,Jordan Spence Wrist Shot saved by Philipp Grubauer,3rd
--88.0,-8.0,Shot,Gabriel Vilardi Wrap-around saved by Philipp Grubauer,3rd
--63.0,-2.0,Missed Shot,Arthur Kaliyev Over Net Philipp Grubauer,3rd
--43.0,-23.0,Shot,Mikey Anderson Wrist Shot saved by Philipp Grubauer,3rd
--70.0,-1.0,Shot,Phillip Danault Wrist Shot saved by Philipp Grubauer,3rd
--45.0,15.0,Missed Shot,Rasmus Kupari Wide of Net Philipp Grubauer,3rd
--78.0,33.0,Missed Shot,Arthur Kaliyev Wide of Net Philipp Grubauer,3rd
--8.0,18.0,Missed Shot,Viktor Arvidsson Wide of Net Philipp Grubauer,3rd
--60.0,12.0,Missed Shot,Gabriel Vilardi Over Net Philipp Grubauer,3rd
--74.0,-6.0,Goal,"Andreas Athanasiou (11) Wrist Shot, assists: Gabriel Vilardi (2), Mikey Anderson (6)",3rd
--14.0,23.0,Shot,Arthur Kaliyev Wrist Shot saved by Philipp Grubauer,3rd
+-35.0,-22.0,Shot,Sean Durzi Wrist Shot saved by Spencer Martin,1st
+-82.0,4.0,Missed Shot,Quinton Byfield Goalpost Spencer Martin,1st
+-80.0,-27.0,Shot,Sean Durzi Wrist Shot saved by Spencer Martin,1st
+-85.0,0.0,Shot,Adrian Kempe Wrist Shot saved by Spencer Martin,1st
+-34.0,-18.0,Shot,Andreas Athanasiou Snap Shot saved by Spencer Martin,1st
+-84.0,4.0,Shot,Anze Kopitar Snap Shot saved by Spencer Martin,1st
+-82.0,2.0,Shot,Anze Kopitar Backhand saved by Spencer Martin,1st
+-82.0,0.0,Shot,Adrian Kempe Backhand saved by Spencer Martin,1st
+-52.0,34.0,Shot,Arthur Kaliyev Wrist Shot saved by Spencer Martin,1st
+-60.0,9.0,Shot,Carl Grundstrom Snap Shot saved by Spencer Martin,1st
+-40.0,-23.0,Shot,Troy Stecher Slap Shot saved by Spencer Martin,1st
+-63.0,12.0,Shot,Sean Durzi Snap Shot saved by Spencer Martin,1st
+-54.0,-22.0,Shot,Adrian Kempe Slap Shot saved by Spencer Martin,1st
+-35.0,4.0,Missed Shot,Sean Durzi Wide of Net Spencer Martin,1st
+-53.0,-22.0,Missed Shot,Andreas Athanasiou Wide of Net Spencer Martin,1st
+-63.0,11.0,Shot,Alex Iafallo Slap Shot saved by Spencer Martin,1st
+-34.0,29.0,Shot,Jordan Spence Snap Shot saved by Spencer Martin,2nd
+-50.0,20.0,Shot,Mikey Anderson Wrist Shot saved by Spencer Martin,2nd
+-53.0,-14.0,Shot,Carl Grundstrom Wrist Shot saved by Spencer Martin,2nd
+-87.0,6.0,Shot,Brendan Lemieux Wrap-around saved by Spencer Martin,2nd
+-80.0,8.0,Shot,Dustin Brown Wrist Shot saved by Spencer Martin,2nd
+-83.0,14.0,Shot,Dustin Brown Snap Shot saved by Spencer Martin,2nd
+-63.0,-7.0,Shot,Andreas Athanasiou Snap Shot saved by Spencer Martin,2nd
+-83.0,-4.0,Shot,Blake Lizotte Deflected saved by Spencer Martin,2nd
+-77.0,10.0,Missed Shot,Dustin Brown Over Net Spencer Martin,2nd
+-75.0,1.0,Shot,Gabriel Vilardi Tip-In saved by Spencer Martin,2nd
+-50.0,23.0,Shot,Troy Stecher Wrist Shot saved by Spencer Martin,2nd
+-64.0,-7.0,Shot,Alex Iafallo Snap Shot saved by Spencer Martin,2nd
+-49.0,12.0,Goal,"Gabriel Vilardi (5) Wrist Shot, assists: Rasmus Kupari (8), Brendan Lemieux (5)",2nd
+-34.0,-33.0,Shot,Alexander Edler Snap Shot saved by Spencer Martin,2nd
+-67.0,-1.0,Missed Shot,Alex Iafallo Wide of Net Spencer Martin,2nd
+-44.0,-25.0,Missed Shot,Alex Iafallo Wide of Net Spencer Martin,2nd
+-85.0,-5.0,Missed Shot,Arthur Kaliyev Wide of Net Spencer Martin,2nd
+-69.0,-6.0,Goal,"Adrian Kempe (35) Wrist Shot, assists: Anze Kopitar (48), Olli Maatta (7)",2nd
+-42.0,-12.0,Shot,Adrian Kempe Snap Shot saved by Spencer Martin,3rd
+-39.0,25.0,Missed Shot,Arthur Kaliyev Wide of Net Spencer Martin,3rd
+-75.0,11.0,Missed Shot,Arthur Kaliyev Wide of Net Spencer Martin,3rd
+-82.0,20.0,Missed Shot,Andreas Athanasiou Over Net Spencer Martin,3rd
+-57.0,-12.0,Shot,Sean Durzi Snap Shot saved by Spencer Martin,3rd
+-39.0,-1.0,Shot,Adrian Kempe Snap Shot saved by Spencer Martin,3rd
+-83.0,-13.0,Shot,Dustin Brown Wrist Shot saved by Spencer Martin,3rd
+-40.0,17.0,Shot,Arthur Kaliyev Snap Shot saved by Spencer Martin,3rd
+-46.0,-13.0,Missed Shot,Jordan Spence Wide of Net Spencer Martin,3rd
+-77.0,-5.0,Shot,Blake Lizotte Snap Shot saved by Spencer Martin,OT
+-77.0,1.0,Shot,Andreas Athanasiou Backhand saved by Spencer Martin,OT
+-65.0,-14.0,Shot,Adrian Kempe Snap Shot saved by Spencer Martin,OT
+-59.0,-5.0,Missed Shot,Adrian Kempe Goalpost Spencer Martin,OT
