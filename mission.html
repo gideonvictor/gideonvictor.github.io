@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- specific plugin -->
+<script src="https://d3js.org/d3-hexbin.v0.2.min.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz">
+<img src="images/missionnn.png" width=1600px style="position:absolute;opacity:800%;z-index: -1"alt="" />
+</div>
+
+
+<script>
+
+// set the dimensions and margins of the graph
+var margin = {top: 75, right: 80, bottom: -300, left: 30},
+    width = 1600 - margin.left - margin.right,
+    height = 1600- margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+var svg = d3.select("#my_dataviz")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+// read data
+d3.csv("https://gideonvictor.com/outttt.csv", function(data) {
+
+  // Add X axis
+  var x = d3.scaleLinear()
+    .domain([-80000000, 80000000])
+    .range([ 0, width ]);
+  svg.append("g")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x));
+
+  // Add Y axis
+  var y = d3.scaleLinear()
+    .domain([-80000000, 80000000])
+    .range([ height, 0 ]);
+  svg.append("g")
+    .call(d3.axisLeft(y));
+
+  // Reformat the data: d3.hexbin() needs a specific format
+  var inputForHexbinFun = []
+  data.forEach(function(d) {
+    inputForHexbinFun.push( [x(d.x), y(d.y)] )  // Note that we had the transform value of X and Y !
+  })
+
+  // Prepare a color palette
+  var color = d3.scaleLinear()
+      .domain([0, 1000]) // Number of points in the bin?
+      .range(["transparent",  "#002775"])
+
+  // Compute the hexbin data
+  var hexbin = d3.hexbin()
+    .radius(20) // size of the bin in px
+    .extent([ [0, 0], [width, height] ])
+
+  // Plot the hexbins
+  svg.append("clipPath")
+      .attr("id", "clip")
+    .append("rect")
+      .attr("width", width)
+      .attr("height", height)
+
+  svg.append("g")
+    .attr("clip-path", "url(#clip)")
+    .selectAll("path")
+    .data( hexbin(inputForHexbinFun) )
+    .enter().append("path")
+      .attr("d", hexbin.hexagon())
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+      .attr("fill", function(d) { return color(d.length); })
+      .attr("stroke", "black")
+      .attr("stroke-width", "0.25")
+})
+</script>
