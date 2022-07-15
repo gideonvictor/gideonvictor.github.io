@@ -16,11 +16,12 @@
 <script>
 
 // set the dimensions and margins of the graph
-var margin = {top: 75, right: 80, bottom: -300, left: 30},
+var margin = {top: 82, right: 80, bottom: -280, left: 40},
     width = 1600 - margin.left - margin.right,
     height = 1600- margin.top - margin.bottom;
 
 // append the svg object to the body of the page
+
 var svg = d3.select("#my_dataviz")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -28,6 +29,7 @@ var svg = d3.select("#my_dataviz")
   .append("g")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
+
 
 // read data
 d3.csv("https://gideonvictor.com/outttt.csv", function(data) {
@@ -55,12 +57,12 @@ d3.csv("https://gideonvictor.com/outttt.csv", function(data) {
 
   // Prepare a color palette
   var color = d3.scaleLinear()
-      .domain([0, 1000]) // Number of points in the bin?
+      .domain([0, 600]) // Number of points in the bin?
       .range(["transparent",  "#002775"])
 
   // Compute the hexbin data
   var hexbin = d3.hexbin()
-    .radius(20) // size of the bin in px
+    .radius(10) // size of the bin in px
     .extent([ [0, 0], [width, height] ])
 
   // Plot the hexbins
