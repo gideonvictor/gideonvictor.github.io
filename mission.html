@@ -40,11 +40,11 @@
 
 
   // read data
-  d3.csv("https://gideonvictor.com/outttt.csv", function(data) {
+  d3.csv("https://gideonvictor.com/outttt_Archive_0.csv", function(data) {
     console.log(data)
     // Add X axis
     var x = d3.scaleLinear()
-      .domain([33.465415, 34.397954])
+      .domain([-80000000, 80000000])
       .range([ 0, width ]);
     svg.append("g")
       .attr("transform", "translate(0," + height + ")")
@@ -52,7 +52,7 @@
 
     // Add Y axis
     var y = d3.scaleLinear()
-      .domain([-118.590677, -117.58291760115])
+      .domain([-80000000, 80000000])
       .range([ height, 0 ]);
     svg.append("g")
       .call(d3.axisLeft(y));
