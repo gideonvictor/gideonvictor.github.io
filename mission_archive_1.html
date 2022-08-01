@@ -12,7 +12,7 @@
 <img src="images/missionnn.png" width=1600px style="position:absolute;opacity:50%;z-index: -1"alt="" />
 <div class="slidecontainer">
   <input type="range" min="1" max="20" value="sliderValue" class="slider" step =".1" id="myRange" />
-  <p id="sliderValueRee">Use the slider to expand or contract the hexagons</p>
+  <p id="sliderValueRee">a</p>
 </div>
 </div>
 
@@ -21,11 +21,11 @@
   var slider = document.getElementById("myRange");
 
   var output = document.getElementById("myRange");
-  console.log('output', output);
+  //console.log('output', output);
 
   // set the dimensions and margins of the graph
-  var margin = {top: 85, right: 110, bottom: 60, left: 205},
-      width = 1200 - margin.left - margin.right,
+  var margin = {top: 5, right: 75, bottom: -80, left: 35},
+      width = 1600 - margin.left - margin.right,
       height = 1710- margin.top - margin.bottom;
 
   // append the svg object to the body of the page
@@ -40,11 +40,11 @@
 
 
   // read data
-  d3.csv("https://gideonvictor.com/outttt.csv", function(data) {
-    // console.log(data)
+  d3.csv("https://gideonvictor.com/outttt_Archive_0.csv", function(data) {
+    console.log(data)
     // Add X axis
     var x = d3.scaleLinear()
-      .domain([-1177200,-1176252.18])
+      .domain([-80000000, 80000000])
       .range([ 0, width ]);
     svg.append("g")
       .attr("transform", "translate(0," + height + ")")
@@ -52,7 +52,7 @@
 
     // Add Y axis
     var y = d3.scaleLinear()
-      .domain([335300, 336700])
+      .domain([-80000000, 80000000])
       .range([ height, 0 ]);
     svg.append("g")
       .call(d3.axisLeft(y));
@@ -62,8 +62,12 @@
     data.forEach(function(d) {
       inputForHexbinFun.push( [x(d.x), y(d.y)] )  // Note that we had the transform value of X and Y !
     })
+
+  slider.oninput = function() {
+
+    d3.selectAll("g > *").remove()
     output.innerHTML = this.value;
-    // console.log('output', output.value);
+    //console.log('output', output.value);
     document.getElementById("sliderValueRee").value = output.value;
 
     hexbinnn = d3.hexbin()
@@ -74,23 +78,21 @@
 
     bins = hexbinnn(data)
     //ggg = d3.max(bins, d => d.length)
-    console.log(d3.max(bins, d => d.length))
+    //console.log(d3.max(bins, d => d.length))
 
     // Prepare a color palette
     var color = d3.scaleLinear()
       .domain([0, d3.max(bins, d => d.length)]) // Number of points in the bin?
-      // .domain([0, 100])
       .range(["#ff0000",  "#1E5162"])
 
     // Compute the hexbin data
     var hexbin = d3.hexbin()
       .radius(output.value) // size of the bin in px
-      // .radius(1)
       .extent([ [0, 0], [width, height] ])
 
     // console.log(color)
 
-    console.log(document.getElementById("my_dataviz"));
+    // console.log(document.getElementById("my_dataviz"));
 
     // Plot the hexbins
     svg.append("clipPath")
@@ -111,61 +113,9 @@
       .attr("stroke-width", "0.25")
 
 
-    slider.oninput = function() {
 
-      d3.selectAll("g > *").remove()
-      output.innerHTML = this.value;
-      console.log('output', output.value);
-      document.getElementById("sliderValueRee").value = output.value;
-
-      hexbinnn = d3.hexbin()
-          .x(d => x(d.x))
-          .y(d => y(d.y))
-          .radius(output.value)
-          .extent([[margin.left, margin.top], [width - margin.right, height - margin.bottom]])
-
-      bins = hexbinnn(data)
-      //ggg = d3.max(bins, d => d.length)
-      // console.log(d3.max(bins, d => d.length))
-
-      // Prepare a color palette
-      var color = d3.scaleLinear()
-        .domain([0, d3.max(bins, d => d.length)]) // Number of points in the bin?
-        // .domain([0, 100])
-        .range(["#ff0000",  "#1E5162"])
-
-      // Compute the hexbin data
-      var hexbin = d3.hexbin()
-        .radius(output.value) // size of the bin in px
-        // .radius(1)
-        .extent([ [0, 0], [width, height] ])
-
-      // console.log(color)
-
-      // console.log(document.getElementById("my_dataviz"));
-
-      // Plot the hexbins
-      svg.append("clipPath")
-        .attr("id", "clip")
-        .append("rect")
-        .attr("width", width)
-        .attr("height", height)
-
-      svg.append("g")
-        .attr("clip-path", "url(#clip)")
-        .selectAll("path")
-        .data( hexbin(inputForHexbinFun) )
-        .enter().append("path")
-        .attr("d", hexbin.hexagon())
-        .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-        .attr("fill", function(d) { return color(d.length); })
-        .attr("stroke", "black")
-        .attr("stroke-width", "0.25")
-
-
-
-        // console.log(d3.max(bins, d => d.length)*.5)
-      }
+      // console.log(d3.max(bins, d => d.length)*.5)
+    }
 
   })
 </script>
