@@ -80,7 +80,7 @@
     var color = d3.scaleLinear()
       .domain([0, d3.max(bins, d => d.length)]) // Number of points in the bin?
       // .domain([0, 100])
-      .range(["#ff0000",  "#1E5162"])
+      .range(["transparent",  "#1E5162"])
 
     // Compute the hexbin data
     var hexbin = d3.hexbin()
@@ -132,7 +132,7 @@
       var color = d3.scaleLinear()
         .domain([0, d3.max(bins, d => d.length)]) // Number of points in the bin?
         // .domain([0, 100])
-        .range(["#ff0000",  "#1E5162"])
+        .range(["transparent",  "#1E5162"])
 
       // Compute the hexbin data
       var hexbin = d3.hexbin()
