@@ -44,7 +44,8 @@
     // console.log(data)
     // Add X axis
     var x = d3.scaleLinear()
-      .domain([-1177200,-1176252.18])
+      .domain([-117720.0,-117625.218])
+      //.domain([-118590.678,-117601.0678])
       .range([ 0, width ]);
     svg.append("g")
       .attr("transform", "translate(0," + height + ")")
@@ -52,7 +53,8 @@
 
     // Add Y axis
     var y = d3.scaleLinear()
-      .domain([335300, 336700])
+      .domain([33530.0, 33670.0])
+      //.domain([33465.416, 34397.953])
       .range([ height, 0 ]);
     svg.append("g")
       .call(d3.axisLeft(y));
@@ -80,7 +82,7 @@
     var color = d3.scaleLinear()
       .domain([0, d3.max(bins, d => d.length)]) // Number of points in the bin?
       // .domain([0, 100])
-      .range(["transparent",  "#1E5162"])
+      .range(["#ff0000",  "#1E5162"])
 
     // Compute the hexbin data
     var hexbin = d3.hexbin()
@@ -132,7 +134,7 @@
       var color = d3.scaleLinear()
         .domain([0, d3.max(bins, d => d.length)]) // Number of points in the bin?
         // .domain([0, 100])
-        .range(["transparent",  "#1E5162"])
+        .range(["#ff0000",  "#1E5162"])
 
       // Compute the hexbin data
       var hexbin = d3.hexbin()
